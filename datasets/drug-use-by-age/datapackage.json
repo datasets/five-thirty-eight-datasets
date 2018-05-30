@@ -1,0 +1,174 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "drug-use-by-age",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "drug-use-by-age",
+            "path": "datasets\\drug-use-by-age\\data\\drug-use-by-age.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "n",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alcohol-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alcohol-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "marijuana-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "marijuana-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cocaine-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cocaine-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "crack-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "crack-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "heroin-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "heroin-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hallucinogen-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hallucinogen-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inhalant-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inhalant-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pain-releiver-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pain-releiver-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "oxycontin-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "oxycontin-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tranquilizer-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tranquilizer-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "stimulant-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "stimulant-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "meth-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "meth-frequency",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sedative-use",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sedative-frequency",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/drug-use-by-age",
+            "title": "FiveThirtyEight - Drug Use By Age"
+        }
+    ],
+    "title": "Drug Use By Age"
+}

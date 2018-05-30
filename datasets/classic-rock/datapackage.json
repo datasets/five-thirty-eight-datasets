@@ -1,0 +1,134 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "classic-rock",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "classic-rock-raw-data",
+            "path": "datasets\\classic-rock\\data\\classic-rock-raw-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "song raw",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "song clean",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "artist raw",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "artist clean",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "callsign",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "time",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unique_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "combined",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "first?",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "classic-rock-song-list",
+            "path": "datasets\\classic-rock\\data\\classic-rock-song-list.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "song clean",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "artist clean",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "release year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "combined",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "first?",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year?",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "playcount",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "f*g",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/classic-rock",
+            "title": "FiveThirtyEight - Classic Rock"
+        }
+    ],
+    "title": "Classic Rock"
+}

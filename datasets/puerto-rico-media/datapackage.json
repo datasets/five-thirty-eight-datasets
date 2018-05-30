@@ -1,0 +1,329 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "puerto-rico-media",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "google_trends",
+            "path": "datasets\\puerto-rico-media\\data\\google_trends.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "day",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hurricane harvey: (united states)",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hurricane irma: (united states)",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hurricane maria: (united states)",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hurricane jose: (united states)",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "mediacloud_hurricanes",
+            "path": "datasets\\puerto-rico-media\\data\\mediacloud_hurricanes.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "harvey",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "irma",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "maria",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jose",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "mediacloud_states",
+            "path": "datasets\\puerto-rico-media\\data\\mediacloud_states.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "texas",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "puerto rico",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "florida",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "mediacloud_top_online_news",
+            "path": "datasets\\puerto-rico-media\\data\\mediacloud_top_online_news.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "mediacloud_trump",
+            "path": "datasets\\puerto-rico-media\\data\\mediacloud_trump.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:puerto rico",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:puerto rico and (title:trump or title:president)",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:florida",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:florida and (title:trump or title:president)",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:texas",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title:texas and (title:trump or title:president)",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "tv_hurricanes",
+            "path": "datasets\\puerto-rico-media\\data\\tv_hurricanes.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "harvey",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "irma",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "maria",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jose",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "tv_hurricanes_by_network",
+            "path": "datasets\\puerto-rico-media\\data\\tv_hurricanes_by_network.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "query",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bbc news",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cnn",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fox news",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "msnbc",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "tv_states",
+            "path": "datasets\\puerto-rico-media\\data\\tv_states.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "florida",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "texas",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "puerto rico",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/puerto-rico-media",
+            "title": "FiveThirtyEight - Puerto Rico Media"
+        }
+    ],
+    "title": "Puerto Rico Media"
+}

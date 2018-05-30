@@ -1,0 +1,74 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "airline-safety",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "airline-safety",
+            "path": "datasets\\airline-safety\\data\\airline-safety.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "airline",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avail_seat_km_per_week",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "incidents_85_99",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatal_accidents_85_99",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatalities_85_99",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "incidents_00_14",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatal_accidents_00_14",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatalities_00_14",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/airline-safety",
+            "title": "FiveThirtyEight - Airline Safety"
+        }
+    ],
+    "title": "Airline Safety"
+}

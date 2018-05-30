@@ -1,0 +1,289 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "food-world-cup",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "food-world-cup-data",
+            "path": "datasets\\food-world-cup\\data\\food-world-cup-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "generally speaking",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how would you rate your level of knowledgeof cuisines from different parts of the world?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if at all",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "are you interested in cuisines from different parts of the world?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of algeria:",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of argentina.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine ofaustralia.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of belgium.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of bosnia and herzegovina.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of brazil.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of cameroon.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of chile.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of colombia.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of costa rica.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of croatia.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of ecuador.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of england.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of france.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of germany.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of ghana.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of greece.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of honduras.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of iran.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of italy.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of ivory coast.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of japan.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of mexico.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of the netherlands.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of nigeria.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of portugal.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of russia.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of south korea.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of spain.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of switzerland.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of united states.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of uruguay.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of china.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of india.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of thailand.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of turkey.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of cuba.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of ethiopia.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of vietnam.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rate how much you like the traditional cuisine of ireland.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/food-world-cup",
+            "title": "FiveThirtyEight - Food World Cup"
+        }
+    ],
+    "title": "Food World Cup"
+}

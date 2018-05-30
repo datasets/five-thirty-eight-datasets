@@ -1,0 +1,99 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "pulitzer",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "pulitzer-circulation-data",
+            "path": "datasets\\pulitzer\\data\\pulitzer-circulation-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "newspaper",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "daily circulation",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2004",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "daily circulation",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2013",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "change in daily circulation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2004-2013",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pulitzer prize winners and finalists",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "1990-2003",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pulitzer prize winners and finalists",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2004-2014",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pulitzer prize winners and finalists",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "1990-2014",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/pulitzer",
+            "title": "FiveThirtyEight - Pulitzer"
+        }
+    ],
+    "title": "Pulitzer"
+}

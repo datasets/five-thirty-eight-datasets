@@ -1,0 +1,44 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "riddler-pick-lowest",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "low_numbers",
+            "path": "datasets\\riddler-pick-lowest\\data\\low_numbers.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "your number",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show your work",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/riddler-pick-lowest",
+            "title": "FiveThirtyEight - Riddler Pick Lowest"
+        }
+    ],
+    "title": "Riddler Pick Lowest"
+}

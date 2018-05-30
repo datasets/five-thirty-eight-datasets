@@ -1,0 +1,109 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "murder_2016",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "murder_2015_final",
+            "path": "datasets\\murder_2016\\data\\murder_2015_final.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "city",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2014_murders",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2015_murders",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "change",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "murder_2016_prelim",
+            "path": "datasets\\murder_2016\\data\\murder_2016_prelim.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "city",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2015_murders",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2016_murders",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "change",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "source",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "as_of",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/murder_2016",
+            "title": "FiveThirtyEight - Murder_2016"
+        }
+    ],
+    "title": "Murder_2016"
+}

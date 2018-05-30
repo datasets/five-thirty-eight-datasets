@@ -1,0 +1,49 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "democratic-bench",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "democratic-bench",
+            "path": "datasets\\democratic-bench\\data\\democratic-bench.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "cand",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "raised_exp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "raised_act",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/democratic-bench",
+            "title": "FiveThirtyEight - Democratic Bench"
+        }
+    ],
+    "title": "Democratic Bench"
+}

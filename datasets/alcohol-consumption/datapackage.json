@@ -1,0 +1,59 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "alcohol-consumption",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "drinks",
+            "path": "datasets\\alcohol-consumption\\data\\drinks.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "beer_servings",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spirit_servings",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wine_servings",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total_litres_of_pure_alcohol",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/alcohol-consumption",
+            "title": "FiveThirtyEight - Alcohol Consumption"
+        }
+    ],
+    "title": "Alcohol Consumption"
+}

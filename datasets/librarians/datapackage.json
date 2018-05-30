@@ -1,0 +1,64 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "librarians",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "librarians-by-msa",
+            "path": "datasets\\librarians\\data\\librarians-by-msa.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "prim_state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "area_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tot_emp",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "emp_prse",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jobs_1000",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "loc_quotient",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/librarians",
+            "title": "FiveThirtyEight - Librarians"
+        }
+    ],
+    "title": "Librarians"
+}

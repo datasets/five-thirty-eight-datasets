@@ -1,0 +1,89 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "presidential-campaign-trail",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "clinton",
+            "path": "datasets\\presidential-campaign-trail\\data\\clinton.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lat",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lng",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "trump",
+            "path": "datasets\\presidential-campaign-trail\\data\\trump.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lat",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lng",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/presidential-campaign-trail",
+            "title": "FiveThirtyEight - Presidential Campaign Trail"
+        }
+    ],
+    "title": "Presidential Campaign Trail"
+}

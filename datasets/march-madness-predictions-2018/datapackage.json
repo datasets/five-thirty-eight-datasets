@@ -1,0 +1,114 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "march-madness-predictions-2018",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "fivethirtyeight_ncaa_forecasts",
+            "path": "datasets\\march-madness-predictions-2018\\data\\fivethirtyeight_ncaa_forecasts.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "forecast_date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "playin_flag",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd1_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd2_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd3_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd4_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd5_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd6_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rd7_win",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_alive",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_rating",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_region",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_seed",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/march-madness-predictions-2018",
+            "title": "FiveThirtyEight - March Madness Predictions 2018"
+        }
+    ],
+    "title": "March Madness Predictions 2018"
+}

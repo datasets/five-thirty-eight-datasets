@@ -1,0 +1,104 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-elo",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nfl_elo",
+            "path": "datasets\\nfl-elo\\data\\nfl_elo.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "season",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "neutral",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "playoff",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo1_pre",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo2_pre",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_prob1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_prob2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo1_post",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo2_post",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score2",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-elo",
+            "title": "FiveThirtyEight - Nfl Elo"
+        }
+    ],
+    "title": "Nfl Elo"
+}

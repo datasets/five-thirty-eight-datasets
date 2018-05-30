@@ -1,0 +1,94 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "hate-crimes",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "hate_crimes",
+            "path": "datasets\\hate-crimes\\data\\hate_crimes.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median_household_income",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_unemployed_seasonal",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_population_in_metro_areas",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_population_with_high_school_degree",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_non_citizen",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_white_poverty",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gini_index",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_non_white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_voters_voted_trump",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hate_crimes_per_100k_splc",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avg_hatecrimes_per_100k_fbi",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/hate-crimes",
+            "title": "FiveThirtyEight - Hate Crimes"
+        }
+    ],
+    "title": "Hate Crimes"
+}

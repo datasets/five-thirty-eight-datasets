@@ -1,0 +1,69 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "special-elections",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "special-elections",
+            "path": "datasets\\special-elections\\data\\special-elections.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "race",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "% bachelor's degree or higher",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "clinton margin improvement over obama",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2017-2018 dem margin improvement over partisan lean",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/special-elections",
+            "title": "FiveThirtyEight - Special Elections"
+        }
+    ],
+    "title": "Special Elections"
+}

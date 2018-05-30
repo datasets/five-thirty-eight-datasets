@@ -1,0 +1,169 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "inconvenient-sequel",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "ratings",
+            "path": "datasets\\inconvenient-sequel\\data\\ratings.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "respondents",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "link",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mean",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "1_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "3_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "4_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "5_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "6_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "7_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "8_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "9_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "10_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "1_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "2_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "3_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "4_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "5_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "6_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "7_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "8_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "9_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "10_pct",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/inconvenient-sequel",
+            "title": "FiveThirtyEight - Inconvenient Sequel"
+        }
+    ],
+    "title": "Inconvenient Sequel"
+}

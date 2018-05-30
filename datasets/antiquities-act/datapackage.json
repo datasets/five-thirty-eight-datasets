@@ -1,0 +1,79 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "antiquities-act",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "actions_under_antiquities_act",
+            "path": "datasets\\antiquities-act\\data\\actions_under_antiquities_act.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "current_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "states",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "original_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "current_agency",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "action",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pres_or_congress",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "acres_affected",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/antiquities-act",
+            "title": "FiveThirtyEight - Antiquities Act"
+        }
+    ],
+    "title": "Antiquities Act"
+}

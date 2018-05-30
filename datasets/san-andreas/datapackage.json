@@ -1,0 +1,114 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "san-andreas",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "earthquake_data",
+            "path": "datasets\\san-andreas\\data\\earthquake_data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "in general",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how worried are you about earthquakes?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how worried are you about the big one",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "a massive",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "catastrophic earthquake?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you think the big one will occur in your lifetime?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever experienced an earthquake?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you or anyone in your household taken any precautions for an earthquake (packed an earthquake survival kit",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prepared an evacuation plan",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc.)?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how familiar are you with the san andreas fault line?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how familiar are you with the yellowstone supervolcano?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is your gender?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much total combined money did all members of your household earn last year?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "us region",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/san-andreas",
+            "title": "FiveThirtyEight - San Andreas"
+        }
+    ],
+    "title": "San Andreas"
+}

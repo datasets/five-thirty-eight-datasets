@@ -1,0 +1,209 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "trump-approval-ratings",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "approval_polllist",
+            "path": "datasets\\trump-approval-ratings\\data\\approval_polllist.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "president",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "subgroup",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "modeldate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "startdate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "enddate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grade",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "samplesize",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "population",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "weight",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "influence",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adjusted_approve",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adjusted_disapprove",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "multiversions",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tracking",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poll_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "question_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "createddate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "approval_topline",
+            "path": "datasets\\trump-approval-ratings\\data\\approval_topline.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "president",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "subgroup",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "modeldate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve_estimate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve_hi",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve_lo",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove_estimate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove_hi",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove_lo",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/trump-approval-ratings",
+            "title": "FiveThirtyEight - Trump Approval Ratings"
+        }
+    ],
+    "title": "Trump Approval Ratings"
+}

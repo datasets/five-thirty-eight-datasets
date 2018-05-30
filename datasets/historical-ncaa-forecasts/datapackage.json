@@ -1,0 +1,64 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "historical-ncaa-forecasts",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "historical-538-ncaa-tournament-model-results",
+            "path": "datasets\\historical-ncaa-forecasts\\data\\historical-538-ncaa-tournament-model-results.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "favorite",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "underdog",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "favorite_probability",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "favorite_win_flag",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/historical-ncaa-forecasts",
+            "title": "FiveThirtyEight - Historical Ncaa Forecasts"
+        }
+    ],
+    "title": "Historical Ncaa Forecasts"
+}

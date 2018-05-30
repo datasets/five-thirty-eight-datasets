@@ -1,0 +1,109 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "unisex-names",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "aging_curve",
+            "path": "datasets\\unisex-names\\data\\aging_curve.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "decade",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "male",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "female",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "male_perct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "female_perct",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "unisex_names_table",
+            "path": "datasets\\unisex-names\\data\\unisex_names_table.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "male_share",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "female_share",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gap",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/unisex-names",
+            "title": "FiveThirtyEight - Unisex Names"
+        }
+    ],
+    "title": "Unisex Names"
+}

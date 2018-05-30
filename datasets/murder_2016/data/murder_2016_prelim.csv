@@ -1,0 +1,80 @@
+city,state,2015_murders,2016_murders,change,source,as_of
+chicago,illinois,378,536,158,https://portal.chicagopolice.org/portal/page/portal/clearpath/news/crime%20statistics,10/2/2016
+orlando,florida,19,73,54,opd ,9/22/2016
+memphis,tennessee,114,158,44,mpd,9/11/2016
+phoenix,arizona,72,111,39,ppd ,8/31/2016
+las vegas,nevada,90,125,35,http://www.lvmpd.com/sections/homicide/homicidelog/tabid/454/default.aspx,9/28/2016
+san antonio,texas,78,111,33,sapd ,9/26/2016
+louisville,kentucky,52,79,27,https://louisvilleky.gov/government/police/lmpd-transparency,8/31/2016
+dallas,texas,95,118,23,dpd,8/31/2016
+houston,texas,191,212,21,http://www.houstontx.gov/police/cs/index-2.htm,8/31/2016
+fort wayne,indiana,17,34,17,fwpd ,9/26/2016
+atlanta,georgia,68,85,17,http://www.atlantapd.org/crimedatadownloads.aspx,9/24/2016
+indianapolis,indiana,102,117,15,ipd ,10/2/2016
+austin,texas,13,28,15,http://www.austintexas.gov/page/chiefs-monthly-reports,8/31/2016
+kansas city,missouri,77,90,13,http://kcmo.gov/police/homicide-3/crime-stats/,10/4/2016
+arlington,texas,4,17,13,http://www.arlington-tx.gov/police/wp-content/uploads/sites/9/2016/08/ucr-crime-summary.pdf,8/31/2016
+san jose,california,22,35,13,http://www.sjpd.org/crimestats/updates/part_one_crimes_reported_ytd.pdf?cacheid=20160921,8/31/2016
+albuquerque,new mexico,35,46,11,apd ,9/21/2016
+jacksonville,florida,67,78,11,jpso ,9/21/2016
+santa ana,california,10,20,10,sapd ,9/21/2016
+tulsa,oklahoma,43,52,9,tpd ,9/27/2016
+lincoln,nebraska,0,9,9,http://www.lincoln.ne.gov/city/police/stats/stats.htm,8/31/2016
+stockton,california,30,38,8,spd ,9/21/2016
+anchorage,alaska,19,26,7,apd ,9/27/2016
+buffalo,new york,31,38,7,http://www.bpdny.org/home/statistics,9/24/2016
+san diego,california,23,30,7,http://crimestats.arjis.org/default.aspx,8/31/2016
+mobile,alabama,6,12,6,https://www.mobilepd.org/precinct/pdf/ucr_april_public.pdf,4/30/2016
+greensboro,north carolina,15,20,5,http://www.greensboro-nc.gov/modules/showdocument.aspx?documentid=29678,10/2/2016
+durham,north carolina,25,30,5,https://durhamnc.gov/archivecenter/viewfile/item/2419,10/1/2016
+detroit,michigan,216,221,5,dpd ,9/25/2016
+st. petersburg,florida,9,14,5,sppd ,8/31/2016
+philadelphia,pennsylvania,209,213,4,https://www.phillypolice.com/crime-maps-stats/,10/4/2016
+long beach,california,25,29,4,http://homicide.latimes.com/neighborhood/long-beach/year/2016,9/20/2016
+lexington,kentucky,13,16,3,lpd ,9/28/2016
+aurora,colorado,13,16,3,apd ,9/21/2016
+jersey city,new jersey,11,14,3,http://www.njjcpd.org/node/5,8/31/2016
+plano,texas,2,5,3,http://www.plano.gov/documentcenter/view/119,8/31/2016
+colorado springs,colorado,12,15,3,http://www.krdo.com/news/local-news/springs-womans-shooting-death-ruled-homicide-/73436432,8/2/2016
+toledo,ohio,5,8,3,tpd ,6/24/2016
+el paso,texas,12,14,2,elpd ,9/21/2016
+laredo,texas,7,9,2,lpd ,9/21/2016
+nashville,tennessee,47,49,2,npd ,9/21/2016
+oklahoma city,oklahoma,28,30,2,okcpd ,6/30/2016
+henderson,nevada,1,3,2,hpd ,4/30/2016
+chandler,arizona,2,3,1,cpd ,9/21/2016
+denver,colorado,32,33,1,https://www.denvergov.org/content/dam/denvergov/portals/720/documents/statistics/2016/ucr_citywide_reported_offenses_2016.pdf,8/31/2016
+riverside,california,6,7,1,http://www.riversideca.gov/rpd/crstats/cstats.asp,8/31/2016
+bakersfield,california,21,22,1,bpd ,6/23/2016
+boston,massachusetts,28,28,0,bpd ,9/27/2016
+cincinnati,ohio,50,50,0,http://www.cincinnati-oh.gov/police/crime-statistics/city-wide-stars-report/,9/24/2016
+pittsburgh,pennsylvania,46,46,0,ppd ,9/21/2016
+columbus,ohio,71,70,-1,cpd ,9/24/2016
+raleigh,north carolina,8,7,-1,rpd ,7/17/2016
+corpus christi,texas,10,9,-1,ccpd ,6/24/2016
+charlotte-mecklenburg,north carolina,27,25,-2,http://charlottenc.gov/cmpd/safety/pages/crimestats.aspx,6/30/2016
+new orleans,louisiana,130,127,-3,nopd ,9/27/2016
+san francisco,california,35,32,-3,sfpd ,9/27/2016
+seattle,washington,17,14,-3,http://www.seattle.gov/seattle-police-department/crime-data/crime-dashboard,8/31/2016
+st. louis,missouri,136,133,-3,http://www.slmpd.org/crime_stats.shtml,8/31/2016
+honolulu,hawaii,12,9,-3,hpd ,6/30/2016
+wichita,kansas,13,10,-3,mcca,6/30/2016
+virginia beach,virginia,17,13,-4,https://eprodmz.vbgov.com/mainui/crimes/crimesearch.aspx,9/30/2016
+newark,new jersey,76,72,-4,http://npd.newarkpublicsafety.org/comstat,9/25/2016
+los angeles,california,209,205,-4,http://assets.lapdonline.org/assets/pdf/cityprof.pdf,9/17/2016
+chula vista,california,5,1,-4,http://crimestats.arjis.org/default.aspx,8/31/2016
+portland,oregon,19,14,-5,ppd ,9/21/2016
+tucson,arizona,23,18,-5,tpd ,9/21/2016
+anaheim,california,10,4,-6,apd ,6/27/2016
+cleveland,ohio,96,89,-7,cpd ,9/26/2016
+minneapolis,minnesota,34,26,-8,http://www.minneapolismn.gov/police/statistics/crime-statistics_codefor_arrests,10/3/2016
+sacramento,california,31,21,-10,spd ,9/22/2016
+fresno,california,30,19,-11,http://www.fresno.gov/cityoffresno/templates/standardtemplate.aspx?nrmode=published&nrnodeguid=%7ba9d853fb-eba4-4900-8435-b880d98ae480%7d&nroriginalurl=%2fgovernment%2fdepartmentdirectory%2fpolice%2faboutfresnopd%2fcrimereportsandstatistics%2fmonthlycrimestatistics%2ehtm&nrcachehint=guest,7/31/2016
+fort worth,texas,61,49,-12,fwpd ,9/27/2016
+oakland,california,65,52,-13,http://www2.oaklandnet.com/government/o/opd/s/statistics/index.htm,10/2/2016
+washington,d.c.,119,105,-14,http://mpdc.dc.gov/page/district-crime-data-glance,9/30/2016
+new york,new york,266,252,-14,https://compstat.nypdonline.org/,9/25/2016
+omaha,nebraska,34,20,-14,http://dataomaha.com/homicides,9/5/2016
+miami,florida,62,45,-17,mpd ,9/21/2016
+baltimore,maryland,249,230,-19,https://data.baltimorecity.gov/public-safety/summarized-crime-data-by-district-week-26/4nh3-w6zf,10/1/2016
+milwaukee,wisconsin,105,84,-21,http://itmdapps.milwaukee.gov/publicapplication_sr/policedistrict/policedistrictfm.faces,9/28/2016

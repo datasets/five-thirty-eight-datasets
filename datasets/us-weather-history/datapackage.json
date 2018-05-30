@@ -1,0 +1,819 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "us-weather-history",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KCLT",
+            "path": "datasets\\us-weather-history\\data\\KCLT.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KCQT",
+            "path": "datasets\\us-weather-history\\data\\KCQT.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KHOU",
+            "path": "datasets\\us-weather-history\\data\\KHOU.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KIND",
+            "path": "datasets\\us-weather-history\\data\\KIND.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KJAX",
+            "path": "datasets\\us-weather-history\\data\\KJAX.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KMDW",
+            "path": "datasets\\us-weather-history\\data\\KMDW.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KNYC",
+            "path": "datasets\\us-weather-history\\data\\KNYC.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KPHL",
+            "path": "datasets\\us-weather-history\\data\\KPHL.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KPHX",
+            "path": "datasets\\us-weather-history\\data\\KPHX.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "KSEA",
+            "path": "datasets\\us-weather-history\\data\\KSEA.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_mean_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_min_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_max_temp_year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actual_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "average_precipitation",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "record_precipitation",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/us-weather-history",
+            "title": "FiveThirtyEight - Us Weather History"
+        }
+    ],
+    "title": "Us Weather History"
+}

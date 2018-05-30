@@ -1,0 +1,79 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nba-draft-2015",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "historical_projections",
+            "path": "datasets\\nba-draft-2015\\data\\historical_projections.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "player",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "position",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "draft year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "projected spm",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "superstar",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "starter",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "role player",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bust",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nba-draft-2015",
+            "title": "FiveThirtyEight - Nba Draft 2015"
+        }
+    ],
+    "title": "Nba Draft 2015"
+}

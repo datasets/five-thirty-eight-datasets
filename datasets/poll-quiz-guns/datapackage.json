@@ -1,0 +1,79 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "poll-quiz-guns",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "guns-polls",
+            "path": "datasets\\poll-quiz-guns\\data\\guns-polls.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "question",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "start",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "end",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "population",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "support",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "republican support",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "democratic support",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/poll-quiz-guns",
+            "title": "FiveThirtyEight - Poll Quiz Guns"
+        }
+    ],
+    "title": "Poll Quiz Guns"
+}

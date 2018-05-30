@@ -1,0 +1,59 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "daily-show-guests",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "daily_show_guests",
+            "path": "datasets\\daily-show-guests\\data\\daily_show_guests.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "googleknowlege_occupation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "group",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "raw_guest_list",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/daily-show-guests",
+            "title": "FiveThirtyEight - Daily Show Guests"
+        }
+    ],
+    "title": "Daily Show Guests"
+}

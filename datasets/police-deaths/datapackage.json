@@ -1,0 +1,119 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "police-deaths",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "all_data",
+            "path": "datasets\\police-deaths\\data\\all_data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "person",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dept",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "eow",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cause",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "clean_data",
+            "path": "datasets\\police-deaths\\data\\clean_data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "person",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dept",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "eow",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cause",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cause_short",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "canine",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dept_name",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/police-deaths",
+            "title": "FiveThirtyEight - Police Deaths"
+        }
+    ],
+    "title": "Police Deaths"
+}

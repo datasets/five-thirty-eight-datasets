@@ -1,0 +1,74 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "bad-drivers",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "bad-drivers",
+            "path": "datasets\\bad-drivers\\data\\bad-drivers.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number of drivers involved in fatal collisions per billion miles",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage of drivers involved in fatal collisions who were speeding",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage of drivers involved in fatal collisions who were alcohol-impaired",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage of drivers involved in fatal collisions who were not distracted",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage of drivers involved in fatal collisions who had not been involved in any previous accidents",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "car insurance premiums ($)",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "losses incurred by insurance companies for collisions per insured driver ($)",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/bad-drivers",
+            "title": "FiveThirtyEight - Bad Drivers"
+        }
+    ],
+    "title": "Bad Drivers"
+}

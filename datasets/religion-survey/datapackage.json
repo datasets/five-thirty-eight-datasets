@@ -1,0 +1,699 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "religion-survey",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "religion-survey-results",
+            "path": "datasets\\religion-survey\\data\\religion-survey-results.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "what is your present religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if any?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you consider yourself to be an evangelical?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you attend religious services",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: pray in public with visible motions (sign of the cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bowing",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prostration",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "shokeling",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: pray in public using some kind of physical object (rosary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tefillin",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: pray aloud before meals in the presence of people who don't belong to your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: tell someone you'll pray for him or her",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: ask or offer to pray with someone",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: bring up your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: ask others about their religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: decline some kind of food or beverage for religious reasons (kosher",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "halal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fasting rules",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: wear religious clothing/jewelry (hijab",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kippah",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wig",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kara",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turban",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you: participate in a public religious event on the streets (corpus christi procession",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inauguration of torah scrolls",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: pray in public with visible motions (sign of the cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bowing",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prostration",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "shokeling",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: pray in public using some kind of physical object (rosary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tefillin",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: pray aloud before meals in the presence of people who don't belong to your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: tell someone you'll pray for him or her",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: ask or offer to pray with someone",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: bring up your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: ask others about their religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: decline some kind of food or beverage for religious reasons (kosher",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "halal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fasting rules",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: wear religious clothing/jewelry (hijab",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kippah",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wig",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kara",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turban",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you feel when you: participate in a public religious event on the streets (corpus christi procession",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inauguration of torah scrolls",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: pray in public with visible motions (sign of the cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bowing",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prostration",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "shokeling",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: pray in public using some kind of physical object (rosary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tefillin",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: pray aloud before meals in the presence of people who don't belong to your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: tell someone you'll pray for him or her",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: ask or offer to pray with someone",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: bring up your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: ask others about their religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: decline some kind of food or beverage for religious reasons (kosher",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "halal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fasting rules",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: wear religious clothing/jewelry (hijab",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kippah",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wig",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kara",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turban",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable do you think someone outside your religion would be if they saw you: participate in a public religious event on the streets (corpus christi procession",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inauguration of torah scrolls",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: pray in public with visible motions (sign of the cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bowing",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prostration",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "shokeling",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: pray in public using some kind of physical object (rosary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tefillin",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: pray aloud before meals in the presence of people who don't belong to that religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: tell someone i'll pray for you",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: ask or offer to pray with you",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: bring up his or her own religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: ask you about your religion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unprompted",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in conversation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: decline some kind of food or beverage for religious reasons (kosher",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "halal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fasting rules",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: wear religious clothing/jewelry (hijab",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kippah",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wig",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kara",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turban",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cross",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how comfortable would you be seeing someone who practices a different religion from you: participate in a public religious event on the streets (corpus christi procession",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "inauguration of torah scrolls",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "etc)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is your age?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is your gender?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much total combined money did all members of your household earn last year?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "us region",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/religion-survey",
+            "title": "FiveThirtyEight - Religion Survey"
+        }
+    ],
+    "title": "Religion Survey"
+}

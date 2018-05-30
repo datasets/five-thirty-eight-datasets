@@ -1,0 +1,78 @@
+rank,major_code,major,major_category,total,men,women,sharewomen,median
+1,2419,petroleum engineering,engineering,2339,2057,282,0.120564344,110000
+2,2416,mining and mineral engineering,engineering,756,679,77,0.101851852,75000
+3,2415,metallurgical engineering,engineering,856,725,131,0.153037383,73000
+4,2417,naval architecture and marine engineering,engineering,1258,1123,135,0.107313196,70000
+5,2418,nuclear engineering,engineering,2573,2200,373,0.144966965,65000
+6,2405,chemical engineering,engineering,32260,21239,11021,0.341630502,65000
+7,5001,astronomy and astrophysics,physical sciences,1792,832,960,0.535714286,62000
+8,2414,mechanical engineering,engineering,91227,80320,10907,0.119558903,60000
+9,2401,aerospace engineering,engineering,15058,12953,2105,0.139792801,60000
+10,2408,electrical engineering,engineering,81527,65511,16016,0.196450256,60000
+11,2407,computer engineering,engineering,41542,33258,8284,0.199412643,60000
+12,5008,materials science,engineering,4279,2949,1330,0.310820285,60000
+13,2404,biomedical engineering,engineering,14955,8407,6548,0.437846874,60000
+14,2409,engineering mechanics physics and science,engineering,4321,3526,795,0.183985189,58000
+15,2402,biological engineering,engineering,8925,6062,2863,0.320784314,57100
+16,2412,industrial and manufacturing engineering,engineering,18968,12453,6515,0.343473218,57000
+17,2400,general engineering,engineering,61152,45683,15469,0.252959838,56000
+18,2403,architectural engineering,engineering,2825,1835,990,0.350442478,54000
+19,2102,computer science,computers & mathematics,128319,99743,28576,0.222695002,53000
+20,2502,electrical engineering technology,engineering,11565,8181,3384,0.292607004,52000
+21,2413,materials engineering and materials science,engineering,2993,2020,973,0.325091881,52000
+22,2499,miscellaneous engineering,engineering,9133,7398,1735,0.189970437,50000
+23,2406,civil engineering,engineering,53153,41081,12072,0.227117943,50000
+24,2500,engineering technologies,engineering,3600,2695,905,0.251388889,50000
+25,2411,geological and geophysical engineering,engineering,720,488,232,0.322222222,50000
+26,2410,environmental engineering,engineering,4047,2662,1385,0.342228811,50000
+27,6107,nursing,health,209394,21773,187621,0.896018988,48000
+28,2503,industrial production technologies,engineering,4631,3477,1154,0.24919024,46000
+29,5102,nuclear, industrial radiology, and biological technologies,physical sciences,2116,528,1588,0.75047259,46000
+30,2105,information sciences,computers & mathematics,11913,9005,2908,0.244103081,45000
+31,2100,computer and information systems,computers & mathematics,36698,27392,9306,0.253583302,45000
+32,5007,physics,physical sciences,32142,23080,9062,0.281936407,45000
+33,3701,applied mathematics,computers & mathematics,4939,2794,2145,0.434298441,45000
+34,3700,mathematics,computers & mathematics,72397,39956,32441,0.448098678,45000
+35,3702,statistics and decision science,computers & mathematics,6251,2960,3291,0.526475764,45000
+36,3607,pharmacology,biology & life science,1762,515,1247,0.707718502,45000
+37,6105,medical technologies technicians,health,15914,3916,11998,0.75392736,45000
+38,5006,oceanography,physical sciences,2418,752,1666,0.688999173,44700
+39,2501,engineering and industrial management,engineering,2906,2400,506,0.174122505,44000
+40,4005,mathematics and computer science,computers & mathematics,609,500,109,0.178981938,42000
+41,6104,medical assisting services,health,11123,803,10320,0.927807246,42000
+42,2101,computer programming and data processing,computers & mathematics,4168,3046,1122,0.269193858,41300
+43,4006,cognitive science and biopsychology,biology & life science,3831,1667,2164,0.56486557,41000
+44,2504,mechanical engineering related technologies,engineering,4790,4419,371,0.077453027,40000
+45,2599,miscellaneous engineering technologies,engineering,8804,7043,1761,0.200022717,40000
+46,5000,physical sciences,physical sciences,1436,894,542,0.377437326,40000
+47,1401,architecture,engineering,46420,25463,20957,0.451464886,40000
+48,3605,genetics,biology & life science,3635,1761,1874,0.515543329,40000
+49,3603,molecular biology,biology & life science,18300,7426,10874,0.59420765,40000
+50,6108,pharmacy pharmaceutical sciences and administration,health,23551,8697,14854,0.630716318,40000
+51,5003,chemistry,physical sciences,66530,32923,33607,0.505140538,39000
+52,3606,microbiology,biology & life science,15232,6383,8849,0.580948004,38000
+53,2106,computer administration management and security,computers & mathematics,8066,6607,1459,0.180882718,37500
+54,3601,biochemical sciences,biology & life science,39107,18951,20156,0.515406449,37400
+55,3602,botany,biology & life science,1329,626,703,0.52896915,37000
+56,2107,computer networking and telecommunications,computers & mathematics,7613,5291,2322,0.305004597,36400
+57,5004,geology and earth science,physical sciences,10972,5813,5159,0.470196865,36200
+58,5005,geosciences,physical sciences,1978,809,1169,0.591001011,36000
+59,6199,miscellaneous health medical professions,health,13386,1589,11797,0.881293889,36000
+60,1301,environmental science,biology & life science,25965,10787,15178,0.584556133,35600
+61,5002,atmospheric sciences and meteorology,physical sciences,4043,2744,1299,0.321296067,35000
+62,2001,communication technologies,computers & mathematics,18035,11431,6604,0.366176878,35000
+63,5098,multi-disciplinary or general science,physical sciences,62052,27015,35037,0.564639335,35000
+64,3608,physiology,biology & life science,22060,8422,13638,0.618223028,35000
+65,3611,neuroscience,biology & life science,13663,4944,8719,0.63814682,35000
+66,6103,health and medical administrative services,health,18109,4266,13843,0.764426528,35000
+67,4002,nutrition sciences,health,18909,2563,16346,0.864456079,35000
+68,6110,community and public health,health,19735,4103,15632,0.792095262,34000
+69,3699,miscellaneous biology,biology & life science,10706,4747,5959,0.556603774,33500
+70,6106,health and medical preparatory programs,health,12740,5521,7219,0.566640502,33500
+71,3600,biology,biology & life science,280709,111762,168947,0.601858152,33400
+72,3604,ecology,biology & life science,9154,3878,5276,0.576360061,33000
+73,6109,treatment therapy professions,health,48491,13487,35004,0.721865913,33000
+74,6100,general medical and health services,health,33599,7574,26025,0.774576624,32400
+75,6102,communication disorders sciences and services,health,38279,1225,37054,0.967998119,28000
+76,3609,zoology,biology & life science,8409,3050,5359,0.637293376,26000
+

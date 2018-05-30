@@ -1,0 +1,109 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "bechdel",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "movies",
+            "path": "datasets\\bechdel\\data\\movies.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "test",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "clean_test",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "binary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "budget",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "domgross",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "intgross",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "code",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "budget_2013$",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "domgross_2013$",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "intgross_2013$",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "period code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "decade code",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/bechdel",
+            "title": "FiveThirtyEight - Bechdel"
+        }
+    ],
+    "title": "Bechdel"
+}

@@ -1,0 +1,114 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-ticket-prices",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "2014-average-ticket-price",
+            "path": "datasets\\nfl-ticket-prices\\data\\2014-average-ticket-price.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "event",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "division",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avg tp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "$",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "jets-buyer",
+            "path": "datasets\\nfl-ticket-prices\\data\\jets-buyer.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "raiders at jets 9/7/14",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "national-average",
+            "path": "datasets\\nfl-ticket-prices\\data\\national-average.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "genre",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avg tp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "$",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-ticket-prices",
+            "title": "FiveThirtyEight - Nfl Ticket Prices"
+        }
+    ],
+    "title": "Nfl Ticket Prices"
+}

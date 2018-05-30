@@ -1,0 +1,49 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "trump-news",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "trump_news_data",
+            "path": "datasets\\trump-news\\data\\trump_news_data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "detail",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/trump-news",
+            "title": "FiveThirtyEight - Trump News"
+        }
+    ],
+    "title": "Trump News"
+}

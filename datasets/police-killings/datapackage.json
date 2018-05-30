@@ -1,0 +1,204 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "police-killings",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "police_killings",
+            "path": "datasets\\police-killings\\data\\police_killings.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "raceethnicity",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "month",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "day",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "streetaddress",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "city",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "latitude",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "longitude",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state_fp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "county_fp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tract_ce",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "geo_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "county_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "namelsad",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lawenforcementagency",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cause",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "armed",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pop",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_black",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "share_hispanic",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "p_income",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "h_income",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "county_income",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "comp_income",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "county_bucket",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nat_bucket",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pov",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "urate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "college",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/police-killings",
+            "title": "FiveThirtyEight - Police Killings"
+        }
+    ],
+    "title": "Police Killings"
+}

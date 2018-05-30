@@ -1,0 +1,54 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "undefeated-boxers",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "undefeated",
+            "path": "datasets\\undefeated-boxers\\data\\undefeated.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wins",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/undefeated-boxers",
+            "title": "FiveThirtyEight - Undefeated Boxers"
+        }
+    ],
+    "title": "Undefeated Boxers"
+}

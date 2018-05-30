@@ -1,0 +1,94 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "goose",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "goose_rawdata",
+            "path": "datasets\\goose\\data\\goose_rawdata.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "league",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "goose_eggs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "broken_eggs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mehs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "league_average_gpct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ppf",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "replacement_gpct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gwar",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "key_retro",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/goose",
+            "title": "FiveThirtyEight - Goose"
+        }
+    ],
+    "title": "Goose"
+}

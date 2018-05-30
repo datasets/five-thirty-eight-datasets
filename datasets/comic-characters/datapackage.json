@@ -1,0 +1,179 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "comic-characters",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "dc-wikia-data",
+            "path": "datasets\\comic-characters\\data\\dc-wikia-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "page_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "urlslug",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "align",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "eye",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hair",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sex",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gsm",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alive",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "appearances",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "first appearance",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "marvel-wikia-data",
+            "path": "datasets\\comic-characters\\data\\marvel-wikia-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "page_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "urlslug",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "align",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "eye",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hair",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sex",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gsm",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alive",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "appearances",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "first appearance",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/comic-characters",
+            "title": "FiveThirtyEight - Comic Characters"
+        }
+    ],
+    "title": "Comic Characters"
+}

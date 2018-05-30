@@ -1,0 +1,69 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "ahca-polls",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "ahca_polls",
+            "path": "datasets\\ahca-polls\\data\\ahca_polls.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "start",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "end",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "favor",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "oppose",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "text",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/ahca-polls",
+            "title": "FiveThirtyEight - Ahca Polls"
+        }
+    ],
+    "title": "Ahca Polls"
+}

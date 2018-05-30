@@ -1,0 +1,254 @@
+year,round,favorite,underdog,favorite_probability,favorite_win_flag
+2014,2,texas,arizona state,0.501,1
+2013,2,illinois,colorado,0.504,1
+2013,1,james madison,long island,0.506,1
+2011,2,cincinnati,missouri,0.509,1
+2012,3,cincinnati,florida state,0.509,1
+2011,5,arizona,connecticut,0.514,0
+2013,1,la salle,boise state,0.515,1
+2014,1,tennessee,iowa,0.517,1
+2011,2,xavier,marquette,0.518,0
+2013,6,michigan,syracuse,0.519,1
+2014,2,oklahoma state,gonzaga,0.520,0
+2012,2,xavier,notre dame,0.521,1
+2014,1,albany,mount st. mary's,0.523,1
+2012,1,iona,brigham young,0.525,0
+2012,4,florida,marquette,0.525,1
+2011,5,north carolina,kentucky,0.525,0
+2012,5,north carolina,kansas,0.525,0
+2011,1,usc,virginia commonwealth,0.526,0
+2012,2,alabama,creighton,0.526,0
+2013,1,north carolina a&t,liberty,0.527,1
+2012,1,lamar,vermont,0.527,0
+2011,2,florida state,texas a&m,0.531,1
+2013,3,marquette,butler,0.534,1
+2011,6,butler,virginia commonwealth,0.534,1
+2012,3,new mexico,louisville,0.537,0
+2012,4,syracuse,wisconsin,0.537,1
+2011,6,kentucky,connecticut,0.538,0
+2013,4,duke,michigan state,0.543,1
+2014,3,creighton,baylor,0.544,0
+2013,4,kansas,michigan,0.548,0
+2011,2,west virginia,clemson,0.550,1
+2014,2,memphis,george washington,0.550,1
+2012,5,florida,louisville,0.552,0
+2011,2,temple,penn state,0.553,1
+2012,2,georgetown,belmont,0.553,1
+2014,1,cal poly,texas southern,0.556,1
+2014,3,iowa state,north carolina,0.557,1
+2013,4,ohio state,arizona,0.558,1
+2013,1,saint mary's,middle tennessee,0.559,0
+2011,3,brigham young,gonzaga,0.559,1
+2013,2,san diego state,oklahoma,0.561,1
+2011,2,butler,old dominion,0.562,1
+2011,2,washington,georgia,0.562,1
+2011,3,wisconsin,kansas state,0.563,1
+2012,3,south florida,ohio,0.567,0
+2011,2,tennessee,michigan,0.569,0
+2011,2,kansas state,utah state,0.571,1
+2013,4,indiana,syracuse,0.571,0
+2012,1,california,south florida,0.577,0
+2012,2,connecticut,iowa state,0.578,0
+2014,3,wichita state,kentucky,0.579,0
+2014,2,cincinnati,harvard,0.580,0
+2014,2,saint louis,north carolina state,0.580,1
+2012,2,west virginia,gonzaga,0.582,0
+2013,2,creighton,cincinnati,0.585,1
+2013,3,michigan,virginia commonwealth,0.586,1
+2011,2,vanderbilt,richmond,0.586,0
+2011,2,illinois,unlv,0.586,1
+2013,2,memphis,saint mary's,0.588,1
+2011,4,florida,brigham young,0.596,1
+2012,2,north carolina state,san diego state,0.598,1
+2013,4,miami (fl),marquette,0.598,0
+2012,3,wisconsin,vanderbilt,0.599,1
+2013,2,notre dame,iowa state,0.600,0
+2011,1,utsa,alabama state,0.602,1
+2012,6,ohio state,kansas,0.603,0
+2012,2,cincinnati,texas,0.604,1
+2013,2,oklahoma state,oregon,0.605,0
+2011,1,clemson,uab,0.605,1
+2011,3,kentucky,west virginia,0.606,1
+2011,2,villanova,george mason,0.607,0
+2012,4,michigan state,louisville,0.607,1
+2012,2,purdue,st. mary's,0.610,1
+2012,2,temple,south florida,0.614,0
+2011,4,florida state,virginia commonwealth,0.619,0
+2013,2,minnesota,ucla,0.619,1
+2013,2,pittsburgh,wichita state,0.621,0
+2012,1,western kentucky,mississippi valley state,0.622,1
+2013,3,saint louis,oregon,0.626,0
+2013,3,mississippi,la salle,0.627,0
+2013,2,butler,bucknell,0.627,1
+2011,1,north carolina asheville,arkansas-little rock,0.627,1
+2011,7,connecticut,butler,0.628,1
+2013,7,louisville,michigan,0.629,1
+2013,2,missouri,colorado state,0.634,0
+2012,3,georgetown,north carolina state,0.636,0
+2013,5,florida,michigan,0.637,0
+2014,1,xavier,north carolina state,0.637,0
+2014,2,new mexico,stanford,0.638,0
+2014,2,oklahoma,north dakota state,0.638,0
+2011,3,connecticut,cincinnati,0.638,1
+2012,7,kentucky,kansas,0.641,1
+2012,2,florida,virgina,0.641,1
+2012,5,ohio state,syracuse,0.642,1
+2014,3,san diego state,north dakota state,0.646,1
+2012,3,xavier,lehigh,0.647,1
+2014,2,oregon,brigham young,0.647,1
+2014,3,villanova,connecticut,0.649,0
+2013,2,marquette,davidson,0.655,1
+2011,4,wisconsin,butler,0.657,0
+2011,2,wisconsin,belmont,0.658,1
+2012,2,kansas state,southern miss,0.658,1
+2012,2,memphis,saint louis,0.659,0
+2013,5,ohio state,wichita state,0.659,0
+2011,2,gonzaga,st. john's,0.664,1
+2011,2,michigan state,ucla,0.667,0
+2011,2,arizona,memphis,0.668,1
+2012,4,baylor,xavier,0.669,1
+2013,2,north carolina,villanova,0.670,1
+2013,5,louisville,duke,0.670,1
+2013,2,unlv,california,0.672,0
+2012,2,murray state,colorado state,0.673,1
+2014,2,connecticut,st. joseph's,0.673,1
+2012,2,new mexico,long beach state,0.679,1
+2014,2,north carolina,providence,0.680,1
+2012,3,marquette,murray state,0.680,1
+2011,5,florida,butler,0.680,0
+2011,3,texas,arizona,0.682,0
+2011,3,richmond,morehead state,0.682,1
+2012,2,unlv,colorado,0.684,0
+2013,3,michigan state,memphis,0.692,1
+2011,4,san diego state,connecticut,0.696,0
+2011,3,north carolina,washington,0.699,1
+2013,2,north carolina state,temple,0.701,0
+2014,2,baylor,nebraska,0.703,1
+2011,3,notre dame,florida state,0.704,0
+2011,4,north carolina,marquette,0.704,1
+2014,2,tennessee,massachusetts,0.705,1
+2011,2,georgetown,virginia commonwealth,0.706,0
+2013,3,san diego state,florida gulf coast,0.707,0
+2012,3,indiana,virginia commonwealth,0.709,1
+2014,3,virginia,memphis,0.710,1
+2013,2,virginia commonwealth,akron,0.711,1
+2013,3,duke,creighton,0.711,1
+2012,2,indiana,new mexico state,0.713,1
+2013,4,wichita state,la salle,0.714,1
+2012,2,michigan,ohio,0.715,0
+2012,3,syracuse,kansas state,0.716,1
+2013,2,arizona,belmont,0.717,1
+2011,3,syracuse,marquette,0.717,0
+2012,3,michigan state,saint louis,0.717,1
+2014,2,pittsburgh,colorado,0.724,1
+2013,3,miami (fl),illinois,0.726,1
+2014,3,arizona,gonzaga,0.727,1
+2014,2,kentucky,kansas state,0.739,1
+2012,2,wichita state,virginia commonwealth,0.742,0
+2012,6,kentucky,louisville,0.744,1
+2014,2,san diego state,new mexico state,0.745,1
+2013,3,gonzaga,wichita state,0.747,0
+2013,5,syracuse,marquette,0.750,1
+2013,3,syracuse,california,0.750,1
+2012,2,marquette,brigham young,0.751,1
+2012,2,vanderbilt,harvard,0.752,1
+2014,2,ohio state,dayton,0.753,0
+2013,2,wisconsin,mississippi,0.756,0
+2013,2,saint louis,new mexico state,0.762,1
+2014,3,florida,pittsburgh,0.762,1
+2014,2,virginia commonwealth,stephen f. austin,0.764,0
+2011,3,kansas,illinois,0.765,1
+2012,2,louisville,davidson,0.767,1
+2012,5,kentucky,baylor,0.769,1
+2012,3,baylor,colorado,0.771,0
+2014,3,wisconsin,oregon,0.772,1
+2014,3,michigan state,harvard,0.772,1
+2014,3,syracuse,dayton,0.773,0
+2013,3,kansas,north carolina,0.778,1
+2013,2,kansas state,la salle,0.782,0
+2011,3,pittsburgh,butler,0.786,0
+2012,3,kansas,purdue,0.786,1
+2014,3,michigan,texas,0.787,1
+2014,3,kansas,stanford,0.787,0
+2011,4,ohio state,kentucky,0.788,0
+2012,2,baylor,south dakota state,0.792,1
+2012,4,ohio state,cincinnati,0.793,1
+2012,4,kentucky,indiana,0.795,1
+2011,4,duke,arizona,0.800,0
+2011,2,louisville,morehead state,0.805,0
+2014,3,tennessee,mercer,0.811,1
+2014,2,iowa state,north carolina central,0.812,1
+2013,3,florida,minnesota,0.813,1
+2011,3,san diego state,temple,0.813,1
+2011,2,connecticut,bucknell,0.814,1
+2013,3,ohio state,iowa state,0.816,1
+2012,4,kansas,north carolina state,0.819,1
+2011,3,florida,ucla,0.822,1
+2014,3,louisville,saint louis,0.822,1
+2013,2,michigan state,valparaiso,0.830,1
+2011,3,purdue,virginia commonwealth,0.835,0
+2011,2,texas,oakland,0.845,1
+2013,6,louisville,wichita state,0.846,1
+2012,3,ohio state,gonzaga,0.848,1
+2011,4,kansas,richmond,0.852,1
+2013,3,arizona,harvard,0.853,1
+2012,2,wisconsin,montana,0.854,1
+2012,3,north carolina,creighton,0.855,1
+2011,2,brigham young,wofford,0.856,1
+2012,4,north carolina,ohio,0.862,1
+2014,2,ucla,tulsa,0.871,1
+2011,5,kansas,virginia commonwealth,0.873,0
+2013,2,syracuse,montana,0.874,1
+2013,2,new mexico,harvard,0.874,0
+2014,3,ucla,stephen f. austin,0.878,1
+2011,2,kentucky,princeton,0.882,1
+2012,2,florida state,st. bonaventure,0.882,1
+2014,2,syracuse,western michigan,0.883,1
+2014,2,creighton,louisiana-lafayette,0.883,1
+2012,2,syracuse,north carolina asheville,0.893,1
+2012,3,kentucky,iowa state,0.895,1
+2012,2,duke,lehigh,0.896,0
+2011,2,syracuse,indiana state,0.896,1
+2011,3,ohio state,george mason,0.896,1
+2013,2,georgetown,florida gulf coast,0.897,0
+2013,2,miami (fl),pacific,0.899,1
+2013,3,louisville,colorado state,0.901,1
+2013,2,michigan,south dakota state,0.902,1
+2011,2,notre dame,akron,0.906,1
+2014,2,michigan state,delaware,0.912,1
+2013,3,indiana,temple,0.919,1
+2012,3,florida,norfolk state,0.921,1
+2011,2,purdue,st. peter's,0.922,1
+2014,2,kansas,eastern kentucky,0.924,1
+2011,3,duke,michigan,0.925,1
+2014,2,wisconsin,american university,0.928,1
+2014,2,duke,mercer,0.929,0
+2014,2,louisville,manhattan,0.931,1
+2011,2,north carolina,long island,0.933,1
+2011,2,san diego state,northern colorado,0.935,1
+2012,2,north carolina,vermont,0.936,1
+2013,2,ohio state,iona,0.938,1
+2013,4,florida,florida gulf coast,0.942,1
+2013,2,duke,albany,0.946,1
+2012,2,kansas,detroit,0.946,1
+2014,2,villanova,milwaukee,0.947,1
+2013,4,louisville,oregon,0.947,1
+2013,2,florida,northwestern state,0.948,1
+2012,2,michigan state,long island,0.949,1
+2011,2,florida,uc-santa barbara,0.950,1
+2014,2,michigan,wofford,0.954,1
+2014,2,virginia,coastal carolina,0.964,1
+2012,2,ohio state,loyola (md),0.964,1
+2011,2,pittsburgh,north carolina asheville,0.967,1
+2012,2,missouri,norfolk state,0.972,0
+2014,2,wichita state,cal poly,0.975,1
+2014,2,arizona,weber state,0.978,1
+2013,2,gonzaga,southern university,0.982,1
+2013,2,kansas,western kentucky,0.982,1
+2013,2,indiana,james madison,0.983,1
+2014,2,florida,albany,0.988,1
+2011,2,kansas,boston university,0.990,1
+2012,2,kentucky,western kentucky,0.991,1
+2013,2,louisville,north carolina a&t,0.995,1
+2011,2,duke,hampton,0.995,1
+2011,2,ohio state,utsa,0.997,1

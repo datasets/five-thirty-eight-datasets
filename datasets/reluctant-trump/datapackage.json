@@ -1,0 +1,364 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "reluctant-trump",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "february_2018_rawdata",
+            "path": "datasets\\reluctant-trump\\data\\february_2018_rawdata.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "q1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "issue_matters_most",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "trump_approval",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q6",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q7",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q8",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q9",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q10",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q11",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q12",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q13",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q14",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q15",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "new_who_vote_for_in_election",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q17",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q18",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q19",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q20",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "registered_voter",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ideology",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party_lean",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "race",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "zip_code",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q30",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "race2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "racethn4",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "educ3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "educ4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "region",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "division",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age6",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q39",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q41",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q42",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q43",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q44",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q45",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q46",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q47",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q48",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q49",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q50",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q51",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q52",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q53",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q54",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q55",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q56",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q57",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q58",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q59",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q60",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q61",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q62",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q63",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "q64",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "weight",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "filter__",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/reluctant-trump",
+            "title": "FiveThirtyEight - Reluctant Trump"
+        }
+    ],
+    "title": "Reluctant Trump"
+}

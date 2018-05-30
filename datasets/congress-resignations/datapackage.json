@@ -1,0 +1,74 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "congress-resignations",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "congressional_resignations",
+            "path": "datasets\\congress-resignations\\data\\congressional_resignations.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "member",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "district",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "congress",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "resignation date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "reason",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "source",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "category",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-resignations",
+            "title": "FiveThirtyEight - Congress Resignations"
+        }
+    ],
+    "title": "Congress Resignations"
+}

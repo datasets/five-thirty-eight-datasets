@@ -1,0 +1,94 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-wide-receivers",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "advanced-historical",
+            "path": "datasets\\nfl-wide-receivers\\data\\advanced-historical.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "pfr_player_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "player_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "career_try",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "career_ranypa",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "career_wowy",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bcs_rating",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "try-per-game-aging-curve",
+            "path": "datasets\\nfl-wide-receivers\\data\\try-per-game-aging-curve.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "age_from",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age_to",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "trypg_change",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-wide-receivers",
+            "title": "FiveThirtyEight - Nfl Wide Receivers"
+        }
+    ],
+    "title": "Nfl Wide Receivers"
+}

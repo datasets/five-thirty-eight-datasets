@@ -1,0 +1,38 @@
+country,net_approval,approve,disapprove,dk/refused
+canada,-64,15,79,5
+france,-81,9,90,1
+germany,-88,5,93,2
+greece,-71,11,82,7
+hungary,-62,13,75,12
+italy,-49,18,67,15
+netherlands,-83,8,91,2
+poland,-35,17,52,31
+spain,-83,8,91,1
+sweden,-87,6,93,1
+united kingdom,-66,14,80,6
+russia,-22,27,49,24
+australia,-58,19,77,4
+india,7,32,25,43
+indonesia,-16,31,47,22
+japan,-59,13,72,15
+philippines,-43,25,68,7
+south korea,-65,13,78,9
+vietnam,-36,26,62,11
+israel,-50,19,69,11
+jordan,-53,19,72,9
+lebanon,-60,14,74,12
+tunisia,-37,21,58,22
+turkey,-42,15,57,27
+ghana,-47,23,70,7
+kenya,-35,30,65,5
+nigeria,-29,32,61,7
+senegal,-71,10,81,8
+south africa,-14,36,50,14
+tanzania,-36,29,65,6
+argentina,-52,18,70,12
+brazil,-50,19,69,13
+chile,-65,14,79,7
+colombia,-49,22,71,7
+mexico,-58,19,77,4
+peru,-36,29,65,6
+venezuela,-52,21,73,7

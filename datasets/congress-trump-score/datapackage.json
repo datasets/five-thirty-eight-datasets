@@ -1,0 +1,169 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "congress-trump-score",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "averages",
+            "path": "datasets\\congress-trump-score\\data\\averages.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "chamber",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bioguide",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "last_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "district",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "agree_pct",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "predicted_agree",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_trump_vote",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "windows-1252",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "vote_predictions",
+            "path": "datasets\\congress-trump-score\\data\\vote_predictions.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "bill_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "roll_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chamber",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "voted_at",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bioguide",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vote",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "trump_position",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "last_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "district",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "agree",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "yesno",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "predicted_probability",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-trump-score",
+            "title": "FiveThirtyEight - Congress Trump Score"
+        }
+    ],
+    "title": "Congress Trump Score"
+}

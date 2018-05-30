@@ -1,0 +1,159 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "riddler-castles",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "castle-solutions-2",
+            "path": "datasets\\riddler-castles\\data\\castle-solutions-2.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "castle 1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 2",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 3",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 4",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 5",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 6",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 7",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 8",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 9",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 10",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "why did you choose your troop deployment?",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "castle-solutions",
+            "path": "datasets\\riddler-castles\\data\\castle-solutions.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "castle 1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 2",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 3",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 4",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 5",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 6",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 7",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 8",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 9",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castle 10",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "why did you choose your troop deployment?",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/riddler-castles",
+            "title": "FiveThirtyEight - Riddler Castles"
+        }
+    ],
+    "title": "Riddler Castles"
+}

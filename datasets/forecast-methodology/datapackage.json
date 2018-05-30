@@ -1,0 +1,64 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "forecast-methodology",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "historical-senate-predictions",
+            "path": "datasets\\forecast-methodology\\data\\historical-senate-predictions.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "candidate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "forecast_prob",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "result",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "winflag",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/forecast-methodology",
+            "title": "FiveThirtyEight - Forecast Methodology"
+        }
+    ],
+    "title": "Forecast Methodology"
+}

@@ -1,0 +1,424 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "college-majors",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "all-ages",
+            "path": "datasets\\college-majors\\data\\all-ages.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "major_code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "employed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "employed_full_time_year_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unemployed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unemployment_rate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "p25th",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "p75th",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "grad-students",
+            "path": "datasets\\college-majors\\data\\grad-students.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "major_code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_total",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_sample_size",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_employed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_full_time_year_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_unemployed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_unemployment_rate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_median",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_p25",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_p75",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_total",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_employed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_full_time_year_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_unemployed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_unemployment_rate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_median",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_p25",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nongrad_p75",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_share",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grad_premium",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "majors-list",
+            "path": "datasets\\college-majors\\data\\majors-list.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "fod1p",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "recent-grads",
+            "path": "datasets\\college-majors\\data\\recent-grads.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "rank",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "men",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "women",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sharewomen",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sample_size",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "employed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "full_time",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "part_time",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "full_time_year_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unemployed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unemployment_rate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "p25th",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "p75th",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "college_jobs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "non_college_jobs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "low_wage_jobs",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "women-stem",
+            "path": "datasets\\college-majors\\data\\women-stem.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "rank",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "major_category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "men",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "women",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sharewomen",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "median",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/college-majors",
+            "title": "FiveThirtyEight - College Majors"
+        }
+    ],
+    "title": "College Majors"
+}

@@ -1,0 +1,129 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "tennis-time",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "events_time",
+            "path": "datasets\\tennis-time\\data\\events_time.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "tournament",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "surface",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "seconds_added_per_point",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "years",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "players_time",
+            "path": "datasets\\tennis-time\\data\\players_time.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "player",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "seconds_added_per_point",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "serve_times",
+            "path": "datasets\\tennis-time\\data\\serve_times.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "server",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "seconds_before_next_point",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "day",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opponent",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "game_score",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "set",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "game",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/tennis-time",
+            "title": "FiveThirtyEight - Tennis Time"
+        }
+    ],
+    "title": "Tennis Time"
+}

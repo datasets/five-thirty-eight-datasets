@@ -1,0 +1,99 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "congress-age",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "congress-terms",
+            "path": "datasets\\congress-age\\data\\congress-terms.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "congress",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chamber",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bioguide",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "firstname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "middlename",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lastname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "suffix",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "birthday",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "incumbent",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "termstart",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-age",
+            "title": "FiveThirtyEight - Congress Age"
+        }
+    ],
+    "title": "Congress Age"
+}

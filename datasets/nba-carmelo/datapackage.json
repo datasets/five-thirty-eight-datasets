@@ -1,0 +1,134 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nba-carmelo",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nba_elo",
+            "path": "datasets\\nba-carmelo\\data\\nba_elo.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "season",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "neutral",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "playoff",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo1_pre",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo2_pre",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_prob1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_prob2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo1_post",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo2_post",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo1_pre",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo2_pre",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo1_post",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo2_post",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo_prob1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carmelo_prob2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score2",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nba-carmelo",
+            "title": "FiveThirtyEight - Nba Carmelo"
+        }
+    ],
+    "title": "Nba Carmelo"
+}

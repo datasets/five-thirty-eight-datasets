@@ -1,0 +1,54 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "tarantino",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "tarantino",
+            "path": "datasets\\tarantino\\data\\tarantino.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "movie",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "type",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "word",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "minutes_in",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/tarantino",
+            "title": "FiveThirtyEight - Tarantino"
+        }
+    ],
+    "title": "Tarantino"
+}

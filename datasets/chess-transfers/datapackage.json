@@ -1,0 +1,59 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "chess-transfers",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "transfers",
+            "path": "datasets\\chess-transfers\\data\\transfers.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "federation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "form.fed",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "transfer date",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/chess-transfers",
+            "title": "FiveThirtyEight - Chess Transfers"
+        }
+    ],
+    "title": "Chess Transfers"
+}

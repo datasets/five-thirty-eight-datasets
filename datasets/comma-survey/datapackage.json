@@ -1,0 +1,139 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "comma-survey",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "comma-survey",
+            "path": "datasets\\comma-survey\\data\\comma-survey.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in your opinion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which sentence is more gramatically correct?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prior to reading about it above",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "had you heard of the serial (or oxford) comma?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if at all",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you care about the use (or lack thereof) of the serial (or oxford) comma in grammar?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how would you write the following sentence?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "when faced with using the word data",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever spent time considering if the word was a singular or plural noun?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if at all",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you care about the debate over the use of the word data as a singluar or plural noun?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in your opinion",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how important or unimportant is proper use of grammar?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/comma-survey",
+            "title": "FiveThirtyEight - Comma Survey"
+        }
+    ],
+    "title": "Comma Survey"
+}

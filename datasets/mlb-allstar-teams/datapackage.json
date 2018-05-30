@@ -1,0 +1,204 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "mlb-allstar-teams",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "allstar_player_talent",
+            "path": "datasets\\mlb-allstar-teams\\data\\allstar_player_talent.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "bbref_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "yearid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gamenum",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gameid",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lgid",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "startingpos",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "off600",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "def600",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pitch200",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "asg_pa",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "asg_ip",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "offper9innasg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "defper9innasg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pitper9innasg",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "totper9innasg",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "allstar_team_talent",
+            "path": "datasets\\mlb-allstar-teams\\data\\allstar_team_talent.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "yearid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gamenum",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gameid",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lgid",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tm_off_talent",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tm_def_talent",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tm_pit_talent",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mlb_avg_rpg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "talent_rspg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "talent_rapg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unadj_pyth",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timeline_adj",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sos",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adj_pyth",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "no_1_player",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "no_2_player",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/mlb-allstar-teams",
+            "title": "FiveThirtyEight - Mlb Allstar Teams"
+        }
+    ],
+    "title": "Mlb Allstar Teams"
+}

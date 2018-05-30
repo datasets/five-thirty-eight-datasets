@@ -1,0 +1,179 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "fandango",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "fandango_score_comparison",
+            "path": "datasets\\fandango\\data\\fandango_score_comparison.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "film",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rottentomatoes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rottentomatoes_user",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_user",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fandango_stars",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fandango_ratingvalue",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rt_norm",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rt_user_norm",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_norm",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_user_nom",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb_norm",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rt_norm_round",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rt_user_norm_round",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_norm_round",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_user_norm_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb_norm_round",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "metacritic_user_vote_count",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb_user_vote_count",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fandango_votes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fandango_difference",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "fandango_scrape",
+            "path": "datasets\\fandango\\data\\fandango_scrape.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "film",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "stars",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rating",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "votes",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/fandango",
+            "title": "FiveThirtyEight - Fandango"
+        }
+    ],
+    "title": "Fandango"
+}

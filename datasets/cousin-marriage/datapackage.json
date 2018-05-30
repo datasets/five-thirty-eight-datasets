@@ -1,0 +1,44 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "cousin-marriage",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "cousin-marriage-data",
+            "path": "datasets\\cousin-marriage\\data\\cousin-marriage-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percent",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/cousin-marriage",
+            "title": "FiveThirtyEight - Cousin Marriage"
+        }
+    ],
+    "title": "Cousin Marriage"
+}

@@ -1,0 +1,104 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "biopics",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "biopics",
+            "path": "datasets\\biopics\\data\\biopics.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "title",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "site",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year_release",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "box_office",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "director",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number_of_subjects",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "subject",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "type_of_subject",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "race_known",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "subject_race",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "person_of_color",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "subject_sex",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lead_actor_actress",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/biopics",
+            "title": "FiveThirtyEight - Biopics"
+        }
+    ],
+    "title": "Biopics"
+}

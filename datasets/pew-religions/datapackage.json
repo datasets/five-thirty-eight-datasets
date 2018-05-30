@@ -1,0 +1,94 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "pew-religions",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "current",
+            "path": "datasets\\pew-religions\\data\\current.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "0.00719424460432",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.213771839671",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.261048304214",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.00719424460432",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.0668036998972",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.0082219938335",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.0195272353546",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.151079136691",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.016443987667",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.00924974306269",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.00513874614594",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "0.234326824255",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/pew-religions",
+            "title": "FiveThirtyEight - Pew Religions"
+        }
+    ],
+    "title": "Pew Religions"
+}

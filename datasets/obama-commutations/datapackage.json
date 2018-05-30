@@ -1,0 +1,44 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "obama-commutations",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "obama_commutations",
+            "path": "datasets\\obama-commutations\\data\\obama_commutations.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "key",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "info",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/obama-commutations",
+            "title": "FiveThirtyEight - Obama Commutations"
+        }
+    ],
+    "title": "Obama Commutations"
+}

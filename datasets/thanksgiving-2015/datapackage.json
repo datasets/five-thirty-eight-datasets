@@ -1,0 +1,359 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "thanksgiving-2015",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "thanksgiving-2015-poll-data",
+            "path": "datasets\\thanksgiving-2015\\data\\thanksgiving-2015-poll-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you celebrate thanksgiving?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is typically the main dish at your thanksgiving dinner?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is typically the main dish at your thanksgiving dinner? - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how is the main dish typically cooked?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how is the main dish typically cooked? - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what kind of stuffing/dressing do you typically have?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what kind of stuffing/dressing do you typically have? - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what type of cranberry saucedo you typically have?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what type of cranberry saucedo you typically have? - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you typically have gravy?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - brussel sprouts",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - carrots",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - cauliflower",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - corn",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - cornbread",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - fruit salad",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - green beans/green bean casserole",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - macaroni and cheese",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - mashed potatoes",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - rolls/biscuits",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - squash",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - vegetable salad",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - yams/sweet potato casserole",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these side dishes aretypically served at your thanksgiving dinner? please select all that apply. - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - apple",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - buttermilk",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - cherry",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - chocolate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - coconut cream",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - key lime",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - peach",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - pecan",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - pumpkin",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - sweet potato",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - none",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which type of pie is typically served at your thanksgiving dinner? please select all that apply. - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - apple cobbler",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - blondies",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - brownies",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - carrot cake",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - cheesecake",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - cookies",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - fudge",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - ice cream",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - peach cobbler",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - none",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of these desserts do you typically have at thanksgiving dinner? please select all that apply.   - other (please specify)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you typically pray before or after the thanksgiving meal?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how far will you travel for thanksgiving?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "will you watch any of the following programs on thanksgiving? please select all that apply. - macy's parade",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what's the age cutoff at your kids' table at thanksgiving?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever tried to meet up with hometown friends on thanksgiving night?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever attended a friendsgiving?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "will you shop any black friday sales on thanksgiving day?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you work in retail?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "will you employer make you work on black friday?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how would you describe where you live?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is your gender?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much total combined money did all members of your household earn last year?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "us region",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/thanksgiving-2015",
+            "title": "FiveThirtyEight - Thanksgiving 2015"
+        }
+    ],
+    "title": "Thanksgiving 2015"
+}

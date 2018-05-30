@@ -1,0 +1,239 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "pollster-ratings",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "pollster-ratings",
+            "path": "datasets\\pollster-ratings\\data\\pollster-ratings.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "polls",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "live caller with cellphones",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "internet",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ncpp/aapor/roper",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "polls",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "simple average error",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "races called correctly",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "advanced plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "predictive plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "538 grade",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "banned by 538",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mean-reverted bias",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "windows-1252",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "raw-polls",
+            "path": "datasets\\pollster-ratings\\data\\raw-polls.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "pollno",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "race",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "type_simple",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "type_detail",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "partisan",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "polldate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "samplesize",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand1_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand1_pct",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand2_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand2_pct",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand3_pct",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "margin_poll",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "electiondate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand1_actual",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cand2_actual",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "margin_actual",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "error",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bias",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rightcall",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "comment",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/pollster-ratings",
+            "title": "FiveThirtyEight - Pollster Ratings"
+        }
+    ],
+    "title": "Pollster Ratings"
+}

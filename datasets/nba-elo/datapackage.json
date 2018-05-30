@@ -1,0 +1,149 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nba-elo",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nbaallelo",
+            "path": "datasets\\nba-elo\\data\\nbaallelo.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "gameorder",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "game_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lg_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "_iscopy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date_game",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "seasongame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is_playoffs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fran_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pts",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_i",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo_n",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "win_equiv",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opp_id",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opp_fran",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opp_pts",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opp_elo_i",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "opp_elo_n",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "game_location",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "game_result",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "forecast",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "notes",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nba-elo",
+            "title": "FiveThirtyEight - Nba Elo"
+        }
+    ],
+    "title": "Nba Elo"
+}

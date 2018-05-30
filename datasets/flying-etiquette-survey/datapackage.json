@@ -1,0 +1,209 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "flying-etiquette-survey",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "flying-etiquette",
+            "path": "datasets\\flying-etiquette-survey\\data\\flying-etiquette.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how often do you travel by plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you ever recline your seat when you fly?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how tall are you?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you have any children under 18?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in a row of three seats",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "who should get to use the two arm rests?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in a row of two seats",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "who should get to use the middle arm rest?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "who should have control over the window shade?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is itrude to move to an unsold seat on a plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "generally speaking",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is it rude to say more than a few words tothe stranger sitting next to you on a plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "on a 6 hour flight from nyc to la",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how many times is it acceptable to get up if you're not in an aisle seat?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "under normal circumstances",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "does a person who reclines their seat during a flight have any obligation to the person sitting behind them?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is itrude to recline your seat on a plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "given the opportunity",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "would you eliminate the possibility of reclining seats on planes entirely?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is it rude to ask someone to switch seats with you in order to be closer to friends?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is itrude to ask someone to switch seats with you in order to be closer to family?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is it rude to wake a passenger up if you are trying to go to the bathroom?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is itrude to wake a passenger up if you are trying to walk around?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in general",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is itrude to bring a baby on a plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in general",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "is it rude to knowingly bring unruly children on a plane?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever used personal electronics during take off or landing in violation of a flight attendant's direction?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you ever smoked a cigarette in an airplane bathroom when it was against the rules?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/flying-etiquette-survey",
+            "title": "FiveThirtyEight - Flying Etiquette Survey"
+        }
+    ],
+    "title": "Flying Etiquette Survey"
+}

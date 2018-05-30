@@ -1,0 +1,194 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol
+afghanistan,0,0,0,0.0
+albania,89,132,54,4.9
+algeria,25,0,14,0.7
+andorra,245,138,312,12.4
+angola,217,57,45,5.9
+antigua & barbuda,102,128,45,4.9
+argentina,193,25,221,8.3
+armenia,21,179,11,3.8
+australia,261,72,212,10.4
+austria,279,75,191,9.7
+azerbaijan,21,46,5,1.3
+bahamas,122,176,51,6.3
+bahrain,42,63,7,2.0
+bangladesh,0,0,0,0.0
+barbados,143,173,36,6.3
+belarus,142,373,42,14.4
+belgium,295,84,212,10.5
+belize,263,114,8,6.8
+benin,34,4,13,1.1
+bhutan,23,0,0,0.4
+bolivia,167,41,8,3.8
+bosnia-herzegovina,76,173,8,4.6
+botswana,173,35,35,5.4
+brazil,245,145,16,7.2
+brunei,31,2,1,0.6
+bulgaria,231,252,94,10.3
+burkina faso,25,7,7,4.3
+burundi,88,0,0,6.3
+cote d'ivoire,37,1,7,4.0
+cabo verde,144,56,16,4.0
+cambodia,57,65,1,2.2
+cameroon,147,1,4,5.8
+canada,240,122,100,8.2
+central african republic,17,2,1,1.8
+chad,15,1,1,0.4
+chile,130,124,172,7.6
+china,79,192,8,5.0
+colombia,159,76,3,4.2
+comoros,1,3,1,0.1
+congo,76,1,9,1.7
+cook islands,0,254,74,5.9
+costa rica,149,87,11,4.4
+croatia,230,87,254,10.2
+cuba,93,137,5,4.2
+cyprus,192,154,113,8.2
+czech republic,361,170,134,11.8
+north korea,0,0,0,0.0
+dr congo,32,3,1,2.3
+denmark,224,81,278,10.4
+djibouti,15,44,3,1.1
+dominica,52,286,26,6.6
+dominican republic,193,147,9,6.2
+ecuador,162,74,3,4.2
+egypt,6,4,1,0.2
+el salvador,52,69,2,2.2
+equatorial guinea,92,0,233,5.8
+eritrea,18,0,0,0.5
+estonia,224,194,59,9.5
+ethiopia,20,3,0,0.7
+fiji,77,35,1,2.0
+finland,263,133,97,10.0
+france,127,151,370,11.8
+gabon,347,98,59,8.9
+gambia,8,0,1,2.4
+georgia,52,100,149,5.4
+germany,346,117,175,11.3
+ghana,31,3,10,1.8
+greece,133,112,218,8.3
+grenada,199,438,28,11.9
+guatemala,53,69,2,2.2
+guinea,9,0,2,0.2
+guinea-bissau,28,31,21,2.5
+guyana,93,302,1,7.1
+haiti,1,326,1,5.9
+honduras,69,98,2,3.0
+hungary,234,215,185,11.3
+iceland,233,61,78,6.6
+india,9,114,0,2.2
+indonesia,5,1,0,0.1
+iran,0,0,0,0.0
+iraq,9,3,0,0.2
+ireland,313,118,165,11.4
+israel,63,69,9,2.5
+italy,85,42,237,6.5
+jamaica,82,97,9,3.4
+japan,77,202,16,7.0
+jordan,6,21,1,0.5
+kazakhstan,124,246,12,6.8
+kenya,58,22,2,1.8
+kiribati,21,34,1,1.0
+kuwait,0,0,0,0.0
+kyrgyzstan,31,97,6,2.4
+laos,62,0,123,6.2
+latvia,281,216,62,10.5
+lebanon,20,55,31,1.9
+lesotho,82,29,0,2.8
+liberia,19,152,2,3.1
+libya,0,0,0,0.0
+lithuania,343,244,56,12.9
+luxembourg,236,133,271,11.4
+madagascar,26,15,4,0.8
+malawi,8,11,1,1.5
+malaysia,13,4,0,0.3
+maldives,0,0,0,0.0
+mali,5,1,1,0.6
+malta,149,100,120,6.6
+marshall islands,0,0,0,0.0
+mauritania,0,0,0,0.0
+mauritius,98,31,18,2.6
+mexico,238,68,5,5.5
+micronesia,62,50,18,2.3
+monaco,0,0,0,0.0
+mongolia,77,189,8,4.9
+montenegro,31,114,128,4.9
+morocco,12,6,10,0.5
+mozambique,47,18,5,1.3
+myanmar,5,1,0,0.1
+namibia,376,3,1,6.8
+nauru,49,0,8,1.0
+nepal,5,6,0,0.2
+netherlands,251,88,190,9.4
+new zealand,203,79,175,9.3
+nicaragua,78,118,1,3.5
+niger,3,2,1,0.1
+nigeria,42,5,2,9.1
+niue,188,200,7,7.0
+norway,169,71,129,6.7
+oman,22,16,1,0.7
+pakistan,0,0,0,0.0
+palau,306,63,23,6.9
+panama,285,104,18,7.2
+papua new guinea,44,39,1,1.5
+paraguay,213,117,74,7.3
+peru,163,160,21,6.1
+philippines,71,186,1,4.6
+poland,343,215,56,10.9
+portugal,194,67,339,11.0
+qatar,1,42,7,0.9
+south korea,140,16,9,9.8
+moldova,109,226,18,6.3
+romania,297,122,167,10.4
+russian federation,247,326,73,11.5
+rwanda,43,2,0,6.8
+st. kitts & nevis,194,205,32,7.7
+st. lucia,171,315,71,10.1
+st. vincent & the grenadines,120,221,11,6.3
+samoa,105,18,24,2.6
+san marino,0,0,0,0.0
+sao tome & principe,56,38,140,4.2
+saudi arabia,0,5,0,0.1
+senegal,9,1,7,0.3
+serbia,283,131,127,9.6
+seychelles,157,25,51,4.1
+sierra leone,25,3,2,6.7
+singapore,60,12,11,1.5
+slovakia,196,293,116,11.4
+slovenia,270,51,276,10.6
+solomon islands,56,11,1,1.2
+somalia,0,0,0,0.0
+south africa,225,76,81,8.2
+spain,284,157,112,10.0
+sri lanka,16,104,0,2.2
+sudan,8,13,0,1.7
+suriname,128,178,7,5.6
+swaziland,90,2,2,4.7
+sweden,152,60,186,7.2
+switzerland,185,100,280,10.2
+syria,5,35,16,1.0
+tajikistan,2,15,0,0.3
+thailand,99,258,1,6.4
+macedonia,106,27,86,3.9
+timor-leste,1,1,4,0.1
+togo,36,2,19,1.3
+tonga,36,21,5,1.1
+trinidad & tobago,197,156,7,6.4
+tunisia,51,3,20,1.3
+turkey,51,22,7,1.4
+turkmenistan,19,71,32,2.2
+tuvalu,6,41,9,1.0
+uganda,45,9,0,8.3
+ukraine,206,237,45,8.9
+united arab emirates,16,135,5,2.8
+united kingdom,219,126,195,10.4
+tanzania,36,6,1,5.7
+usa,249,158,84,8.7
+uruguay,115,35,220,6.6
+uzbekistan,25,101,8,2.4
+vanuatu,21,18,11,0.9
+venezuela,333,100,3,7.7
+vietnam,111,2,1,2.0
+yemen,6,0,0,0.1
+zambia,32,19,4,2.5
+zimbabwe,64,18,4,4.7

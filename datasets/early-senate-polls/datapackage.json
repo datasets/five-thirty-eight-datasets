@@ -1,0 +1,54 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "early-senate-polls",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "early-senate-polls",
+            "path": "datasets\\early-senate-polls\\data\\early-senate-polls.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "election_result",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "presidential_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poll_average",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/early-senate-polls",
+            "title": "FiveThirtyEight - Early Senate Polls"
+        }
+    ],
+    "title": "Early Senate Polls"
+}

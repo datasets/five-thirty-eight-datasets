@@ -1,0 +1,99 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "candy-power-ranking",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "candy-data",
+            "path": "datasets\\candy-power-ranking\\data\\candy-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "competitorname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chocolate",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fruity",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "caramel",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "peanutyalmondy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nougat",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "crispedricewafer",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hard",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bar",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pluribus",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sugarpercent",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pricepercent",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "winpercent",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/candy-power-ranking",
+            "title": "FiveThirtyEight - Candy Power Ranking"
+        }
+    ],
+    "title": "Candy Power Ranking"
+}

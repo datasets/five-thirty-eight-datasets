@@ -1,0 +1,74 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "elo-blatter",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "elo_blatter",
+            "path": "datasets\\elo-blatter\\data\\elo_blatter.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo98",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elo15",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "confederation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gdp06",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "popu06",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gdp_source",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "popu_source",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/elo-blatter",
+            "title": "FiveThirtyEight - Elo Blatter"
+        }
+    ],
+    "title": "Elo Blatter"
+}

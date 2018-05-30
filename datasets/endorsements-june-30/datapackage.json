@@ -1,0 +1,79 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "endorsements-june-30",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "endorsements-june-30",
+            "path": "datasets\\endorsements-june-30\\data\\endorsements-june-30.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "party",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "candidate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "endorsement_points",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage_endorsement_points",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "money_raised",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percentage_of_money",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "primary_vote_percentage",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "won_primary",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/endorsements-june-30",
+            "title": "FiveThirtyEight - Endorsements June 30"
+        }
+    ],
+    "title": "Endorsements June 30"
+}

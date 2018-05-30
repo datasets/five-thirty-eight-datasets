@@ -1,0 +1,219 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-fandom",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "NFL_fandom_data-google_trends",
+            "path": "datasets\\nfl-fandom\\data\\NFL_fandom_data-google_trends.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pct. of major sports searches",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "NFL_fandom_data-surveymonkey",
+            "path": "datasets\\nfl-fandom\\data\\NFL_fandom_data-surveymonkey.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "democrat",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "independent",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "republican",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-fandom",
+            "title": "FiveThirtyEight - Nfl Fandom"
+        }
+    ],
+    "title": "Nfl Fandom"
+}

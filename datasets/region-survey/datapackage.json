@@ -1,0 +1,644 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "region-survey",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "MIDWEST",
+            "path": "datasets\\region-survey\\data\\MIDWEST.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in your own words",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what would you call the part of the country you live in now?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if at all",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you personally identify as a midwesterner?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of the following states do you consider part of the midwest? please select all that apply.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in what zip code is your home located? (enter 5-digit zip code; for example",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "00544 or 94305)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "SOUTH",
+            "path": "datasets\\region-survey\\data\\SOUTH.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in your own words",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what would you call the part of the country you live in now?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if at all",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you personally identify as a southerner?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of the following states do you consider part of the south? please select all that apply.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "in what zip code is your home located? (enter 5-digit zip code; for example",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "00544 or 94305)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/region-survey",
+            "title": "FiveThirtyEight - Region Survey"
+        }
+    ],
+    "title": "Region Survey"
+}

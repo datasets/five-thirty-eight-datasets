@@ -1,0 +1,139 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "avengers",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "avengers",
+            "path": "datasets\\avengers\\data\\avengers.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name/alias",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "appearances",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "current?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "probationary introl",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "full/reserve avengers intro",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "years since joining",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "honorary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "death1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "return1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "death2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "return2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "death3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "return3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "death4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "return4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "death5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "return5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "notes",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/avengers",
+            "title": "FiveThirtyEight - Avengers"
+        }
+    ],
+    "title": "Avengers"
+}

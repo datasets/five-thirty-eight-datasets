@@ -1,0 +1,84 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "weather-check",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "weather-check",
+            "path": "datasets\\weather-check\\data\\weather-check.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you typically check a daily weather report?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how do you typically check the weather?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "a specific website or app (please provide the answer)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "if you had a smartwatch (like the soon to be released apple watch)",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how likely or unlikely would you be to check the weather on that device?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "what is your gender?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "how much total combined money did all members of your household earn last year?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "us region",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/weather-check",
+            "title": "FiveThirtyEight - Weather Check"
+        }
+    ],
+    "title": "Weather Check"
+}

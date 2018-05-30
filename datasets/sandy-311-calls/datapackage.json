@@ -1,0 +1,159 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "sandy-311-calls",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "sandy-311-calls-by-day",
+            "path": "datasets\\sandy-311-calls\\data\\sandy-311-calls-by-day.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nyc-3-1-1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "acs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bpsi",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cau",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chall",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dep",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dob",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "doe",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dof",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dohmh",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dpr",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fema",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hpd",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hra",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mfanyc",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mose",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nycem",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nycha",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nycservice",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nypd",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nysdol",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sbs",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nysemergencymg",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/sandy-311-calls",
+            "title": "FiveThirtyEight - Sandy 311 Calls"
+        }
+    ],
+    "title": "Sandy 311 Calls"
+}

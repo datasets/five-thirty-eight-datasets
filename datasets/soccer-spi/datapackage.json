@@ -1,0 +1,179 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "soccer-spi",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "spi_global_rankings",
+            "path": "datasets\\soccer-spi\\data\\spi_global_rankings.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "league",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rank",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prev_rank",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "off",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "def",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spi",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "spi_matches",
+            "path": "datasets\\soccer-spi\\data\\spi_matches.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "league_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spi1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spi2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prob1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prob2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "probtie",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "proj_score1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "proj_score2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score2",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "xg1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "xg2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nsxg1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nsxg2",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adj_score1",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adj_score2",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/soccer-spi",
+            "title": "FiveThirtyEight - Soccer Spi"
+        }
+    ],
+    "title": "Soccer Spi"
+}

@@ -1,0 +1,379 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "bob-ross",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "elements-by-episode",
+            "path": "datasets\\bob-ross\\data\\elements-by-episode.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "episode",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "title",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "apple_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "aurora_borealis",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "barn",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "beach",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "boat",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bridge",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "building",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bushes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cabin",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cactus",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "circle_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cirrus",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cliff",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "clouds",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "conifer",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cumulus",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "deciduous",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "diane_andre",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dock",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "double_oval_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "farm",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fence",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fire",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "florida_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "flowers",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fog",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "framed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grass",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "guest",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "half_circle_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "half_oval_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hills",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lake",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lakes",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lighthouse",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mill",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "moon",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountains",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "night",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ocean",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "oval_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "palm_trees",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "path",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "person",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "portrait",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rectangle_3d_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rectangular_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "river",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rocks",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "seashell_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "snow",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "snowy_mountain",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "split_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "steve_ross",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "structure",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sun",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tomb_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tree",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "trees",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "triple_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "waterfall",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "waves",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "windmill",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "window_frame",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "winter",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wood_framed",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/bob-ross",
+            "title": "FiveThirtyEight - Bob Ross"
+        }
+    ],
+    "title": "Bob Ross"
+}

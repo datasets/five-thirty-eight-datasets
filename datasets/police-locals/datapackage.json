@@ -1,0 +1,74 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "police-locals",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "police-locals",
+            "path": "datasets\\police-locals\\data\\police-locals.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "city",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "police_force_size",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "non-white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hispanic",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "asian",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/police-locals",
+            "title": "FiveThirtyEight - Police Locals"
+        }
+    ],
+    "title": "Police Locals"
+}

@@ -1,0 +1,1039 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "most-common-name",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "adjusted-name-combinations-list",
+            "path": "datasets\\most-common-name\\data\\adjusted-name-combinations-list.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "firstname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "surname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adjustment",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cleanname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "estimate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "finalestimate",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "adjusted-name-combinations-matrix",
+            "path": "datasets\\most-common-name\\data\\adjusted-name-combinations-matrix.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "firstname",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "smith",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "johnson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "williams",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brown",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jones",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "garcia",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rodriguez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "miller",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martinez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "davis",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hernandez",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lopez",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gonzalez",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wilson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "anderson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "thomas",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "taylor",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lee",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "moore",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jackson",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "adjustments",
+            "path": "datasets\\most-common-name\\data\\adjustments.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "miller",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "anderson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martin",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "smith",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "thompson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wilson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "moore",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "taylor",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "davis",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "johnson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brown",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jones",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "thomas",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "williams",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jackson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lee",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "garcia",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martinez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rodriguez",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "aging-curve",
+            "path": "datasets\\most-common-name\\data\\aging-curve.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "decade",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "male",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "female",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "male",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "female",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "independent-name-combinations-by-pop",
+            "path": "datasets\\most-common-name\\data\\independent-name-combinations-by-pop.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "smith",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "johnson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "williams",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brown",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jones",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "garcia",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rodriguez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "miller",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martinez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "davis",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hernandez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lopez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gonzalez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wilson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "anderson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "thomas",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "taylor",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lee",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "moore",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jackson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "perez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martin",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "thompson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sanchez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "harris",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ramirez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "clark",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lewis",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "robinson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "walker",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "young",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hall",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "allen",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "torres",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nguyen",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wright",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "flores",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "king",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "scott",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rivera",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "green",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hill",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adams",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "baker",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nelson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mitchell",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "campbell",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gomez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "carter",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "roberts",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "diaz",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "phillips",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "evans",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turner",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "reyes",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cruz",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "parker",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "edwards",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "collins",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "stewart",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "morris",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "morales",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ortiz",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gutierrez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "murphy",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rogers",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cook",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kim",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "morgan",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cooper",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ramos",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "peterson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gonzales",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bell",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "reed",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bailey",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chavez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kelly",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "howard",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "richardson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ward",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cox",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ruiz",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brooks",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "watson",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "wood",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "james",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mendoza",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gray",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bennett",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alvarez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "castillo",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "price",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hughes",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vasquez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sanders",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jimenez",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "long",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "foster",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "new-top-firstNames",
+            "path": "datasets\\most-common-name\\data\\new-top-firstNames.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "newperct2013",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "new-top-surnames",
+            "path": "datasets\\most-common-name\\data\\new-top-surnames.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "perct2013",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "state-pop",
+            "path": "datasets\\most-common-name\\data\\state-pop.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "state",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "totalpop",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisppop",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "surnames",
+            "path": "datasets\\most-common-name\\data\\surnames.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rank",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "count",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "prop100k",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cum_prop100k",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pctwhite",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pctblack",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pctapi",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pctaian",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pct2prace",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pcthispanic",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/most-common-name",
+            "title": "FiveThirtyEight - Most Common Name"
+        }
+    ],
+    "title": "Most Common Name"
+}

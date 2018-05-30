@@ -1,0 +1,44 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nba-tattoos",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nba-tattoos-data",
+            "path": "datasets\\nba-tattoos\\data\\nba-tattoos-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "player name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tattoos yes/no",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nba-tattoos",
+            "title": "FiveThirtyEight - Nba Tattoos"
+        }
+    ],
+    "title": "Nba Tattoos"
+}

@@ -1,0 +1,119 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-favorite-team",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "team-picking-categories",
+            "path": "datasets\\nfl-favorite-team\\data\\team-picking-categories.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "team",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bmk",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "uni",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "cch",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "stx",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "smk",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "aff",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "slp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nyp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "frl",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bng",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "trd",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bwg",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fut",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pla",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "own",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "beh",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-favorite-team",
+            "title": "FiveThirtyEight - Nfl Favorite Team"
+        }
+    ],
+    "title": "Nfl Favorite Team"
+}

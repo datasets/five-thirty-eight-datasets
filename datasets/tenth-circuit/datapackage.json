@@ -1,0 +1,99 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "tenth-circuit",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "tenth-circuit",
+            "path": "datasets\\tenth-circuit\\data\\tenth-circuit.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "title",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "federal reporter citation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "westlaw citation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "issue",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "weight",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "judge1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "judge2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "judge3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vote1",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vote2",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vote3",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "category",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/tenth-circuit",
+            "title": "FiveThirtyEight - Tenth Circuit"
+        }
+    ],
+    "title": "Tenth Circuit"
+}

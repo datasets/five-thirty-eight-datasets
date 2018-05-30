@@ -1,0 +1,79 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "hip-hop-candidate-lyrics",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "genius_hip_hop_lyrics",
+            "path": "datasets\\hip-hop-candidate-lyrics\\data\\genius_hip_hop_lyrics.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "candidate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "song",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "artist",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sentiment",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "theme",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "album_release_date",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "line",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics",
+            "title": "FiveThirtyEight - Hip Hop Candidate Lyrics"
+        }
+    ],
+    "title": "Hip Hop Candidate Lyrics"
+}

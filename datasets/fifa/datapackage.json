@@ -1,0 +1,59 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "fifa",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "fifa_countries_audience",
+            "path": "datasets\\fifa\\data\\fifa_countries_audience.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "confederation",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "population_share",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tv_audience_share",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gdp_weighted_share",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/fifa",
+            "title": "FiveThirtyEight - Fifa"
+        }
+    ],
+    "title": "Fifa"
+}

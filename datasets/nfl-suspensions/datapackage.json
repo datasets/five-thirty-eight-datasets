@@ -1,0 +1,69 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "nfl-suspensions",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nfl-suspensions-data",
+            "path": "datasets\\nfl-suspensions\\data\\nfl-suspensions-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "team",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "games",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "category",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "desc.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "source",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-suspensions",
+            "title": "FiveThirtyEight - Nfl Suspensions"
+        }
+    ],
+    "title": "Nfl Suspensions"
+}

@@ -1,0 +1,149 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "bachelorette",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "bachelorette",
+            "path": "datasets\\bachelorette\\data\\bachelorette.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "show",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "season",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "contestant",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-6",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-7",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-8",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-9",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "elimination-10",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-1",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-2",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-3",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-4",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-5",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-6",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-7",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-8",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-9",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dates-10",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/bachelorette",
+            "title": "FiveThirtyEight - Bachelorette"
+        }
+    ],
+    "title": "Bachelorette"
+}

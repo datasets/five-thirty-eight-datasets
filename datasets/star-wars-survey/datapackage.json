@@ -1,0 +1,234 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "star-wars-survey",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "StarWars",
+            "path": "datasets\\star-wars-survey\\data\\StarWars.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "respondentid",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "have you seen any of the 6 films in the star wars franchise?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you consider yourself to be a fan of the star wars film franchise?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which of the following star wars films have you seen? please select all that apply.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please rank the star wars films in order of preference with 1 being your favorite film in the franchise and 6 being your least favorite film.",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "please state whether you view the following characters favorably",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "unfavorably",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "or are unfamiliar with him/her.",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "which character shot first?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "are you familiar with the expanded universe?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you consider yourself to be a fan of the expanded universe?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "do you consider yourself to be a fan of the star trek franchise?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "age",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "household income",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "education",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "location (census region)",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/star-wars-survey",
+            "title": "FiveThirtyEight - Star Wars Survey"
+        }
+    ],
+    "title": "Star Wars Survey"
+}

@@ -1,0 +1,639 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "trump-world-trust",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-issue-1",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-1.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dk/refused",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-issue-2",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-2.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dk/refused",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-issue-3",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-3.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dk/refused",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-issue-4",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-4.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dk/refused",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-issue-5",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-5.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "net_approval",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "approve",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "disapprove",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dk/refused",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-pres",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-pres.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "canada",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "france",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "germany",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "greece",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hungary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "italy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "netherlands",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poland",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spain",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sweden",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "uk",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "russia",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "australia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "india",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "indonesia",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "japan",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "philippines",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south korea",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vietnam",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "israel",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jordan",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lebanon",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tunisia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turkey",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ghana",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kenya",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nigeria",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "senegal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south africa",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tanzania",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "argentina",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brazil",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chile",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "colombia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mexico",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "peru",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "venezuela",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "TRUMPWORLD-us",
+            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-us.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "avg",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "canada",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "france",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "germany",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "greece",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hungary",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "italy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "netherlands",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poland",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spain",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sweden",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "uk",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "russia",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "australia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "india",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "indonesia",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "japan",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "philippines",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south korea",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "vietnam",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "israel",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "jordan",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lebanon",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tunisia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "turkey",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ghana",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kenya",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nigeria",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "senegal",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south africa",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tanzania",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "argentina",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "brazil",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "chile",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "colombia",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mexico",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "peru",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "venezuela",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/trump-world-trust",
+            "title": "FiveThirtyEight - Trump World Trust"
+        }
+    ],
+    "title": "Trump World Trust"
+}

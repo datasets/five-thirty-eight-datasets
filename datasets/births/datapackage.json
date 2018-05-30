@@ -1,0 +1,99 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "births",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "US_births_1994-2003_CDC_NCHS",
+            "path": "datasets\\births\\data\\US_births_1994-2003_CDC_NCHS.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "month",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date_of_month",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "day_of_week",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "births",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "US_births_2000-2014_SSA",
+            "path": "datasets\\births\\data\\US_births_2000-2014_SSA.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "month",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date_of_month",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "day_of_week",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "births",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/births",
+            "title": "FiveThirtyEight - Births"
+        }
+    ],
+    "title": "Births"
+}

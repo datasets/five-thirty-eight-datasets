@@ -1,0 +1,199 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "congress-generic-ballot",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "generic_polllist",
+            "path": "datasets\\congress-generic-ballot\\data\\generic_polllist.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "subgroup",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "modeldate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "startdate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "enddate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pollster",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "grade",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "samplesize",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "population",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "weight",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "influence",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dem",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rep",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adjusted_dem",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "adjusted_rep",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "multiversions",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "tracking",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "url",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poll_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "question_id",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "createddate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "generic_topline",
+            "path": "datasets\\congress-generic-ballot\\data\\generic_topline.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "subgroup",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "modeldate",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dem_estimate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dem_hi",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "dem_lo",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rep_estimate",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rep_hi",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rep_lo",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-generic-ballot",
+            "title": "FiveThirtyEight - Congress Generic Ballot"
+        }
+    ],
+    "title": "Congress Generic Ballot"
+}

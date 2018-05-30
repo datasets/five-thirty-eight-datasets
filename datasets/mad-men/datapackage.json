@@ -1,0 +1,144 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "mad-men",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "performer-scores",
+            "path": "datasets\\mad-men\\data\\performer-scores.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "performer",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score per year",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "total score",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "show-data",
+            "path": "datasets\\mad-men\\data\\show-data.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "performer",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show start",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show end",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "status?",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "charend",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "years since",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "#lead",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "#support",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "#shows",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "score/y",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "lead_notes",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "support_notes",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "show_notes",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/mad-men",
+            "title": "FiveThirtyEight - Mad Men"
+        }
+    ],
+    "title": "Mad Men"
+}

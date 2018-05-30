@@ -1,0 +1,374 @@
+prim_state,area_name,tot_emp,emp_prse,jobs_1000,loc_quotient
+oh,springfield, oh,**,**,**,**
+wa,mount vernon-anacortes, wa,**,**,**,**
+pr,aguadilla-isabela-san sebastian, pr,160,4.4,3.727,3.62
+pr,ponce, pr,180,3.6,3.434,3.34
+pr,san german-cabo rojo, pr,50,0.2,2.679,2.6
+pr,mayaguez, pr,80,1.4,2.563,2.49
+ky,owensboro, ky,100,34,2.099,2.04
+ny,nassau-suffolk, ny metropolitan division,2530,6.6,2.05,1.99
+md,bethesda-rockville-frederick, md metropolitan division,1140,19.1,2.036,1.98
+ct,new haven, ct,550,9,2.01,1.95
+ma,haverhill-north andover-amesbury, ma-nh necta division,160,6,1.985,1.93
+fl,tallahassee, fl,310,3,1.975,1.92
+nc,durham-chapel hill, nc,540,1.7,1.962,1.91
+ny,ithaca, ny,100,33.7,1.954,1.9
+de,dover, de,120,42.6,1.952,1.9
+mo,st. joseph, mo-ks,100,12.6,1.942,1.89
+fl,gainesville, fl,220,9.1,1.805,1.75
+ny,poughkeepsie-newburgh-middletown, ny,440,10.3,1.802,1.75
+ia,iowa city, ia,160,45.5,1.792,1.74
+ks,lawrence, ks,80,11.7,1.754,1.7
+ma,worcester, ma-ct,420,6.9,1.73,1.68
+nd,grand forks, nd-mn,90,2.8,1.716,1.67
+in,anderson, in,60,15.4,1.7,1.65
+ks,manhattan, ks,80,7.4,1.68,1.63
+ma,springfield, ma-ct,480,9.1,1.67,1.62
+fl,ocala, fl,150,40.7,1.667,1.62
+al,auburn-opelika, al,80,6.7,1.658,1.61
+ca,madera-chowchilla, ca,60,30.1,1.655,1.61
+oh,dayton, oh,610,29.7,1.652,1.6
+sc,sumter, sc,60,17,1.644,1.6
+wi,sheboygan, wi,90,16.8,1.613,1.57
+ok,lawton, ok,70,23.4,1.612,1.57
+il,bloomington-normal, il,140,9.6,1.608,1.56
+ny,kingston, ny,90,8.1,1.607,1.56
+ks,topeka, ks,170,10,1.604,1.56
+ky,bowling green, ky,90,6.8,1.58,1.53
+md,salisbury, md,80,2.1,1.569,1.52
+ga,athens-clarke county, ga,120,5.1,1.556,1.51
+ar,jonesboro, ar,80,3.8,1.539,1.49
+ny,albany-schenectady-troy, ny,660,5.1,1.538,1.49
+in,muncie, in,70,4.3,1.524,1.48
+va,lynchburg, va,150,18.2,1.515,1.47
+ct,norwich-new london, ct-ri,190,11.2,1.513,1.47
+mi,niles-benton harbor, mi,90,22.9,1.508,1.46
+tx,mcallen-edinburg-mission, tx,350,3,1.5,1.46
+tn,kingsport-bristol-bristol, tn-va,170,16,1.5,1.46
+ct,hartford-west hartford-east hartford, ct,830,8.1,1.486,1.44
+ms,jackson, ms,370,7.7,1.477,1.43
+ny,glens falls, ny,80,6.7,1.466,1.42
+pa,johnstown, pa,80,8.9,1.465,1.42
+wi,madison, wi,500,5.6,1.463,1.42
+nc,fayetteville, nc,180,6.9,1.461,1.42
+pr,san juan-caguas-guaynabo, pr,1050,1.5,1.459,1.42
+ma,pittsfield, ma,50,13.9,1.454,1.41
+ma,boston-cambridge-quincy, ma necta division,2540,2.3,1.452,1.41
+nc,burlington, nc,80,8.3,1.452,1.41
+ny,syracuse, ny,440,6.8,1.447,1.41
+wa,olympia, wa,140,17.6,1.446,1.4
+mi,ann arbor, mi,290,9,1.437,1.4
+in,bloomington, in,100,3.6,1.429,1.39
+la,alexandria, la,90,18.9,1.421,1.38
+il,peoria, il,260,29,1.413,1.37
+md,cumberland, md-wv,50,18.4,1.411,1.37
+dc,washington-arlington-alexandria, dc-va-md-wv metropolitan division,3340,2.4,1.409,1.37
+ny,rochester, ny,700,4.4,1.407,1.37
+sc,columbia, sc,480,2.5,1.397,1.36
+nj,edison-new brunswick, nj metropolitan division,1370,18.2,1.391,1.35
+ct,waterbury, ct,90,10.8,1.39,1.35
+in,south bend-mishawaka, in-mi,170,5.4,1.385,1.34
+nh,rochester-dover, nh-me,70,16.6,1.377,1.34
+co,greeley, co,120,5.3,1.376,1.34
+ms,pascagoula, ms,70,18.4,1.375,1.34
+ny,utica-rome, ny,170,13.5,1.372,1.33
+fl,palm bay-melbourne-titusville, fl,260,6,1.363,1.32
+mo,jefferson city, mo,100,13.6,1.36,1.32
+il,lake county-kenosha county, il-wi metropolitan division,510,20.5,1.35,1.31
+nd,bismarck, nd,90,13.6,1.34,1.3
+ma,leominster-fitchburg-gardner, ma,60,31.7,1.332,1.29
+or,corvallis, or,40,6.8,1.327,1.29
+oh,canton-massillon, oh,220,8.7,1.325,1.29
+wi,fond du lac, wi,60,12.2,1.324,1.29
+fl,deltona-daytona beach-ormond beach, fl,200,12.2,1.319,1.28
+me,bangor, me,80,10.4,1.319,1.28
+ri,providence-fall river-warwick, ri-ma,710,5,1.315,1.28
+la,monroe, la,100,4,1.308,1.27
+ga,rome, ga,50,25,1.304,1.27
+ct,bridgeport-stamford-norwalk, ct,540,5.6,1.295,1.26
+nj,trenton-ewing, nj,280,15.6,1.29,1.25
+ct,danbury, ct,90,20.4,1.284,1.25
+pa,state college, pa,80,10.6,1.283,1.25
+wv,morgantown, wv,80,7.2,1.278,1.24
+pa,pittsburgh, pa,1440,9.4,1.275,1.24
+va,virginia beach-norfolk-newport news, va-nc,920,8.9,1.272,1.24
+me,portland-south portland-biddeford, me,250,6.6,1.272,1.24
+il,kankakee-bradley, il,50,37.5,1.271,1.23
+tn,morristown, tn,60,9.6,1.269,1.23
+sc,anderson, sc,80,12,1.268,1.23
+ma,barnstable town, ma,120,9,1.267,1.23
+sc,greenville-mauldin-easley, sc,380,8.6,1.266,1.23
+nh,nashua, nh-ma necta division,170,5.8,1.266,1.23
+va,richmond, va,770,3.6,1.265,1.23
+nc,raleigh-cary, nc,670,9.6,1.258,1.22
+tn,cleveland, tn,50,8.1,1.243,1.21
+oh,cleveland-elyria-mentor, oh,1250,13.5,1.241,1.21
+mo,springfield, mo,230,18.8,1.241,1.21
+va,harrisonburg, va,70,0,1.241,1.21
+tx,el paso, tx,350,6.1,1.234,1.2
+nc,greenville, nc,90,8.4,1.229,1.19
+tx,brownsville-harlingen, tx,160,2.8,1.223,1.19
+id,pocatello, id,40,8,1.221,1.19
+md,baltimore-towson, md,1560,3.9,1.218,1.18
+wv,parkersburg-marietta-vienna, wv-oh,80,13.1,1.215,1.18
+tn,clarksville, tn-ky,100,7.7,1.212,1.18
+tx,killeen-temple-fort hood, tx,160,11.6,1.211,1.18
+ga,albany, ga,70,13.9,1.202,1.17
+il,decatur, il,60,15.2,1.198,1.16
+ky,lexington-fayette, ky,300,5.1,1.192,1.16
+oh,toledo, oh,350,11.6,1.19,1.16
+ut,logan, ut-id,60,20.1,1.183,1.15
+nj,newark-union, nj-pa metropolitan division,1130,13.2,1.179,1.15
+ma,brockton-bridgewater-easton, ma necta division,110,6.9,1.178,1.14
+al,anniston-oxford, al,50,13.8,1.175,1.14
+tn,jackson, tn,70,10.6,1.174,1.14
+ms,hattiesburg, ms,70,8,1.173,1.14
+nc,rocky mount, nc,60,5.4,1.173,1.14
+in,lafayette, in,100,44.5,1.171,1.14
+wa,spokane, wa,230,4.5,1.17,1.14
+il,champaign-urbana, il,110,15.6,1.164,1.13
+ar,fort smith, ar-ok,130,7.4,1.161,1.13
+tx,abilene, tx,70,12.4,1.155,1.12
+nh,manchester, nh,120,7.1,1.145,1.11
+nc,greensboro-high point, nc,390,4.1,1.139,1.11
+va,charlottesville, va,110,7.2,1.139,1.11
+ny,binghamton, ny,120,4,1.138,1.11
+wi,la crosse, wi-mn,80,11.5,1.136,1.1
+wa,yakima, wa,90,4.2,1.132,1.1
+ar,little rock-north little rock-conway, ar,380,9.3,1.129,1.1
+al,montgomery, al,180,3.9,1.128,1.1
+in,terre haute, in,70,9.1,1.124,1.09
+nj,ocean city, nj,40,18.8,1.124,1.09
+va,roanoke, va,170,11.1,1.118,1.09
+va,blacksburg-christiansburg-radford, va,70,9.9,1.117,1.09
+tx,wichita falls, tx,60,4.1,1.116,1.08
+mo,columbia, mo,100,16.8,1.112,1.08
+nc,winston-salem, nc,230,13.1,1.111,1.08
+la,baton rouge, la,410,3.2,1.105,1.07
+al,tuscaloosa, al,100,20.3,1.102,1.07
+me,lewiston-auburn, me,50,21.3,1.102,1.07
+ma,new bedford, ma,70,29.9,1.1,1.07
+az,prescott, az,60,32.8,1.096,1.06
+il,chicago-joliet-naperville, il metropolitan division,4050,10.3,1.094,1.06
+wa,tacoma, wa metropolitan division,290,6.6,1.093,1.06
+co,boulder, co,180,4.8,1.091,1.06
+ca,yuba city, ca,40,23.8,1.089,1.06
+nj,camden, nj metropolitan division,550,10.2,1.088,1.06
+ar,fayetteville-springdale-rogers, ar-mo,230,3.6,1.086,1.06
+de,wilmington, de-md-nj metropolitan division,350,5.6,1.081,1.05
+co,fort collins-loveland, co,150,1,1.079,1.05
+mi,monroe, mi,40,13.3,1.075,1.04
+hi,honolulu, hi,470,3.1,1.068,1.04
+sc,florence, sc,90,4.6,1.068,1.04
+mo,cape girardeau-jackson, mo-il,40,14.1,1.068,1.04
+nm,santa fe, nm,60,5,1.067,1.04
+fl,west palm beach-boca raton-boynton beach, fl metropolitan division,560,4,1.065,1.03
+va,winchester, va-wv,60,45.2,1.062,1.03
+mn,st. cloud, mn,100,7.7,1.06,1.03
+ma,framingham, ma necta division,170,10.6,1.056,1.03
+ca,san francisco-san mateo-redwood city, ca metropolitan division,1100,5.1,1.05,1.02
+pa,scranton--wilkes-barre, pa,260,13.9,1.05,1.02
+ne,omaha-council bluffs, ne-ia,480,5,1.049,1.02
+la,lake charles, la,90,0,1.045,1.01
+ma,peabody, ma necta division,110,14.7,1.04,1.01
+sd,rapid city, sd,60,1.1,1.039,1.01
+ny,new york-white plains-wayne, ny-nj metropolitan division,5440,5.9,1.038,1.01
+tx,amarillo, tx,110,5.6,1.038,1.01
+ky,elizabethtown, ky,50,4.9,1.037,1.01
+wi,janesville, wi,60,10.1,1.035,1
+nc,asheville, nc,180,4.8,1.033,1
+ia,davenport-moline-rock island, ia-il,190,15.3,1.031,1
+in,kokomo, in,40,4.8,1.031,1
+mo,kansas city, mo-ks,1020,7.9,1.03,1
+al,gadsden, al,40,12.4,1.029,1
+pa,philadelphia, pa metropolitan division,1890,7,1.028,1
+ok,oklahoma city, ok,610,16.1,1.028,1
+tx,austin-round rock-san marcos, tx,880,5.4,1.026,1
+ut,provo-orem, ut,190,7.6,1.025,1
+mo,st. louis, mo-il,1320,5.7,1.024,0.99
+in,indianapolis-carmel, in,930,10.2,1.024,0.99
+ga,augusta-richmond county, ga-sc,210,6.6,1.015,0.99
+tn,nashville-davidson--murfreesboro--franklin, tn,800,3.9,1.014,0.99
+vt,burlington-south burlington, vt,120,19,1.011,0.98
+sc,charleston-north charleston-summerville, sc,300,3.2,1.009,0.98
+mt,missoula, mt,60,6.6,1.009,0.98
+fl,lakeland-winter haven, fl,200,3.4,1.007,0.98
+wa,seattle-bellevue-everett, wa metropolitan division,1460,5.3,1.005,0.98
+ga,warner robins, ga,60,10.6,1.005,0.98
+tx,sherman-denison, tx,40,11.2,1.004,0.98
+nc,goldsboro, nc,40,16.8,1.004,0.97
+ma,lowell-billerica-chelmsford, ma-nh necta division,120,10.2,1.003,0.97
+mn,mankato-north mankato, mn,50,32,1.002,0.97
+nc,jacksonville, nc,40,3.7,1.001,0.97
+ks,wichita, ks,280,15.1,0.998,0.97
+or,salem, or,140,8.8,0.995,0.97
+ms,gulfport-biloxi, ms,100,6.3,0.995,0.97
+fl,pensacola-ferry pass-brent, fl,150,4.6,0.994,0.97
+il,springfield, il,100,18.5,0.993,0.96
+nc,charlotte-gastonia-rock hill, nc-sc,870,2.2,0.989,0.96
+ga,gainesville, ga,70,6.9,0.989,0.96
+ia,sioux city, ia-ne-sd,70,18.3,0.988,0.96
+ny,buffalo-niagara falls, ny,530,9.1,0.987,0.96
+co,colorado springs, co,240,3.9,0.987,0.96
+az,flagstaff, az,60,7.7,0.984,0.96
+ca,santa cruz-watsonville, ca,80,8.3,0.98,0.95
+tx,waco, tx,100,4.6,0.978,0.95
+ga,atlanta-sandy springs-marietta, ga,2250,6.6,0.975,0.95
+pa,reading, pa,160,10.2,0.972,0.94
+oh,cincinnati-middletown, oh-ky-in,970,6,0.971,0.94
+nc,hickory-lenoir-morganton, nc,140,6.1,0.971,0.94
+mt,billings, mt,80,7.9,0.97,0.94
+tx,fort worth-arlington, tx metropolitan division,880,13.9,0.969,0.94
+al,mobile, al,160,22.8,0.968,0.94
+tx,san antonio-new braunfels, tx,860,1.8,0.967,0.94
+ca,merced, ca,60,31.1,0.966,0.94
+in,gary, in metropolitan division,260,14.6,0.964,0.94
+nd,fargo, nd-mn,120,7.3,0.964,0.94
+tx,laredo, tx,90,8.9,0.962,0.93
+tn,memphis, tn-ms-ar,570,3.5,0.961,0.93
+wa,kennewick-pasco-richland, wa,90,5.5,0.96,0.93
+or,portland-vancouver-hillsboro, or-wa,980,6.3,0.957,0.93
+id,idaho falls, id,50,29.3,0.955,0.93
+ak,fairbanks, ak,30,0,0.955,0.93
+md,hagerstown-martinsburg, md-wv,100,6,0.954,0.93
+tx,college station-bryan, tx,90,26.5,0.953,0.93
+co,pueblo, co,50,1.1,0.952,0.92
+va,danville, va,40,24,0.951,0.92
+ia,waterloo-cedar falls, ia,90,11.9,0.95,0.92
+ia,cedar rapids, ia,130,15.1,0.949,0.92
+ar,pine bluff, ar,30,3,0.935,0.91
+tn,johnson city, tn,70,11.3,0.929,0.9
+id,boise city-nampa, id,250,11.4,0.927,0.9
+or,eugene-springfield, or,130,9.2,0.926,0.9
+tx,beaumont-port arthur, tx,140,8.3,0.925,0.9
+wy,cheyenne, wy,40,0,0.922,0.9
+oh,columbus, oh,860,23.5,0.917,0.89
+pa,allentown-bethlehem-easton, pa-nj,310,9.4,0.916,0.89
+mn,duluth, mn-wi,110,21,0.916,0.89
+ia,ames, ia,40,10.3,0.902,0.88
+tx,victoria, tx,50,5.2,0.897,0.87
+tx,lubbock, tx,120,4,0.896,0.87
+tx,midland, tx,70,3.9,0.896,0.87
+mt,great falls, mt,30,17.5,0.896,0.87
+mo,joplin, mo,70,14.1,0.895,0.87
+fl,panama city-lynn haven-panama city beach, fl,60,2.5,0.893,0.87
+pa,harrisburg-carlisle, pa,270,13.2,0.891,0.87
+ak,anchorage, ak,160,1.8,0.888,0.86
+ca,sacramento--arden-arcade--roseville, ca,740,20.6,0.884,0.86
+mi,holland-grand haven, mi,90,15.5,0.883,0.86
+oh,akron, oh,280,10.8,0.88,0.85
+tn,chattanooga, tn-ga,200,11.4,0.873,0.85
+or,medford, or,70,38.2,0.872,0.85
+la,shreveport-bossier city, la,150,1.1,0.871,0.85
+nh,portsmouth, nh-me,50,20.9,0.871,0.85
+oh,sandusky, oh,30,13.3,0.871,0.85
+al,decatur, al,50,17.2,0.868,0.84
+wv,wheeling, wv-oh,50,26.8,0.861,0.84
+mn,rochester, mn,90,38.5,0.86,0.84
+ga,savannah, ga,130,12.1,0.858,0.83
+ga,brunswick, ga,30,9.4,0.849,0.82
+fl,sebastian-vero beach, fl,40,2.5,0.848,0.82
+tn,knoxville, tn,270,7,0.846,0.82
+al,huntsville, al,180,10.8,0.843,0.82
+pa,lebanon, pa,40,29.5,0.84,0.82
+al,dothan, al,50,8.9,0.839,0.82
+sc,spartanburg, sc,100,6.5,0.838,0.81
+la,houma-bayou cane-thibodaux, la,80,2.2,0.837,0.81
+mi,muskegon-norton shores, mi,50,19.1,0.832,0.81
+fl,jacksonville, fl,490,10,0.827,0.8
+ma,taunton-norton-raynham, ma necta division,40,3.7,0.827,0.8
+co,denver-aurora-broomfield, co,1050,2.4,0.822,0.8
+ga,macon, ga,80,15.8,0.822,0.8
+oh,mansfield, oh,40,17.7,0.816,0.79
+wa,bremerton-silverdale, wa,60,4.9,0.812,0.79
+oh,youngstown-warren-boardman, oh-pa,180,13,0.811,0.79
+mn,minneapolis-st. paul-bloomington, mn-wi,1450,4.8,0.81,0.79
+tx,houston-sugar land-baytown, tx,2230,2.4,0.808,0.78
+la,new orleans-metairie-kenner, la,420,3.7,0.805,0.78
+ok,tulsa, ok,340,4.8,0.805,0.78
+ky,louisville-jefferson county, ky-in,490,3.7,0.803,0.78
+wi,green bay, wi,130,16.5,0.803,0.78
+la,lafayette, la,120,3.1,0.801,0.78
+tx,longview, tx,80,11.2,0.801,0.78
+fl,tampa-st. petersburg-clearwater, fl,920,5.4,0.798,0.77
+mi,lansing-east lansing, mi,160,12.4,0.797,0.77
+tx,tyler, tx,70,8.2,0.797,0.77
+nj,atlantic city-hammonton, nj,110,7.8,0.795,0.77
+az,tucson, az,280,5.4,0.792,0.77
+ia,dubuque, ia,50,9.4,0.791,0.77
+ne,lincoln, ne,130,2,0.786,0.76
+tx,dallas-plano-irving, tx metropolitan division,1680,4.6,0.784,0.76
+fl,north port-bradenton-sarasota, fl,190,4.2,0.784,0.76
+fl,fort lauderdale-pompano beach-deerfield beach, fl metropolitan division,570,5.8,0.781,0.76
+in,michigan city-la porte, in,30,32.7,0.779,0.76
+wi,milwaukee-waukesha-west allis, wi,630,4.6,0.777,0.75
+wv,huntington-ashland, wv-ky-oh,80,10,0.777,0.75
+wv,charleston, wv,110,13.3,0.774,0.75
+mi,kalamazoo-portage, mi,100,19,0.764,0.74
+ca,salinas, ca,120,31.1,0.76,0.74
+tx,corpus christi, tx,140,10.2,0.755,0.73
+ca,oakland-fremont-hayward, ca metropolitan division,760,16.3,0.754,0.73
+ia,des moines-west des moines, ia,250,13.8,0.75,0.73
+nc,wilmington, nc,100,5.9,0.749,0.73
+pa,williamsport, pa,40,14.5,0.749,0.73
+ca,san jose-sunnyvale-santa clara, ca,700,12.5,0.748,0.73
+ga,columbus, ga-al,80,14.1,0.741,0.72
+sd,sioux falls, sd,100,2.7,0.739,0.72
+nj,vineland-millville-bridgeton, nj,40,5,0.739,0.72
+fl,port st. lucie, fl,90,6.1,0.737,0.72
+wa,bellingham, wa,60,16.2,0.737,0.72
+al,birmingham-hoover, al,360,10.6,0.736,0.72
+mi,battle creek, mi,40,9.3,0.736,0.72
+il,rockford, il,110,14.1,0.735,0.71
+in,fort wayne, in,150,4.9,0.733,0.71
+fl,naples-marco island, fl,90,1.6,0.722,0.7
+mi,saginaw-saginaw township north, mi,60,16.3,0.716,0.7
+pa,erie, pa,90,18.6,0.712,0.69
+ga,dalton, ga,40,15.2,0.712,0.69
+nm,farmington, nm,40,4.2,0.703,0.68
+ga,valdosta, ga,30,10.3,0.691,0.67
+nv,reno-sparks, nv,130,0.3,0.69,0.67
+wi,wausau, wi,40,21.5,0.686,0.67
+tx,texarkana-texarkana, tx-ar,40,9.2,0.679,0.66
+al,florence-muscle shoals, al,30,28.3,0.669,0.65
+co,grand junction, co,40,7.3,0.668,0.65
+fl,miami-miami beach-kendall, fl metropolitan division,680,6.8,0.663,0.64
+ca,san luis obispo-paso robles, ca,70,25.6,0.663,0.64
+wi,racine, wi,50,16.1,0.663,0.64
+ca,stockton, ca,130,19,0.661,0.64
+mi,detroit-livonia-dearborn, mi metropolitan division,460,8.9,0.651,0.63
+ca,el centro, ca,30,12.7,0.65,0.63
+pa,lancaster, pa,140,15.4,0.649,0.63
+nm,albuquerque, nm,240,6.8,0.645,0.63
+pa,york-hanover, pa,110,11.6,0.645,0.63
+ca,los angeles-long beach-glendale, ca  metropolitan division,2530,5.9,0.638,0.62
+ca,santa barbara-santa maria-goleta, ca,100,30.7,0.606,0.59
+fl,orlando-kissimmee-sanford, fl,630,1.9,0.605,0.59
+in,elkhart-goshen, in,70,5.6,0.599,0.58
+wi,oshkosh-neenah, wi,50,13.7,0.594,0.58
+id,coeur d'alene, id,30,17.9,0.586,0.57
+in,evansville, in-ky,100,4.4,0.576,0.56
+ca,fresno, ca,180,24.4,0.573,0.56
+ut,salt lake city, ut,370,7.5,0.567,0.55
+fl,cape coral-fort myers, fl,120,22.2,0.562,0.55
+wi,eau claire, wi,40,11.7,0.553,0.54
+ca,vallejo-fairfield, ca,70,11.2,0.549,0.53
+mi,flint, mi,70,11.4,0.541,0.53
+az,yuma, az,30,20.4,0.54,0.52
+mi,warren-troy-farmington hills, mi metropolitan division,600,8.6,0.538,0.52
+ca,napa, ca,40,28.4,0.533,0.52
+az,phoenix-mesa-glendale, az,950,5.5,0.531,0.52
+tx,odessa, tx,40,0,0.522,0.51
+nm,las cruces, nm,40,9,0.521,0.51
+mi,grand rapids-wyoming, mi,210,14.2,0.516,0.5
+ca,santa rosa-petaluma, ca,90,21.1,0.509,0.49
+ca,san diego-carlsbad-san marcos, ca,650,6.6,0.506,0.49
+nv,las vegas-paradise, nv,410,1,0.492,0.48
+ca,chico, ca,30,28.3,0.49,0.48
+wi,appleton, wi,60,19.6,0.488,0.47
+ca,riverside-san bernardino-ontario, ca,550,19,0.459,0.45
+ca,oxnard-thousand oaks-ventura, ca,120,7.8,0.415,0.4
+ca,santa ana-anaheim-irvine, ca metropolitan division,570,7,0.392,0.38
+ca,modesto, ca,60,30.1,0.359,0.35
+ca,bakersfield-delano, ca,90,9.8,0.304,0.3
+ut,ogden-clearfield, ut,30,15.5,0.163,0.16

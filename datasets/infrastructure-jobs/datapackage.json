@@ -1,0 +1,44 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "infrastructure-jobs",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "payroll-states",
+            "path": "datasets\\infrastructure-jobs\\data\\payroll-states.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "state_code",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "state_name",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/infrastructure-jobs",
+            "title": "FiveThirtyEight - Infrastructure Jobs"
+        }
+    ],
+    "title": "Infrastructure Jobs"
+}

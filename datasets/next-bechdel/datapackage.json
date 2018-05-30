@@ -1,0 +1,199 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "next-bechdel",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nextBechdel_allTests",
+            "path": "datasets\\next-bechdel\\data\\nextBechdel_allTests.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "movie",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bechdel",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "peirce",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "landau",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "feldman",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "villareal",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hagen",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ko",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "villarobos",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "waithe",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "koeze_dottle",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "uphold",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rees-davies",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nextBechdel_castGender",
+            "path": "datasets\\next-bechdel\\data\\nextBechdel_castGender.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "movie",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "actor",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "character_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "type",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "billing",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nextBechdel_crewGender",
+            "path": "datasets\\next-bechdel\\data\\nextBechdel_crewGender.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "movie",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "department",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "full_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "first_name",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "imdb",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender_prob",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gender_guess",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/next-bechdel",
+            "title": "FiveThirtyEight - Next Bechdel"
+        }
+    ],
+    "title": "Next Bechdel"
+}

@@ -1,0 +1,199 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "terrorism",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "country_stats_1993_appendix2",
+            "path": "datasets\\terrorism\\data\\country_stats_1993_appendix2.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "country",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number of incidents",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "percent",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number killed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number injured",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number us killed",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "number us injured",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "eu_terrorism_fatalities_by_country",
+            "path": "datasets\\terrorism\\data\\eu_terrorism_fatalities_by_country.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "iyear",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "belgium",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "denmark",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "france",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "germany",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "greece",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ireland",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "italy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "luxembourg",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "netherlands",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "portugal",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "spain",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "united kingdom",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "eu_terrorism_fatalities_by_year",
+            "path": "datasets\\terrorism\\data\\eu_terrorism_fatalities_by_year.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "iyear",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatalities",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "france_terrorism_fatalities_by_year",
+            "path": "datasets\\terrorism\\data\\france_terrorism_fatalities_by_year.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "iyear",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "fatalities",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/terrorism",
+            "title": "FiveThirtyEight - Terrorism"
+        }
+    ],
+    "title": "Terrorism"
+}

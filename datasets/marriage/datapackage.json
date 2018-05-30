@@ -1,0 +1,1549 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "marriage",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "both_sexes",
+            "path": "datasets\\marriage\\data\\both_sexes.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_rich_2534",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "divorce",
+            "path": "datasets\\marriage\\data\\divorce.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_4554",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "men",
+            "path": "datasets\\marriage\\data\\men.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_rich_2534",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "women",
+            "path": "datasets\\marriage\\data\\women.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "year",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "date",
+                        "type": "date"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_3544",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "all_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hs_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "sc_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bap_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bao_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "gd_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "white_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "black_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hisp_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ne_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "ma_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "midwest_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "south_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mountain_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "pacific_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "poor_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mid_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rich_4554",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_white_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_black_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_hisp_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "work_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nowork_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_all_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_hs_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_sc_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bap_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_bao_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_gd_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "nokids_rich_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_poor_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_mid_2534",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kids_rich_2534",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/marriage",
+            "title": "FiveThirtyEight - Marriage"
+        }
+    ],
+    "title": "Marriage"
+}

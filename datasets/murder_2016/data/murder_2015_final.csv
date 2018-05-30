@@ -1,0 +1,84 @@
+city,state,2014_murders,2015_murders,change
+baltimore,maryland,211,344,133
+chicago,illinois,411,478,67
+houston,texas,242,303,61
+cleveland,ohio,63,120,57
+washington,d.c.,105,162,57
+milwaukee,wisconsin,90,145,55
+philadelphia,pennsylvania,248,280,32
+kansas city,missouri,78,109,31
+nashville,tennessee,41,72,31
+st. louis,missouri,159,188,29
+oklahoma city,oklahoma,45,73,28
+louisville,kentucky,56,81,25
+denver,colorado,31,53,22
+los angeles,california,260,282,22
+dallas,texas,116,136,20
+new york,new york,333,352,19
+orlando,florida,15,32,17
+minneapolis,minnesota,31,47,16
+omaha,nebraska,32,48,16
+sacramento,california,28,43,15
+anchorage,alaska,12,26,14
+charlotte-mecklenburg,north carolina,47,61,14
+new orleans,louisiana,150,164,14
+albuquerque,new mexico,30,43,13
+aurora,colorado,11,24,13
+fort wayne,indiana,12,25,13
+long beach,california,23,36,13
+durham,north carolina,21,34,13
+indianapolis,indiana,136,148,12
+newark,new jersey,93,104,11
+tulsa,oklahoma,46,55,9
+portland,oregon,26,34,8
+san francisco,california,45,53,8
+cincinnati,ohio,60,66,6
+tampa,florida,28,34,6
+bakersfield,california,17,22,5
+colorado springs,colorado,20,25,5
+las vegas,nevada,122,127,5
+oakland,california,80,85,5
+san diego,california,32,37,5
+st. paul,minnesota,11,16,5
+anaheim,california,14,18,4
+greensboro,north carolina,23,26,3
+jersey city,new jersey,24,27,3
+mesa,arizona,13,16,3
+fort worth,texas,54,56,2
+virginia beach,virginia,17,19,2
+irvine,california,0,2,2
+atlanta,georgia,93,94,1
+henderson,nevada,3,4,1
+jacksonville,florida,96,97,1
+raleigh,north carolina,16,17,1
+wichita,kansas,26,27,1
+chandler,arizona,1,1,0
+plano,texas,4,4,0
+stockton,california,49,49,0
+toledo,ohio,24,24,0
+chula vista,california,7,6,-1
+phoenix,arizona,114,112,-2
+riverside,california,12,10,-2
+san jose,california,32,30,-2
+detroit,michigan,298,295,-3
+seattle,washington,26,23,-3
+el paso,texas,21,17,-4
+tucson,arizona,35,31,-4
+arlington,texas,13,8,-5
+lexington,kentucky,20,15,-5
+memphis,tennessee,140,135,-5
+st. petersburg,florida,19,14,-5
+columbus,ohio,83,77,-6
+honolulu,hawaii,21,15,-6
+laredo,texas,14,8,-6
+lincoln,nebraska,7,1,-6
+miami,florida,81,75,-6
+santa ana,california,18,12,-6
+mobile,alabama,31,24,-7
+fresno,california,47,39,-8
+austin,texas,32,23,-9
+san antonio,texas,103,94,-9
+corpus christi,texas,27,17,-10
+pittsburgh,pennsylvania,69,57,-12
+boston,massachusetts,53,38,-15
+buffalo,new york,60,41,-19

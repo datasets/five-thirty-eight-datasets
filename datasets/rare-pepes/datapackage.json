@@ -1,0 +1,134 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "rare-pepes",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "blocks_timestamps",
+            "path": "datasets\\rare-pepes\\data\\blocks_timestamps.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "block",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "integer"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "ordermatches_all",
+            "path": "datasets\\rare-pepes\\data\\ordermatches_all.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "block",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "forwardasset",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "forwardquantity",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "backwardasset",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "backwardquantity",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "pepecash_prices",
+            "path": "datasets\\rare-pepes\\data\\pepecash_prices.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "price",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "xcp_prices",
+            "path": "datasets\\rare-pepes\\data\\xcp_prices.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "timestamp",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "price",
+                        "type": "number"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/rare-pepes",
+            "title": "FiveThirtyEight - Rare Pepes"
+        }
+    ],
+    "title": "Rare Pepes"
+}

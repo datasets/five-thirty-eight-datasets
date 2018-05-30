@@ -1,0 +1,199 @@
+{
+    "licences": [
+        {
+            "name": "odc-pddl",
+            "path": "http://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and Licence (PDDL)"
+        }
+    ],
+    "name": "love-actually",
+    "resources": [
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "love_actually_adjacencies",
+            "path": "datasets\\love-actually\\data\\love_actually_adjacencies.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "actors",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bill_nighy",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "keira_knightley",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "andrew_lincoln",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hugh_grant",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "colin_firth",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alan_rickman",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "heike_makatsch",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "laura_linney",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "emma_thompson",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "liam_neeson",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kris_marshall",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "abdul_salis",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martin_freeman",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rowan_atkinson",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "love_actually_appearances",
+            "path": "datasets\\love-actually\\data\\love_actually_appearances.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "format": "default",
+                        "name": "scenes",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bill_nighy",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "keira_knightley",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "andrew_lincoln",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "hugh_grant",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "colin_firth",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "alan_rickman",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "heike_makatsch",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "laura_linney",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "emma_thompson",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "liam_neeson",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "kris_marshall",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "abdul_salis",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "martin_freeman",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "rowan_atkinson",
+                        "type": "string"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "sources": [
+        {
+            "path": "https://github.com//fivethirtyeight/data/tree/master/love-actually",
+            "title": "FiveThirtyEight - Love Actually"
+        }
+    ],
+    "title": "Love Actually"
+}
