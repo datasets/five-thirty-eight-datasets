@@ -18,8 +18,6 @@ def init(file='generated_links.txt'):
     # generate_dataset('https://github.com//fivethirtyeight/data/tree/master/congress-generic-ballot')
     with open(file, "r") as links:
         for i, link in enumerate(links.readlines()):
-            if i < 107:
-                continue
             print(str(i) + ': ' + str(link))
             generate_dataset(link)
 
