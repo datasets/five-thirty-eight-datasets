@@ -46,4 +46,4 @@ Header | Definition
 `TOTper9innASG` | Expected runs added above average (from talent) based on PA/IP in ASG, scaled to a 9-inning game
 
 
-This dataset was scraped from [FiveThirtyEight - mlb-allstar-teams](https://github.com//fivethirtyeight/data/tree/master/mlb-allstar-teams)
+This dataset was scraped from [FiveThirtyEight - mlb-allstar-teams](https://github.com/fivethirtyeight/data/tree/master/mlb-allstar-teams)

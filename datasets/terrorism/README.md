@@ -19,4 +19,4 @@ Header | Notes
 `eu_terrorism_fatalities_by_country.csv` | The raw data behind the chart above
 `country_stats_1993_appendix2.csv` | This data is from Appendix II of the GTD codebook (found on pages 60-62); it includes country-level statistics on terrorism incidents in the year 1993.
 
-This dataset was scraped from [FiveThirtyEight - terrorism](https://github.com//fivethirtyeight/data/tree/master/terrorism)
+This dataset was scraped from [FiveThirtyEight - terrorism](https://github.com/fivethirtyeight/data/tree/master/terrorism)

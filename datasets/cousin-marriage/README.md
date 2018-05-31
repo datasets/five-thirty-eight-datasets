@@ -8,4 +8,4 @@ Header | Definition
 
 Source: [cosang.net](http://www.consang.net/index.php/Main_Page)
 
-This dataset was scraped from [FiveThirtyEight - cousin-marriage](https://github.com//fivethirtyeight/data/tree/master/cousin-marriage)
+This dataset was scraped from [FiveThirtyEight - cousin-marriage](https://github.com/fivethirtyeight/data/tree/master/cousin-marriage)

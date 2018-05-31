@@ -13,4 +13,4 @@ Header | Definition
 `gdp_source` | Source for `gdp06`
 `popu_source` | Source for `popu06`
 
-This dataset was scraped from [FiveThirtyEight - elo-blatter](https://github.com//fivethirtyeight/data/tree/master/elo-blatter)
+This dataset was scraped from [FiveThirtyEight - elo-blatter](https://github.com/fivethirtyeight/data/tree/master/elo-blatter)

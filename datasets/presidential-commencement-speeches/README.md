@@ -17,4 +17,4 @@ Header | Definition
 
 Source: [American Presidency Project](http://www.presidency.ucsb.edu/), Gerhard Peters and John T. Woolley
 
-This dataset was scraped from [FiveThirtyEight - presidential-commencement-speeches](https://github.com//fivethirtyeight/data/tree/master/presidential-commencement-speeches)
+This dataset was scraped from [FiveThirtyEight - presidential-commencement-speeches](https://github.com/fivethirtyeight/data/tree/master/presidential-commencement-speeches)

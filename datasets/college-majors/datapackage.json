@@ -416,7 +416,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/college-majors",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/college-majors",
             "title": "FiveThirtyEight - College Majors"
         }
     ],

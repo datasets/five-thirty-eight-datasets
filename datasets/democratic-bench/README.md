@@ -8,4 +8,4 @@ Header | Definition
 `raised_exp` | Amount the candidate was expected to raise
 `raised_act` | Amount the candidate actually raised
 
-This dataset was scraped from [FiveThirtyEight - democratic-bench](https://github.com//fivethirtyeight/data/tree/master/democratic-bench)
+This dataset was scraped from [FiveThirtyEight - democratic-bench](https://github.com/fivethirtyeight/data/tree/master/democratic-bench)

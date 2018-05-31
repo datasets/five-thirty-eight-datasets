@@ -1,21 +1,17 @@
 import json
 import os
 from urllib.request import urlopen
-from datapackage import Package
 
 from bs4 import BeautifulSoup
-from markdownify import markdownify as md
+from datapackage import Package
 
-import re
+from generate_links import generate_links
 
 raw_data_url = 'https://raw.githubusercontent.com/fivethirtyeight/data/master/'
 
 
-# maywether and mcgregor tweets doesn't work when creating datapackage.json
-# trump-twitter same thing
-# twitter-ratio same thing
 def init(file='generated_links.txt'):
-    # generate_dataset('https://github.com//fivethirtyeight/data/tree/master/congress-generic-ballot')
+    generate_links()
     with open(file, "r") as links:
         for i, link in enumerate(links.readlines()):
             print(str(i) + ': ' + str(link))
@@ -25,7 +21,7 @@ def init(file='generated_links.txt'):
 def generate_dataset(url):
     url = url.strip()
     soup = BeautifulSoup(urlopen(url), 'html.parser')
-    title = url[len('https://github.com/fivethirtyeight/data/tree/master/') + 1:]
+    title = url[len('https://github.com/fivethirtyeight/data/tree/master/'):]
     directory = "datasets/" + title
     csv_found = False
     for link in soup.find_all('a'):
@@ -37,12 +33,12 @@ def generate_dataset(url):
             csv_name = content
             if 'https://' in content:
                 csv_url = content
-                csv_name = content[content.rindex('/')+1:]
+                csv_name = content[content.rindex('/') + 1:]
             if not os.path.exists(directory + "/data/"):
                 os.makedirs(directory + "/data/")
             with open(directory + "/data/" + csv_name, "w", encoding='utf-8') as output_file:
                 for line in urlopen(csv_url):
-                    decoded_line = line.decode('utf-8', 'ignore')
+                    decoded_line = line.decode('ascii', 'ignore')
                     decoded_line = decoded_line.strip().lower()
                     decoded_line = decoded_line.replace('"', '')
                     output_file.write(decoded_line + '\n')
@@ -51,12 +47,12 @@ def generate_dataset(url):
             output_file.close()
 
     if not csv_found:
-       return
+        return
 
     datapackage_creator(location="datasets/" + title,
                         title=title.title().replace('-', ' '),
                         name=title,
-                        source_title='FiveThirtyEight - '+title.title().replace('-', ' '),
+                        source_title='FiveThirtyEight - ' + title.title().replace('-', ' '),
                         source_path=url)
 
     readme_name = ''
@@ -96,23 +92,11 @@ def datapackage_creator(location, title, name, source_title, source_path):
 
     package.commit()
     package.infer(location + '/data/*.csv')
-    # print(package.descriptor)
-    # package.commit()
-    # package.descriptor
     package_json = package.descriptor
     del package_json['profile']
-    # package.descriptor['resources'][0]['schema']['fields'][0]['description'] = 'Date in ISO format'
-    # package.descriptor['resources'][1]['schema']['fields'][0]['description'] = 'Date in ISO format'
-    # package.descriptor['resources'][2]['schema']['fields'][0]['description'] = 'Date in ISO format'
-
-    # package.commit()
-
-    # print(package.valid)
 
     with open(location + '/datapackage.json', 'w') as data_file:
         json.dump(package_json, data_file, indent=4, sort_keys=True)
-
-    # package.save(location + '/datapackage.json')
 
 
 init()

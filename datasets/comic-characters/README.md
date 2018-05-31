@@ -22,4 +22,4 @@ Variable | Definition
 `FIRST APPEARANCE` | The month and year of the character's first appearance in a comic book, if available
 `YEAR` | The year of the character's first appearance in a comic book, if available
 
-This dataset was scraped from [FiveThirtyEight - comic-characters](https://github.com//fivethirtyeight/data/tree/master/comic-characters)
+This dataset was scraped from [FiveThirtyEight - comic-characters](https://github.com/fivethirtyeight/data/tree/master/comic-characters)

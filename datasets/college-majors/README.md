@@ -51,4 +51,4 @@ Header | Description
 `Non_college_jobs` | Number with job not requiring a college degree
 `Low_wage_jobs` | Number in low-wage service jobs
 
-This dataset was scraped from [FiveThirtyEight - college-majors](https://github.com//fivethirtyeight/data/tree/master/college-majors)
+This dataset was scraped from [FiveThirtyEight - college-majors](https://github.com/fivethirtyeight/data/tree/master/college-majors)

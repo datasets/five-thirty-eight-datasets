@@ -24,4 +24,4 @@ Header | Definition
 
 The supplemental file `performer-scores.csv` is the consolidated data from `show-data.csv` made into a pivot table.
 
-This dataset was scraped from [FiveThirtyEight - mad-men](https://github.com//fivethirtyeight/data/tree/master/mad-men)
+This dataset was scraped from [FiveThirtyEight - mad-men](https://github.com/fivethirtyeight/data/tree/master/mad-men)

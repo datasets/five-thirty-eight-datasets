@@ -12,4 +12,4 @@ Header | Definition
 
 Source: Google Knowlege Graph, The Daily Show clip library, Wikipedia.
 
-This dataset was scraped from [FiveThirtyEight - daily-show-guests](https://github.com//fivethirtyeight/data/tree/master/daily-show-guests)
+This dataset was scraped from [FiveThirtyEight - daily-show-guests](https://github.com/fivethirtyeight/data/tree/master/daily-show-guests)

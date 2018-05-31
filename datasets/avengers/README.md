@@ -28,4 +28,4 @@ Header | Definition
 `Return5` | Yes if the Avenger returned from their fifth death, No if they did not, blank if not applicable
 `Notes` | Descriptions of deaths and resurrections.
 
-This dataset was scraped from [FiveThirtyEight - avengers](https://github.com//fivethirtyeight/data/tree/master/avengers)
+This dataset was scraped from [FiveThirtyEight - avengers](https://github.com/fivethirtyeight/data/tree/master/avengers)

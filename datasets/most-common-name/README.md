@@ -20,4 +20,4 @@ And five output files:
 * `new-top-surnames.csv` - Final estimated ranking of top surnames.
 
 
-This dataset was scraped from [FiveThirtyEight - most-common-name](https://github.com//fivethirtyeight/data/tree/master/most-common-name)
+This dataset was scraped from [FiveThirtyEight - most-common-name](https://github.com/fivethirtyeight/data/tree/master/most-common-name)

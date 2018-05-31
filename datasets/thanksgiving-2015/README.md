@@ -69,4 +69,4 @@ Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the follo
 * How much total combined money did all members of your HOUSEHOLD earn last year?
 * US Region
 
-This dataset was scraped from [FiveThirtyEight - thanksgiving-2015](https://github.com//fivethirtyeight/data/tree/master/thanksgiving-2015)
+This dataset was scraped from [FiveThirtyEight - thanksgiving-2015](https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015)

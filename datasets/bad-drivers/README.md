@@ -13,4 +13,4 @@ Variable | Source
 `Car Insurance Premiums ($)` | National Association of Insurance Commissioners, 2011
 `Losses incurred by insurance companies for collisions per insured driver ($)` | National Association of Insurance Commissioners, 2010
 
-This dataset was scraped from [FiveThirtyEight - bad-drivers](https://github.com//fivethirtyeight/data/tree/master/bad-drivers)
+This dataset was scraped from [FiveThirtyEight - bad-drivers](https://github.com/fivethirtyeight/data/tree/master/bad-drivers)

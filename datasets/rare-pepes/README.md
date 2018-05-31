@@ -36,4 +36,4 @@ Header | Definition
 
 Source: [Rare Pepe Foundation](http://rarepepefoundation.com/)
 
-This dataset was scraped from [FiveThirtyEight - rare-pepes](https://github.com//fivethirtyeight/data/tree/master/rare-pepes)
+This dataset was scraped from [FiveThirtyEight - rare-pepes](https://github.com/fivethirtyeight/data/tree/master/rare-pepes)

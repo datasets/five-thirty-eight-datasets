@@ -33,4 +33,4 @@ Header | Description
 `nokids_all` | No own children living at home
 `kids_all` | At least one own child living at home
 
-This dataset was scraped from [FiveThirtyEight - marriage](https://github.com//fivethirtyeight/data/tree/master/marriage)
+This dataset was scraped from [FiveThirtyEight - marriage](https://github.com/fivethirtyeight/data/tree/master/marriage)

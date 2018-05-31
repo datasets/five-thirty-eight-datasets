@@ -7,4 +7,4 @@ files:
 
 This file contains links to the data behind [Tracking Congress In The Age Of Trump](https://projects.fivethirtyeight.com/congress-trump-score/).
 
-This dataset was scraped from [FiveThirtyEight - congress-trump-score](https://github.com//fivethirtyeight/data/tree/master/congress-trump-score)
+This dataset was scraped from [FiveThirtyEight - congress-trump-score](https://github.com/fivethirtyeight/data/tree/master/congress-trump-score)

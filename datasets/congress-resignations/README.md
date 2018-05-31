@@ -19,4 +19,4 @@ Code | Category
 `H` | Military service
 `I` | Election overturned
 
-This dataset was scraped from [FiveThirtyEight - congress-resignations](https://github.com//fivethirtyeight/data/tree/master/congress-resignations)
+This dataset was scraped from [FiveThirtyEight - congress-resignations](https://github.com/fivethirtyeight/data/tree/master/congress-resignations)

@@ -111,7 +111,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-favorite-team",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/nfl-favorite-team",
             "title": "FiveThirtyEight - Nfl Favorite Team"
         }
     ],

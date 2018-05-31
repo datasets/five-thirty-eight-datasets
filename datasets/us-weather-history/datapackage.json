@@ -811,7 +811,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/us-weather-history",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/us-weather-history",
             "title": "FiveThirtyEight - Us Weather History"
         }
     ],

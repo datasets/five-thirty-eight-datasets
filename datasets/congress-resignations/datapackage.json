@@ -66,7 +66,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-resignations",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/congress-resignations",
             "title": "FiveThirtyEight - Congress Resignations"
         }
     ],

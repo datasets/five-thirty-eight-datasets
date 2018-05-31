@@ -121,7 +121,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/tennis-time",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/tennis-time",
             "title": "FiveThirtyEight - Tennis Time"
         }
     ],

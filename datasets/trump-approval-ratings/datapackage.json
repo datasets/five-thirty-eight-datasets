@@ -201,7 +201,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/trump-approval-ratings",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings",
             "title": "FiveThirtyEight - Trump Approval Ratings"
         }
     ],

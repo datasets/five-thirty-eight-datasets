@@ -13,4 +13,4 @@ Senate membership data is mostly from the [New York Times Congress API](http://d
 
 In addition, we added an `incumbent` field to each record.
 
-This dataset was scraped from [FiveThirtyEight - congress-age](https://github.com//fivethirtyeight/data/tree/master/congress-age)
+This dataset was scraped from [FiveThirtyEight - congress-age](https://github.com/fivethirtyeight/data/tree/master/congress-age)

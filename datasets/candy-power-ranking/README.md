@@ -22,4 +22,4 @@ pricepercent | The unit price percentile compared to the rest of the set.
 winpercent | The overall win percentage according to 269,000 matchups.
 
 
-This dataset was scraped from [FiveThirtyEight - candy-power-ranking](https://github.com//fivethirtyeight/data/tree/master/candy-power-ranking)
+This dataset was scraped from [FiveThirtyEight - candy-power-ranking](https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking)

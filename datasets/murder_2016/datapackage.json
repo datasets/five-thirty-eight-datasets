@@ -101,7 +101,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/murder_2016",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/murder_2016",
             "title": "FiveThirtyEight - Murder_2016"
         }
     ],

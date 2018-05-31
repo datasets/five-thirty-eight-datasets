@@ -18,4 +18,4 @@ The data includes all valid submissions, with solvers’ identifying information
 Please see the following commit:
 https://github.com/fivethirtyeight/data/commit/c3f808fda5b67aa26ea6fa663ddd4d2eb7c6187f
 
-This dataset was scraped from [FiveThirtyEight - riddler-castles](https://github.com//fivethirtyeight/data/tree/master/riddler-castles)
+This dataset was scraped from [FiveThirtyEight - riddler-castles](https://github.com/fivethirtyeight/data/tree/master/riddler-castles)

@@ -16,4 +16,4 @@ Header | Definition
 `primary_vote_percentage` | Percentage of votes won in the primary
 `won_primary` | Did the candidate win the primary?
 
-This dataset was scraped from [FiveThirtyEight - endorsements-june-30](https://github.com//fivethirtyeight/data/tree/master/endorsements-june-30)
+This dataset was scraped from [FiveThirtyEight - endorsements-june-30](https://github.com/fivethirtyeight/data/tree/master/endorsements-june-30)

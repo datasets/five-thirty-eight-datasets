@@ -15,4 +15,4 @@ Header | Definition
 `How much total combined money did all members of your HOUSEHOLD earn last year?` | $0 to $9,999, $10,000 to $24,999, $25,000 to $49,999, $50,000 to $74,999, $75,000 to $99,999, $100,000 to $124,000, $125,000 to $149,999, $150,000 to $174,999, $175,000 to $199,999, $200,000+, Prefer not to answer.
 `US Region` | New England, Middle Atlantic, East North Central, West North Central, South Atlantic, East South Central, West South Central, Mountain, Pacific.
 
-This dataset was scraped from [FiveThirtyEight - weather-check](https://github.com//fivethirtyeight/data/tree/master/weather-check)
+This dataset was scraped from [FiveThirtyEight - weather-check](https://github.com/fivethirtyeight/data/tree/master/weather-check)

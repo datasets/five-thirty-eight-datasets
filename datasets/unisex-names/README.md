@@ -12,4 +12,4 @@ Header | Definition
 `female_share` | Percentage of people with the name who are female
 `gap` | Gap between male_share and female_share
 
-This dataset was scraped from [FiveThirtyEight - unisex-names](https://github.com//fivethirtyeight/data/tree/master/unisex-names)
+This dataset was scraped from [FiveThirtyEight - unisex-names](https://github.com/fivethirtyeight/data/tree/master/unisex-names)

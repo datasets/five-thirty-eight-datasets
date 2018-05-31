@@ -46,7 +46,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/early-senate-polls",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/early-senate-polls",
             "title": "FiveThirtyEight - Early Senate Polls"
         }
     ],

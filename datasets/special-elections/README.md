@@ -15,4 +15,4 @@ Two districts in New Hampshire (Belknap HD-09 and Hillsborough HD-44) did not ha
 
 Ballotpedia was used to compile the list of elections between Jan. 20, 2017 and March 27, 2018. Income and education data comes from the American Community Survey's five-year estimates for 2012–2016. Presidential results by district were collected from [Daily Kos Elections](https://www.dailykos.com/stories/2013/7/9/1220127/-Daily-Kos-Elections-2012-election-results-by-congressional-and-legislative-districts) (Florida results are from [Matthew Isbell](http://mcimaps.com/presidential-results-by-florida-senate-district-and-the-effects-of-redistricting/)).
 
-This dataset was scraped from [FiveThirtyEight - special-elections](https://github.com//fivethirtyeight/data/tree/master/special-elections)
+This dataset was scraped from [FiveThirtyEight - special-elections](https://github.com/fivethirtyeight/data/tree/master/special-elections)

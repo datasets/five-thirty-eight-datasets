@@ -12,4 +12,4 @@ Header | Definition
 
 Source: Author’s tally
 
-This dataset was scraped from [FiveThirtyEight - tarantino](https://github.com//fivethirtyeight/data/tree/master/tarantino)
+This dataset was scraped from [FiveThirtyEight - tarantino](https://github.com/fivethirtyeight/data/tree/master/tarantino)

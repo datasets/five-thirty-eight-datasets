@@ -28,4 +28,4 @@ Google search data was collected using the [Google Trends](https://trends.google
 
 * `google_trends.csv` - Contains data on google trend searches for Hurricanes Harvey, Irma, Jose, and Maria.
 
-This dataset was scraped from [FiveThirtyEight - puerto-rico-media](https://github.com//fivethirtyeight/data/tree/master/puerto-rico-media)
+This dataset was scraped from [FiveThirtyEight - puerto-rico-media](https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media)

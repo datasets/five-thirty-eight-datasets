@@ -41,7 +41,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/democratic-bench",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/democratic-bench",
             "title": "FiveThirtyEight - Democratic Bench"
         }
     ],

@@ -11,4 +11,4 @@ date | Date of the match
 wins | Number of cumulative wins for the boxer including the match at the specified date
 url | URL with boxer's record
 
-This dataset was scraped from [FiveThirtyEight - undefeated-boxers](https://github.com//fivethirtyeight/data/tree/master/undefeated-boxers)
+This dataset was scraped from [FiveThirtyEight - undefeated-boxers](https://github.com/fivethirtyeight/data/tree/master/undefeated-boxers)

@@ -14,4 +14,4 @@ File | Description
 
 ![](https://i1.wp.com/espnfivethirtyeight.files.wordpress.com/2016/07/bialik-flowers-king-police-deaths-1.png)
 
-This dataset was scraped from [FiveThirtyEight - police-deaths](https://github.com//fivethirtyeight/data/tree/master/police-deaths)
+This dataset was scraped from [FiveThirtyEight - police-deaths](https://github.com/fivethirtyeight/data/tree/master/police-deaths)

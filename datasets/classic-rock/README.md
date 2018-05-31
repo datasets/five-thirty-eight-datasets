@@ -40,4 +40,4 @@ find an entry for the song on SongFacts
 
 `compiling_radio.py` is the program to consolidate the output of radio.py into one file per station.
 
-This dataset was scraped from [FiveThirtyEight - classic-rock](https://github.com//fivethirtyeight/data/tree/master/classic-rock)
+This dataset was scraped from [FiveThirtyEight - classic-rock](https://github.com/fivethirtyeight/data/tree/master/classic-rock)

@@ -131,7 +131,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/comma-survey",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/comma-survey",
             "title": "FiveThirtyEight - Comma Survey"
         }
     ],

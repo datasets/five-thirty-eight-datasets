@@ -30,4 +30,4 @@ Header | Definition
 `seconds_added_per_point` | Seconds added per point for this event on this surface in years shown, from regression model controlling for players, year and other factors
 `years` | Start and end years for data used from this tournament in regression
 
-This dataset was scraped from [FiveThirtyEight - tennis-time](https://github.com//fivethirtyeight/data/tree/master/tennis-time)
+This dataset was scraped from [FiveThirtyEight - tennis-time](https://github.com/fivethirtyeight/data/tree/master/tennis-time)

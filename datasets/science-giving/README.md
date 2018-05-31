@@ -57,4 +57,4 @@ Header | Definition
 
 Source: [Federal Election Commission](http://www.fec.gov/)
 
-This dataset was scraped from [FiveThirtyEight - science-giving](https://github.com//fivethirtyeight/data/tree/master/science-giving)
+This dataset was scraped from [FiveThirtyEight - science-giving](https://github.com/fivethirtyeight/data/tree/master/science-giving)

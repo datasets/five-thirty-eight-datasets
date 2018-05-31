@@ -6,4 +6,4 @@ This folder contains data behind the story [A Handful Of Cities Are Driving 2016
 
 `murder_2015_final.csv` contains full-year 2014 and 2015 murder counts for all U.S. cities with at least 250,000 residents. Source is FBI Uniform Crime Reports.
 
-This dataset was scraped from [FiveThirtyEight - murder_2016](https://github.com//fivethirtyeight/data/tree/master/murder_2016)
+This dataset was scraped from [FiveThirtyEight - murder_2016](https://github.com/fivethirtyeight/data/tree/master/murder_2016)

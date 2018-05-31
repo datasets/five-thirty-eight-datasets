@@ -86,7 +86,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/pew-religions",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/pew-religions",
             "title": "FiveThirtyEight - Pew Religions"
         }
     ],

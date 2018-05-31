@@ -91,7 +91,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-age",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/congress-age",
             "title": "FiveThirtyEight - Congress Age"
         }
     ],

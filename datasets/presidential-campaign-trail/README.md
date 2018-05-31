@@ -13,4 +13,4 @@ Sources:
 * [hillaryspeeches.com](https://hillaryspeeches.com/)
 * [conservativedailynews.com](http://www.conservativedailynews.com/)
 
-This dataset was scraped from [FiveThirtyEight - presidential-campaign-trail](https://github.com//fivethirtyeight/data/tree/master/presidential-campaign-trail)
+This dataset was scraped from [FiveThirtyEight - presidential-campaign-trail](https://github.com/fivethirtyeight/data/tree/master/presidential-campaign-trail)

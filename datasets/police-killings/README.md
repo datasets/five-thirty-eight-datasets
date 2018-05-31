@@ -55,4 +55,4 @@ All income fields are in inflation-adjusted 2013 dollars.
 
 `nat_bucket` is the same but for all U.S. counties.
 
-This dataset was scraped from [FiveThirtyEight - police-killings](https://github.com//fivethirtyeight/data/tree/master/police-killings)
+This dataset was scraped from [FiveThirtyEight - police-killings](https://github.com/fivethirtyeight/data/tree/master/police-killings)

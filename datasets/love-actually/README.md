@@ -9,4 +9,4 @@ This directory contains the data behind the story [The Definitive Analysis Of �
 
 You'll notice there are a lot of “Love Actually” actors who we didn’t track in the data. That’s because they rarely cross storylines. When they do, it’s in the company of the actor who we *did* include, the linchpin of that storyline.
 
-This dataset was scraped from [FiveThirtyEight - love-actually](https://github.com//fivethirtyeight/data/tree/master/love-actually)
+This dataset was scraped from [FiveThirtyEight - love-actually](https://github.com/fivethirtyeight/data/tree/master/love-actually)

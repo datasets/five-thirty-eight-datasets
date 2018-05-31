@@ -29,4 +29,4 @@ Header | Definition
 `forecast` | Elo-based chances of winning for the team in the team_id column, based on elo ratings and game location
 `notes` | Additional information
 
-This dataset was scraped from [FiveThirtyEight - nba-elo](https://github.com//fivethirtyeight/data/tree/master/nba-elo)
+This dataset was scraped from [FiveThirtyEight - nba-elo](https://github.com/fivethirtyeight/data/tree/master/nba-elo)

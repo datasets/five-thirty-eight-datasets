@@ -5,4 +5,4 @@ This folder contains the data behind the story [Dear Mona Followup: Where Do Peo
 Units: Average serving sizes per person
 Source: World Health Organisation, Global Information System on Alcohol and Health (GISAH), 2010
 
-This dataset was scraped from [FiveThirtyEight - alcohol-consumption](https://github.com//fivethirtyeight/data/tree/master/alcohol-consumption)
+This dataset was scraped from [FiveThirtyEight - alcohol-consumption](https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption)

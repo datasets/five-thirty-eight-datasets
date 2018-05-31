@@ -7,4 +7,4 @@ files:
 
 This file contains links to the data behind [Are Democrats Winning The Race For Congress?](https://projects.fivethirtyeight.com/congress-generic-ballot-polls/)
 
-This dataset was scraped from [FiveThirtyEight - congress-generic-ballot](https://github.com//fivethirtyeight/data/tree/master/congress-generic-ballot)
+This dataset was scraped from [FiveThirtyEight - congress-generic-ballot](https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot)

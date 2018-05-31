@@ -12,4 +12,4 @@ Header | Definition
 `year` | year of suspension
 `source` | news source
 
-This dataset was scraped from [FiveThirtyEight - nfl-suspensions](https://github.com//fivethirtyeight/data/tree/master/nfl-suspensions)
+This dataset was scraped from [FiveThirtyEight - nfl-suspensions](https://github.com/fivethirtyeight/data/tree/master/nfl-suspensions)

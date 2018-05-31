@@ -260,7 +260,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 80,house,m000568,john,lanneau,mcmillan,,1898-04-12,sc,d,yes,1947-01-03,48.7
 80,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1947-01-03,48.7
 80,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1947-01-03,48.7
-80,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,no,1947-01-03,48.7
+80,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,no,1947-01-03,48.7
 80,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,no,1947-01-03,48.6
 80,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1947-01-03,48.6
 80,house,a000163,james,lindsay,almond,jr.,1898-06-15,va,d,yes,1947-01-03,48.6
@@ -313,14 +313,14 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 80,house,h000310,ralph,,harvey,,1901-08-09,in,r,no,1947-01-03,45.4
 80,house,r000104,monroe,minor,redden,,1901-09-24,nc,d,no,1947-01-03,45.3
 80,house,b000891,john,charles,brophy,,1901-10-08,wi,r,no,1947-01-03,45.2
-80,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1947-01-03,45.2
+80,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1947-01-03,45.2
 80,house,c000606,albert,mcdonald,cole,,1901-10-13,ks,r,yes,1947-01-03,45.2
 80,house,w000348,john,albert,whitaker,,1901-10-31,ky,d,no,1947-01-03,45.2
 80,house,h000014,harold,christian,hagen,,1901-11-10,mn,r,yes,1947-01-03,45.1
 80,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,no,1947-01-03,45.1
 80,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1947-01-03,45.0
 80,house,m000094,carter,,manasco,,1902-01-03,al,d,yes,1947-01-03,45.0
-80,house,f000085,antonio,manuel,fernández,,1902-01-17,nm,d,yes,1947-01-03,45.0
+80,house,f000085,antonio,manuel,fernndez,,1902-01-17,nm,d,yes,1947-01-03,45.0
 80,house,c000939,william,josiah,crow,,1902-01-22,pa,r,no,1947-01-03,44.9
 80,house,g000338,ed,lee,gossett,,1902-01-27,tx,d,yes,1947-01-03,44.9
 80,house,h000298,fred,allan,hartley,jr.,1902-02-22,nj,r,yes,1947-01-03,44.9
@@ -780,7 +780,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 81,house,m000568,john,lanneau,mcmillan,,1898-04-12,sc,d,yes,1949-01-03,50.7
 81,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1949-01-03,50.7
 81,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1949-01-03,50.7
-81,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,yes,1949-01-03,50.7
+81,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,yes,1949-01-03,50.7
 81,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,yes,1949-01-03,50.6
 81,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1949-01-03,50.6
 81,house,l000065,thomas,joseph,lane,,1898-07-06,ma,d,yes,1949-01-03,50.5
@@ -835,13 +835,13 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 81,house,c000189,john,albert,carroll,,1901-07-30,co,d,yes,1949-01-03,47.4
 81,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1949-01-03,47.4
 81,house,r000104,monroe,minor,redden,,1901-09-24,nc,d,yes,1949-01-03,47.3
-81,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1949-01-03,47.2
+81,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1949-01-03,47.2
 81,house,c000606,albert,mcdonald,cole,,1901-10-13,ks,r,yes,1949-01-03,47.2
 81,house,w000348,john,albert,whitaker,,1901-10-31,ky,d,yes,1949-01-03,47.2
 81,house,h000014,harold,christian,hagen,,1901-11-10,mn,r,yes,1949-01-03,47.1
 81,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1949-01-03,47.1
 81,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1949-01-03,47.0
-81,house,f000085,antonio,manuel,fernández,,1902-01-17,nm,d,yes,1949-01-03,47.0
+81,house,f000085,antonio,manuel,fernndez,,1902-01-17,nm,d,yes,1949-01-03,47.0
 81,house,g000338,ed,lee,gossett,,1902-01-27,tx,d,yes,1949-01-03,46.9
 81,house,h000740,otis,halbert,holmes,,1902-02-22,wa,r,yes,1949-01-03,46.9
 81,house,m000859,almer,stillwell mike,monroney,,1902-03-02,ok,d,yes,1949-01-03,46.8
@@ -1322,7 +1322,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 82,house,m000568,john,lanneau,mcmillan,,1898-04-12,sc,d,yes,1951-01-03,52.7
 82,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1951-01-03,52.7
 82,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1951-01-03,52.7
-82,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,yes,1951-01-03,52.7
+82,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,yes,1951-01-03,52.7
 82,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,yes,1951-01-03,52.6
 82,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1951-01-03,52.6
 82,house,l000065,thomas,joseph,lane,,1898-07-06,ma,d,yes,1951-01-03,52.5
@@ -1379,14 +1379,14 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 82,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1951-01-03,49.5
 82,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1951-01-03,49.4
 82,house,r000104,monroe,minor,redden,,1901-09-24,nc,d,yes,1951-01-03,49.3
-82,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1951-01-03,49.2
+82,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1951-01-03,49.2
 82,house,c000606,albert,mcdonald,cole,,1901-10-13,ks,r,yes,1951-01-03,49.2
 82,house,w000348,john,albert,whitaker,,1901-10-31,ky,d,yes,1951-01-03,49.2
 82,house,h000014,harold,christian,hagen,,1901-11-10,mn,r,yes,1951-01-03,49.1
 82,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1951-01-03,49.1
 82,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1951-01-03,49.0
 82,house,b000062,howard,henry,baker,,1902-01-12,tn,r,no,1951-01-03,49.0
-82,house,f000085,antonio,manuel,fernández,,1902-01-17,nm,d,yes,1951-01-03,49.0
+82,house,f000085,antonio,manuel,fernndez,,1902-01-17,nm,d,yes,1951-01-03,49.0
 82,house,g000338,ed,lee,gossett,,1902-01-27,tx,d,yes,1951-01-03,48.9
 82,house,h000740,otis,halbert,holmes,,1902-02-22,wa,r,yes,1951-01-03,48.9
 82,house,r000018,albert,mckinley,rains,,1902-03-11,al,d,yes,1951-01-03,48.8
@@ -1847,7 +1847,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 83,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1953-01-03,54.7
 83,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1953-01-03,54.7
 83,house,f000384,samuel,nathaniel,friedel,,1898-04-18,md,d,no,1953-01-03,54.7
-83,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,yes,1953-01-03,54.7
+83,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,yes,1953-01-03,54.7
 83,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,yes,1953-01-03,54.6
 83,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1953-01-03,54.6
 83,house,f000035,mary,elizabeth pruett,farrington,,1898-05-30,hi,r,no,1953-01-03,54.6
@@ -1901,12 +1901,12 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 83,house,j000158,lester,roland,johnson,,1901-06-16,wi,d,no,1953-01-03,51.6
 83,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1953-01-03,51.5
 83,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1953-01-03,51.4
-83,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1953-01-03,51.2
+83,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1953-01-03,51.2
 83,house,h000014,harold,christian,hagen,,1901-11-10,mn,r,yes,1953-01-03,51.1
 83,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1953-01-03,51.1
 83,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1953-01-03,51.0
 83,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1953-01-03,51.0
-83,house,f000085,antonio,manuel,fernández,,1902-01-17,nm,d,yes,1953-01-03,51.0
+83,house,f000085,antonio,manuel,fernndez,,1902-01-17,nm,d,yes,1953-01-03,51.0
 83,house,h000740,otis,halbert,holmes,,1902-02-22,wa,r,yes,1953-01-03,50.9
 83,house,r000018,albert,mckinley,rains,,1902-03-11,al,d,yes,1953-01-03,50.8
 83,house,k000150,charles,joseph,kersten,,1902-05-26,wi,r,yes,1953-01-03,50.6
@@ -2380,7 +2380,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 84,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1955-01-05,56.7
 84,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1955-01-05,56.7
 84,house,f000384,samuel,nathaniel,friedel,,1898-04-18,md,d,yes,1955-01-05,56.7
-84,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,yes,1955-01-05,56.7
+84,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,yes,1955-01-05,56.7
 84,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,yes,1955-01-05,56.6
 84,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1955-01-05,56.6
 84,house,f000035,mary,elizabeth pruett,farrington,,1898-05-30,hi,r,yes,1955-01-05,56.6
@@ -2432,11 +2432,11 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 84,house,j000158,lester,roland,johnson,,1901-06-16,wi,d,yes,1955-01-05,53.6
 84,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1955-01-05,53.5
 84,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1955-01-05,53.4
-84,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1955-01-05,53.2
+84,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1955-01-05,53.2
 84,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1955-01-05,53.1
 84,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1955-01-05,53.0
 84,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1955-01-05,53.0
-84,house,f000085,antonio,manuel,fernández,,1902-01-17,nm,d,yes,1955-01-05,53.0
+84,house,f000085,antonio,manuel,fernndez,,1902-01-17,nm,d,yes,1955-01-05,53.0
 84,house,h000740,otis,halbert,holmes,,1902-02-22,wa,r,yes,1955-01-05,52.9
 84,house,r000018,albert,mckinley,rains,,1902-03-11,al,d,yes,1955-01-05,52.8
 84,house,h000154,thomas,millet,hand,,1902-07-07,nj,r,yes,1955-01-05,52.5
@@ -2908,7 +2908,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 85,house,t000156,albert,,thomas,,1898-04-12,tx,d,yes,1957-01-03,58.7
 85,house,c000113,gordon,,canfield,,1898-04-15,nj,r,yes,1957-01-03,58.7
 85,house,f000384,samuel,nathaniel,friedel,,1898-04-18,md,d,yes,1957-01-03,58.7
-85,house,c000804,frederic,rené,coudert,jr.,1898-05-07,ny,r,yes,1957-01-03,58.7
+85,house,c000804,frederic,ren,coudert,jr.,1898-05-07,ny,r,yes,1957-01-03,58.7
 85,house,d000004,paul,bartram,dague,,1898-05-19,pa,r,yes,1957-01-03,58.6
 85,house,p000303,philip,joseph,philbin,,1898-05-29,ma,d,yes,1957-01-03,58.6
 85,house,l000065,thomas,joseph,lane,,1898-07-06,ma,d,yes,1957-01-03,58.5
@@ -2960,7 +2960,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 85,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1957-01-03,55.5
 85,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1957-01-03,55.4
 85,house,b000791,james,floyd,breeding,,1901-09-28,ks,d,no,1957-01-03,55.3
-85,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1957-01-03,55.2
+85,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1957-01-03,55.2
 85,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1957-01-03,55.1
 85,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1957-01-03,55.0
 85,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1957-01-03,55.0
@@ -3456,7 +3456,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 86,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1959-01-07,57.6
 86,house,w000256,jessica,mccullough,weis,,1901-07-08,ny,r,no,1959-01-07,57.5
 86,house,b000791,james,floyd,breeding,,1901-09-28,ks,d,yes,1959-01-07,57.3
-86,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1959-01-07,57.2
+86,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1959-01-07,57.2
 86,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1959-01-07,57.1
 86,house,t000070,dean,park,taylor,,1902-01-01,ny,r,yes,1959-01-07,57.0
 86,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1959-01-07,57.0
@@ -3995,7 +3995,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 87,house,w000256,jessica,mccullough,weis,,1901-07-08,ny,r,yes,1961-01-03,59.5
 87,house,h000310,ralph,,harvey,,1901-08-09,in,r,no,1961-01-03,59.4
 87,house,b000791,james,floyd,breeding,,1901-09-28,ks,d,yes,1961-01-03,59.3
-87,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1961-01-03,59.2
+87,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1961-01-03,59.2
 87,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1961-01-03,59.1
 87,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1961-01-03,59.0
 87,house,r000018,albert,mckinley,rains,,1902-03-11,al,d,yes,1961-01-03,58.8
@@ -4204,7 +4204,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 87,house,t000218,theo,ashton,thompson,,1916-03-31,la,d,yes,1961-01-03,44.8
 87,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1961-01-03,44.7
 87,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1961-01-03,44.7
-87,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,no,1961-01-03,44.7
+87,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,no,1961-01-03,44.7
 87,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1961-01-03,44.6
 87,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,no,1961-01-03,44.6
 87,house,d000122,john,william,davis,,1916-09-12,ga,d,no,1961-01-03,44.3
@@ -4518,7 +4518,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 88,house,j000158,lester,roland,johnson,,1901-06-16,wi,d,yes,1963-01-09,61.6
 88,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1963-01-09,61.6
 88,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1963-01-09,61.4
-88,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1963-01-09,61.2
+88,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1963-01-09,61.2
 88,house,b000064,irene,bailey,baker,,1901-11-17,tn,r,no,1963-01-09,61.1
 88,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1963-01-09,61.1
 88,house,b000062,howard,henry,baker,,1902-01-12,tn,r,yes,1963-01-09,61.0
@@ -4727,7 +4727,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 88,house,t000218,theo,ashton,thompson,,1916-03-31,la,d,yes,1963-01-09,46.8
 88,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1963-01-09,46.8
 88,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1963-01-09,46.7
-88,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1963-01-09,46.7
+88,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1963-01-09,46.7
 88,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1963-01-09,46.6
 88,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,yes,1963-01-09,46.6
 88,house,m000796,joseph,george,minish,,1916-09-01,nj,d,no,1963-01-09,46.4
@@ -5034,7 +5034,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 89,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1965-01-04,63.5
 89,house,h000310,ralph,,harvey,,1901-08-09,in,r,yes,1965-01-04,63.4
 89,house,h000173,john,robert,hansen,,1901-08-24,ia,d,no,1965-01-04,63.4
-89,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1965-01-04,63.2
+89,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1965-01-04,63.2
 89,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1965-01-04,63.1
 89,house,w000192,george,robert,watkins,,1902-05-21,pa,r,no,1965-01-04,62.6
 89,house,d000587,florence,price,dwyer,,1902-07-04,nj,r,yes,1965-01-04,62.5
@@ -5229,7 +5229,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 89,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1965-01-04,48.8
 89,house,f000025,billie,sunday,farnum,,1916-04-11,mi,d,no,1965-01-04,48.7
 89,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1965-01-04,48.7
-89,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1965-01-04,48.7
+89,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1965-01-04,48.7
 89,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1965-01-04,48.6
 89,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,yes,1965-01-04,48.6
 89,house,m000796,joseph,george,minish,,1916-09-01,nj,d,yes,1965-01-04,48.3
@@ -5567,7 +5567,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 90,house,b000676,frank,townsend,bow,,1901-02-20,oh,r,yes,1967-01-10,65.9
 90,house,d000211,james,joseph,delaney,,1901-03-19,ny,d,yes,1967-01-10,65.8
 90,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1967-01-10,65.6
-90,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1967-01-10,65.2
+90,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1967-01-10,65.2
 90,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1967-01-10,65.1
 90,house,w000192,george,robert,watkins,,1902-05-21,pa,r,yes,1967-01-10,64.6
 90,house,d000587,florence,price,dwyer,,1902-07-04,nj,r,yes,1967-01-10,64.5
@@ -5745,7 +5745,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 90,house,d000239,robert,vernon,denney,,1916-04-11,ne,r,no,1967-01-10,50.7
 90,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1967-01-10,50.7
 90,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,no,1967-01-10,50.7
-90,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1967-01-10,50.7
+90,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1967-01-10,50.7
 90,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1967-01-10,50.7
 90,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,yes,1967-01-10,50.6
 90,house,p000272,jerry,lyle,pettis,,1916-07-18,ca,r,no,1967-01-10,50.5
@@ -6100,7 +6100,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 91,house,b000676,frank,townsend,bow,,1901-02-20,oh,r,yes,1969-01-03,67.9
 91,house,d000211,james,joseph,delaney,,1901-03-19,ny,d,yes,1969-01-03,67.8
 91,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1969-01-03,67.5
-91,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1969-01-03,67.2
+91,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1969-01-03,67.2
 91,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1969-01-03,67.1
 91,house,w000192,george,robert,watkins,,1902-05-21,pa,r,yes,1969-01-03,66.6
 91,house,d000587,florence,price,dwyer,,1902-07-04,nj,r,yes,1969-01-03,66.5
@@ -6274,7 +6274,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 91,house,d000239,robert,vernon,denney,,1916-04-11,ne,r,yes,1969-01-03,52.7
 91,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1969-01-03,52.7
 91,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1969-01-03,52.7
-91,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1969-01-03,52.7
+91,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1969-01-03,52.7
 91,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1969-01-03,52.6
 91,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,yes,1969-01-03,52.6
 91,house,p000272,jerry,lyle,pettis,,1916-07-18,ca,r,yes,1969-01-03,52.5
@@ -6468,7 +6468,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 91,house,s000669,marion,gene,snyder,,1928-01-26,ky,r,yes,1969-01-03,40.9
 91,house,m000667,thomas,joseph,meskill,,1928-01-30,ct,r,yes,1969-01-03,40.9
 91,house,b001008,john,hall,buchanan,jr.,1928-03-19,al,r,yes,1969-01-03,40.8
-91,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,no,1969-01-03,40.6
+91,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,no,1969-01-03,40.6
 91,house,l000429,speedy,oteria,long,,1928-06-16,la,d,yes,1969-01-03,40.6
 91,house,g000015,nick,,galifianakis,,1928-07-22,nc,d,yes,1969-01-03,40.5
 91,house,e000084,william,jackson,edwards,,1928-09-20,al,r,yes,1969-01-03,40.3
@@ -6645,7 +6645,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 92,house,b000676,frank,townsend,bow,,1901-02-20,oh,r,yes,1971-01-21,69.9
 92,house,d000211,james,joseph,delaney,,1901-03-19,ny,d,yes,1971-01-21,69.8
 92,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1971-01-21,69.6
-92,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1971-01-21,69.3
+92,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1971-01-21,69.3
 92,house,m000393,william,moore,mcculloch,,1901-11-24,oh,r,yes,1971-01-21,69.2
 92,house,d000587,florence,price,dwyer,,1902-07-04,nj,r,yes,1971-01-21,68.6
 92,house,w000212,john,clarence,watts,,1902-07-09,ky,d,yes,1971-01-21,68.5
@@ -6804,7 +6804,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 92,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1971-01-21,54.8
 92,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1971-01-21,54.8
 92,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1971-01-21,54.7
-92,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1971-01-21,54.7
+92,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1971-01-21,54.7
 92,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,no,1971-01-21,54.7
 92,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1971-01-21,54.7
 92,house,h000010,george,elliott,hagan,,1916-05-24,ga,d,yes,1971-01-21,54.7
@@ -6997,7 +6997,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 92,house,b001008,john,hall,buchanan,jr.,1928-03-19,al,r,yes,1971-01-21,42.8
 92,house,a000215,bill,,archer,,1928-03-22,tx,r,no,1971-01-21,42.8
 92,house,s000718,floyd,,spence,,1928-04-09,sc,r,no,1971-01-21,42.8
-92,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1971-01-21,42.7
+92,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1971-01-21,42.7
 92,house,l000429,speedy,oteria,long,,1928-06-16,la,d,yes,1971-01-21,42.6
 92,house,b000408,robert,selmer,bergland,,1928-07-22,mn,d,no,1971-01-21,42.5
 92,house,g000015,nick,,galifianakis,,1928-07-22,nc,d,yes,1971-01-21,42.5
@@ -7187,7 +7187,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 93,house,m000065,george,herman,mahon,,1900-09-22,tx,d,yes,1973-01-03,72.3
 93,house,d000211,james,joseph,delaney,,1901-03-19,ny,d,yes,1973-01-03,71.8
 93,house,d000419,harold,daniel,donohue,,1901-06-18,ma,d,yes,1973-01-03,71.5
-93,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1973-01-03,71.2
+93,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1973-01-03,71.2
 93,house,s001057,leonor,kretzer,sullivan,,1902-08-21,mo,d,yes,1973-01-03,70.4
 93,house,b000778,william,gilmer,bray,,1903-06-17,in,r,yes,1973-01-03,69.5
 93,house,f000152,ovie,clark,fisher,,1903-11-22,tx,d,yes,1973-01-03,69.1
@@ -7313,7 +7313,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 93,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1973-01-03,56.7
 93,house,d000434,william,jennings bryan,dorn,,1916-04-14,sc,d,yes,1973-01-03,56.7
 93,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1973-01-03,56.7
-93,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1973-01-03,56.7
+93,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1973-01-03,56.7
 93,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1973-01-03,56.6
 93,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1973-01-03,56.6
 93,house,p000272,jerry,lyle,pettis,,1916-07-18,ca,r,yes,1973-01-03,56.5
@@ -7513,7 +7513,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 93,house,b001008,john,hall,buchanan,jr.,1928-03-19,al,r,yes,1973-01-03,44.8
 93,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1973-01-03,44.8
 93,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1973-01-03,44.7
-93,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1973-01-03,44.6
+93,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1973-01-03,44.6
 93,house,t000243,raymond,hoyt,thornton,jr.,1928-07-16,ar,d,no,1973-01-03,44.5
 93,house,t000362,david,conner,treen,,1928-07-16,la,r,no,1973-01-03,44.5
 93,house,b000408,robert,selmer,bergland,,1928-07-22,mn,d,yes,1973-01-03,44.5
@@ -7734,7 +7734,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 94,house,p000218,claude,denson,pepper,,1900-09-08,fl,d,yes,1975-01-14,74.3
 94,house,m000065,george,herman,mahon,,1900-09-22,tx,d,yes,1975-01-14,74.3
 94,house,d000211,james,joseph,delaney,,1901-03-19,ny,d,yes,1975-01-14,73.8
-94,house,h000437,felix,edward,hébert,,1901-10-12,la,d,yes,1975-01-14,73.3
+94,house,h000437,felix,edward,hbert,,1901-10-12,la,d,yes,1975-01-14,73.3
 94,house,s001057,leonor,kretzer,sullivan,,1902-08-21,mo,d,yes,1975-01-14,72.4
 94,house,f000209,daniel,john,flood,,1903-11-26,pa,d,yes,1975-01-14,71.1
 94,house,s000829,thomas,jefferson,steed,,1904-03-02,ok,d,yes,1975-01-14,70.9
@@ -7824,7 +7824,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 94,house,r000421,teno,,roncalio,,1916-03-23,wy,d,yes,1975-01-14,58.8
 94,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1975-01-14,58.8
 94,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1975-01-14,58.7
-94,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1975-01-14,58.7
+94,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1975-01-14,58.7
 94,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1975-01-14,58.7
 94,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1975-01-14,58.7
 94,house,p000272,jerry,lyle,pettis,,1916-07-18,ca,r,yes,1975-01-14,58.5
@@ -8007,7 +8007,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 94,house,b001008,john,hall,buchanan,jr.,1928-03-19,al,r,yes,1975-01-14,46.8
 94,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1975-01-14,46.8
 94,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1975-01-14,46.8
-94,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1975-01-14,46.7
+94,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1975-01-14,46.7
 94,house,a000170,jerome,anthony,ambro,jr.,1928-06-27,ny,d,no,1975-01-14,46.5
 94,house,t000243,raymond,hoyt,thornton,jr.,1928-07-16,ar,d,yes,1975-01-14,46.5
 94,house,t000362,david,conner,treen,,1928-07-16,la,r,yes,1975-01-14,46.5
@@ -8346,7 +8346,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 95,house,r000421,teno,,roncalio,,1916-03-23,wy,d,yes,1977-01-04,60.8
 95,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1977-01-04,60.8
 95,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1977-01-04,60.7
-95,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1977-01-04,60.7
+95,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1977-01-04,60.7
 95,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1977-01-04,60.6
 95,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1977-01-04,60.6
 95,house,m000796,joseph,george,minish,,1916-09-01,nj,d,yes,1977-01-04,60.3
@@ -8516,7 +8516,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 95,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1977-01-04,48.8
 95,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,no,1977-01-04,48.8
 95,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1977-01-04,48.7
-95,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1977-01-04,48.6
+95,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1977-01-04,48.6
 95,house,a000170,jerome,anthony,ambro,jr.,1928-06-27,ny,d,yes,1977-01-04,48.5
 95,house,t000243,raymond,hoyt,thornton,jr.,1928-07-16,ar,d,yes,1977-01-04,48.5
 95,house,t000362,david,conner,treen,,1928-07-16,la,r,yes,1977-01-04,48.5
@@ -8882,7 +8882,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 96,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1979-01-15,62.8
 96,house,w000610,robert,carlton,wilson,,1916-04-05,ca,r,yes,1979-01-15,62.8
 96,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1979-01-15,62.7
-96,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1979-01-15,62.7
+96,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1979-01-15,62.7
 96,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1979-01-15,62.7
 96,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1979-01-15,62.7
 96,house,m000796,joseph,george,minish,,1916-09-01,nj,d,yes,1979-01-15,62.4
@@ -9029,7 +9029,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 96,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1979-01-15,50.8
 96,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,yes,1979-01-15,50.8
 96,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1979-01-15,50.8
-96,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1979-01-15,50.7
+96,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1979-01-15,50.7
 96,house,a000170,jerome,anthony,ambro,jr.,1928-06-27,ny,d,yes,1979-01-15,50.6
 96,house,t000362,david,conner,treen,,1928-07-16,la,r,yes,1979-01-15,50.5
 96,house,f000380,william,eldridge,frenzel,,1928-07-31,mn,r,yes,1979-01-15,50.5
@@ -9407,7 +9407,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 97,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1981-01-05,64.9
 97,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1981-01-05,64.8
 97,house,c000638,james,mitchell,collins,,1916-04-29,tx,r,yes,1981-01-05,64.7
-97,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1981-01-05,64.7
+97,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1981-01-05,64.7
 97,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1981-01-05,64.6
 97,house,b000605,richard,walker,bolling,,1916-05-17,mo,d,yes,1981-01-05,64.6
 97,house,m000796,joseph,george,minish,,1916-09-01,nj,d,yes,1981-01-05,64.3
@@ -9530,7 +9530,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 97,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1981-01-05,52.8
 97,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,yes,1981-01-05,52.8
 97,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1981-01-05,52.7
-97,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1981-01-05,52.7
+97,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1981-01-05,52.7
 97,house,f000380,william,eldridge,frenzel,,1928-07-31,mn,r,yes,1981-01-05,52.4
 97,house,e000084,william,jackson,edwards,,1928-09-20,al,r,yes,1981-01-05,52.3
 97,house,a000221,john,milan,ashbrook,,1928-09-21,oh,r,yes,1981-01-05,52.3
@@ -9541,7 +9541,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 97,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1981-01-05,52.0
 97,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1981-01-05,52.0
 97,house,o000134,richard,lawrence,ottinger,,1929-01-27,ny,d,yes,1981-01-05,51.9
-97,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,no,1981-01-05,51.9
+97,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,no,1981-01-05,51.9
 97,house,n000027,james,leo,nelligan,,1929-02-14,pa,r,no,1981-01-05,51.9
 97,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1981-01-05,51.8
 97,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1981-01-05,51.8
@@ -9941,7 +9941,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 98,house,f000286,edwin,bell,forsythe,,1916-01-17,nj,r,yes,1983-01-03,67.0
 98,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1983-01-03,66.9
 98,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1983-01-03,66.8
-98,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1983-01-03,66.7
+98,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1983-01-03,66.7
 98,house,r000337,james,kenneth,robinson,,1916-05-14,va,r,yes,1983-01-03,66.6
 98,house,m000796,joseph,george,minish,,1916-09-01,nj,d,yes,1983-01-03,66.3
 98,house,s000997,samuel,studdiford,stratton,,1916-09-27,ny,d,yes,1983-01-03,66.3
@@ -10054,7 +10054,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 98,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1983-01-03,54.8
 98,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,yes,1983-01-03,54.8
 98,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1983-01-03,54.7
-98,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1983-01-03,54.6
+98,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1983-01-03,54.6
 98,house,f000380,william,eldridge,frenzel,,1928-07-31,mn,r,yes,1983-01-03,54.4
 98,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,no,1983-01-03,54.4
 98,house,e000084,william,jackson,edwards,,1928-09-20,al,r,yes,1983-01-03,54.3
@@ -10064,7 +10064,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 98,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1983-01-03,54.0
 98,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1983-01-03,54.0
 98,house,o000134,richard,lawrence,ottinger,,1929-01-27,ny,d,yes,1983-01-03,53.9
-98,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1983-01-03,53.9
+98,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1983-01-03,53.9
 98,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1983-01-03,53.8
 98,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1983-01-03,53.7
 98,house,c000807,robert,lawrence,coughlin,,1929-04-11,pa,r,yes,1983-01-03,53.7
@@ -10481,7 +10481,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1985-01-03,69.0
 99,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1985-01-03,68.9
 99,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1985-01-03,68.8
-99,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1985-01-03,68.7
+99,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1985-01-03,68.7
 99,house,s000997,samuel,studdiford,stratton,,1916-09-27,ny,d,yes,1985-01-03,68.3
 99,house,f000041,dante,bruno,fascell,,1917-03-09,fl,d,yes,1985-01-03,67.8
 99,house,o000010,george,miller,o'brien,,1917-06-17,il,r,yes,1985-01-03,67.5
@@ -10582,7 +10582,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1985-01-03,56.8
 99,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,yes,1985-01-03,56.8
 99,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1985-01-03,56.7
-99,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1985-01-03,56.6
+99,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1985-01-03,56.6
 99,house,m000684,jan,,meyers,,1928-07-20,ks,r,no,1985-01-03,56.5
 99,house,f000380,william,eldridge,frenzel,,1928-07-31,mn,r,yes,1985-01-03,56.4
 99,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,yes,1985-01-03,56.4
@@ -10590,7 +10590,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,f000235,thomas,michael,foglietta,,1928-12-03,pa,d,yes,1985-01-03,56.1
 99,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1985-01-03,56.0
 99,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1985-01-03,56.0
-99,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1985-01-03,55.9
+99,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1985-01-03,55.9
 99,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1985-01-03,55.8
 99,house,f000049,harris,w.,fawell,,1929-03-25,il,r,no,1985-01-03,55.8
 99,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1985-01-03,55.8
@@ -11022,7 +11022,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1987-01-06,71.0
 100,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1987-01-06,70.9
 100,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1987-01-06,70.8
-100,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1987-01-06,70.7
+100,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1987-01-06,70.7
 100,house,s000997,samuel,studdiford,stratton,,1916-09-27,ny,d,yes,1987-01-06,70.3
 100,house,f000041,dante,bruno,fascell,,1917-03-09,fl,d,yes,1987-01-06,69.8
 100,house,c000462,james,mcclure,clarke,,1917-06-12,nc,d,no,1987-01-06,69.6
@@ -11105,7 +11105,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,a000215,bill,,archer,,1928-03-22,tx,r,yes,1987-01-06,58.8
 100,house,a000214,douglas,earl,applegate,,1928-03-27,oh,d,yes,1987-01-06,58.8
 100,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1987-01-06,58.7
-100,house,l000506,manuel,,luján,jr.,1928-05-12,nm,r,yes,1987-01-06,58.7
+100,house,l000506,manuel,,lujn,jr.,1928-05-12,nm,r,yes,1987-01-06,58.7
 100,house,m000684,jan,,meyers,,1928-07-20,ks,r,yes,1987-01-06,58.5
 100,house,f000380,william,eldridge,frenzel,,1928-07-31,mn,r,yes,1987-01-06,58.4
 100,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,yes,1987-01-06,58.4
@@ -11113,7 +11113,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,f000235,thomas,michael,foglietta,,1928-12-03,pa,d,yes,1987-01-06,58.1
 100,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1987-01-06,58.0
 100,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1987-01-06,58.0
-100,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1987-01-06,57.9
+100,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1987-01-06,57.9
 100,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1987-01-06,57.8
 100,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1987-01-06,57.8
 100,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1987-01-06,57.8
@@ -11561,7 +11561,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 101,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1989-01-03,73.0
 101,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1989-01-03,72.9
 101,house,b000592,corinne,claiborne,boggs,,1916-03-13,la,d,yes,1989-01-03,72.8
-101,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1989-01-03,72.7
+101,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1989-01-03,72.7
 101,house,f000041,dante,bruno,fascell,,1917-03-09,fl,d,yes,1989-01-03,71.8
 101,house,c000462,james,mcclure,clarke,,1917-06-12,nc,d,yes,1989-01-03,71.6
 101,house,m000718,clarence,e.,miller,,1917-11-01,oh,r,yes,1989-01-03,71.2
@@ -11640,7 +11640,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 101,house,f000235,thomas,michael,foglietta,,1928-12-03,pa,d,yes,1989-01-03,60.1
 101,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1989-01-03,60.0
 101,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1989-01-03,60.0
-101,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1989-01-03,59.9
+101,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1989-01-03,59.9
 101,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1989-01-03,59.8
 101,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1989-01-03,59.8
 101,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1989-01-03,59.8
@@ -11865,7 +11865,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 101,house,g000382,james,william,grant,,1943-09-21,fl,r,yes,1989-01-03,45.3
 101,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1989-01-03,45.3
 101,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1989-01-03,45.2
-101,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,no,1989-01-03,45.2
+101,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,no,1989-01-03,45.2
 101,house,t000184,robert,lindsay,thomas,,1943-11-20,ga,d,yes,1989-01-03,45.1
 101,house,d000051,george,,darden,,1943-11-22,ga,d,yes,1989-01-03,45.1
 101,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1989-01-03,45.1
@@ -12102,7 +12102,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 102,house,a000212,frank,,annunzio,,1915-01-12,il,d,yes,1991-01-03,76.0
 102,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1991-01-03,75.0
 102,house,r000485,edward,ross,roybal,,1916-02-10,ca,d,yes,1991-01-03,74.9
-102,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1991-01-03,74.7
+102,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1991-01-03,74.7
 102,house,f000041,dante,bruno,fascell,,1917-03-09,fl,d,yes,1991-01-03,73.8
 102,house,m000718,clarence,e.,miller,,1917-11-01,oh,r,yes,1991-01-03,73.2
 102,house,h000388,charles,arthur,hayes,,1918-02-17,il,d,yes,1991-01-03,72.9
@@ -12176,7 +12176,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 102,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1991-01-03,62.0
 102,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1991-01-03,62.0
 102,house,b000179,bill,,barrett,,1929-02-09,ne,r,no,1991-01-03,61.9
-102,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1991-01-03,61.9
+102,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1991-01-03,61.9
 102,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1991-01-03,61.8
 102,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1991-01-03,61.8
 102,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1991-01-03,61.7
@@ -12392,7 +12392,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 102,house,r000189,john,jacob,rhodes,iii,1943-09-08,az,r,yes,1991-01-03,47.3
 102,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1991-01-03,47.3
 102,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1991-01-03,47.2
-102,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,1991-01-03,47.2
+102,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,1991-01-03,47.2
 102,house,t000184,robert,lindsay,thomas,,1943-11-20,ga,d,yes,1991-01-03,47.1
 102,house,d000051,george,,darden,,1943-11-22,ga,d,yes,1991-01-03,47.1
 102,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1991-01-03,47.1
@@ -12643,7 +12643,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,p000328,james,jarrell,pickle,,1913-10-11,tx,d,yes,1993-01-05,79.2
 103,house,e000064,william,donlon,edwards,,1915-01-06,ca,d,yes,1993-01-05,78.0
 103,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1993-01-05,77.0
-103,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1993-01-05,76.7
+103,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1993-01-05,76.7
 103,house,g000153,sam,melville,gibbons,,1920-01-20,fl,d,yes,1993-01-05,73.0
 103,house,b000918,george,e.,brown,jr.,1920-03-06,ca,d,yes,1993-01-05,72.8
 103,house,s000596,neal,edward,smith,,1920-03-23,ia,d,yes,1993-01-05,72.8
@@ -12693,7 +12693,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,g000349,willis,david,gradison,jr.,1928-12-28,oh,r,yes,1993-01-05,64.0
 103,house,l000381,marilyn,laird,lloyd,,1929-01-03,tn,d,yes,1993-01-05,64.0
 103,house,b000179,bill,,barrett,,1929-02-09,ne,r,yes,1993-01-05,63.9
-103,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1993-01-05,63.9
+103,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1993-01-05,63.9
 103,house,f000239,thomas,stephen,foley,,1929-03-06,wa,d,yes,1993-01-05,63.8
 103,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1993-01-05,63.8
 103,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1993-01-05,63.8
@@ -12891,7 +12891,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1993-01-05,49.3
 103,house,k000328,myron,bradford,kreidler,,1943-09-28,wa,d,no,1993-01-05,49.3
 103,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1993-01-05,49.3
-103,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,1993-01-05,49.2
+103,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,1993-01-05,49.2
 103,house,d000051,george,,darden,,1943-11-22,ga,d,yes,1993-01-05,49.1
 103,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1993-01-05,49.1
 103,house,a000109,wayne,a.,allard,,1943-12-02,co,r,yes,1993-01-05,49.1
@@ -13033,7 +13033,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,f000348,gary,a.,franks,,1953-02-09,ct,r,yes,1993-01-05,39.9
 103,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,1993-01-05,39.8
 103,house,a000211,thomas,hiram,andrews,,1953-03-22,me,d,yes,1993-01-05,39.8
-103,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,no,1993-01-05,39.8
+103,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,no,1993-01-05,39.8
 103,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,1993-01-05,39.7
 103,house,m000477,scott,,mcinnis,,1953-05-09,co,r,no,1993-01-05,39.7
 103,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,no,1993-01-05,39.6
@@ -13042,9 +13042,9 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,no,1993-01-05,39.2
 103,house,e000218,albert,michael,espy,,1953-11-30,ms,d,yes,1993-01-05,39.1
 103,house,b000177,thomas,m.,barrett,,1953-12-08,wi,d,no,1993-01-05,39.1
-103,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,no,1993-01-05,39.1
+103,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,no,1993-01-05,39.1
 103,house,l000267,david,a.,levy,,1953-12-18,ny,r,no,1993-01-05,39.0
-103,house,m000639,robert,,menéndez,,1954-01-01,nj,d,no,1993-01-05,39.0
+103,house,m000639,robert,,menndez,,1954-01-01,nj,d,no,1993-01-05,39.0
 103,house,b000617,henry,,bonilla,,1954-01-02,tx,r,no,1993-01-05,39.0
 103,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,1993-01-05,39.0
 103,house,p000148,l.,william,paxon,,1954-04-29,ny,r,yes,1993-01-05,38.7
@@ -13187,7 +13187,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,senate,k000333,robert,charles,krueger,,1931-09-18,tx,d,no,1993-01-05,61.3
 104,house,y000013,sidney,richard,yates,,1909-08-27,il,d,yes,1995-01-04,85.4
 104,house,q000013,james,henry,quillen,,1916-01-11,tn,r,yes,1995-01-04,79.0
-104,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1995-01-04,78.7
+104,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1995-01-04,78.7
 104,house,g000153,sam,melville,gibbons,,1920-01-20,fl,d,yes,1995-01-04,75.0
 104,house,b000918,george,e.,brown,jr.,1920-03-06,ca,d,yes,1995-01-04,74.8
 104,house,m000865,gillespie,v.,montgomery,,1920-08-05,ms,d,yes,1995-01-04,74.4
@@ -13221,7 +13221,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 104,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,yes,1995-01-04,66.4
 104,house,f000235,thomas,michael,foglietta,,1928-12-03,pa,d,yes,1995-01-04,66.1
 104,house,b000179,bill,,barrett,,1929-02-09,ne,r,yes,1995-01-04,65.9
-104,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1995-01-04,65.9
+104,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1995-01-04,65.9
 104,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1995-01-04,65.8
 104,house,c000523,william,floyd,clinger,jr.,1929-04-04,pa,r,yes,1995-01-04,65.8
 104,house,c000714,john,,conyers,jr.,1929-05-16,mi,d,yes,1995-01-04,65.6
@@ -13398,7 +13398,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 104,house,p000099,ed,,pastor,,1943-06-28,az,d,yes,1995-01-04,51.5
 104,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1995-01-04,51.3
 104,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1995-01-04,51.2
-104,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,1995-01-04,51.2
+104,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,1995-01-04,51.2
 104,house,c000286,saxby,,chambliss,,1943-11-10,ga,r,no,1995-01-04,51.2
 104,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1995-01-04,51.1
 104,house,a000109,wayne,a.,allard,,1943-12-02,co,r,yes,1995-01-04,51.1
@@ -13550,7 +13550,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 104,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,no,1995-01-04,41.9
 104,house,f000348,gary,a.,franks,,1953-02-09,ct,r,yes,1995-01-04,41.9
 104,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,1995-01-04,41.8
-104,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,1995-01-04,41.8
+104,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,1995-01-04,41.8
 104,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,1995-01-04,41.7
 104,house,m000477,scott,,mcinnis,,1953-05-09,co,r,yes,1995-01-04,41.7
 104,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,yes,1995-01-04,41.6
@@ -13561,8 +13561,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 104,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,1995-01-04,41.2
 104,house,w000391,richard,alan,white,,1953-11-06,wa,r,no,1995-01-04,41.2
 104,house,b000177,thomas,m.,barrett,,1953-12-08,wi,d,yes,1995-01-04,41.1
-104,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,1995-01-04,41.1
-104,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,1995-01-04,41.0
+104,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,1995-01-04,41.1
+104,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,1995-01-04,41.0
 104,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,1995-01-04,41.0
 104,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,1995-01-04,41.0
 104,house,n000054,mark,w.,neumann,,1954-02-27,wi,r,no,1995-01-04,40.9
@@ -13730,7 +13730,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 104,senate,f000438,sheila,,frahm,,1941-03-21,ks,r,no,1995-01-04,53.8
 104,senate,p000009,robert,william,packwood,,1928-09-10,or,r,yes,1995-01-04,66.3
 105,house,y000013,sidney,richard,yates,,1909-08-27,il,d,yes,1997-01-07,87.4
-105,house,g000272,henry,barbosa,gonzález,,1916-05-03,tx,d,yes,1997-01-07,80.7
+105,house,g000272,henry,barbosa,gonzlez,,1916-05-03,tx,d,yes,1997-01-07,80.7
 105,house,b000918,george,e.,brown,jr.,1920-03-06,ca,d,yes,1997-01-07,76.8
 105,house,g000212,benjamin,,gilman,,1922-12-06,ny,r,yes,1997-01-07,74.1
 105,house,h000067,ralph,m.,hall,,1923-05-03,tx,d,yes,1997-01-07,73.7
@@ -13755,7 +13755,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 105,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,yes,1997-01-07,68.4
 105,house,f000235,thomas,michael,foglietta,,1928-12-03,pa,d,yes,1997-01-07,68.1
 105,house,b000179,bill,,barrett,,1929-02-09,ne,r,yes,1997-01-07,67.9
-105,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1997-01-07,67.9
+105,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1997-01-07,67.9
 105,house,f000049,harris,w.,fawell,,1929-03-25,il,r,yes,1997-01-07,67.8
 105,house,c000714,john,,conyers,jr.,1929-05-16,mi,d,yes,1997-01-07,67.6
 105,house,s000480,louise,mcintosh,slaughter,,1929-08-14,ny,d,yes,1997-01-07,67.4
@@ -13865,7 +13865,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 105,house,a000217,richard,k.,armey,,1940-07-07,tx,r,yes,1997-01-07,56.5
 105,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,1997-01-07,56.5
 105,house,p000523,david,e.,price,,1940-08-17,nc,d,no,1997-01-07,56.4
-105,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,no,1997-01-07,56.4
+105,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,no,1997-01-07,56.4
 105,house,v000087,bruce,f.,vento,,1940-10-07,mn,d,yes,1997-01-07,56.3
 105,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,1997-01-07,56.1
 105,house,t000067,charles,h.,taylor,,1941-01-23,nc,r,yes,1997-01-07,56.0
@@ -13922,7 +13922,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 105,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1997-01-07,53.3
 105,house,j000149,jay,w.,johnson,,1943-09-30,wi,d,no,1997-01-07,53.3
 105,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1997-01-07,53.3
-105,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,1997-01-07,53.2
+105,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,1997-01-07,53.2
 105,house,c000286,saxby,,chambliss,,1943-11-10,ga,r,yes,1997-01-07,53.2
 105,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1997-01-07,53.1
 105,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,no,1997-01-07,53.0
@@ -14080,7 +14080,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 105,house,k000274,scott,l.,klug,,1953-01-16,wi,r,yes,1997-01-07,44.0
 105,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,1997-01-07,44.0
 105,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,1997-01-07,43.8
-105,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,1997-01-07,43.8
+105,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,1997-01-07,43.8
 105,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,1997-01-07,43.7
 105,house,m000477,scott,,mcinnis,,1953-05-09,co,r,yes,1997-01-07,43.7
 105,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,yes,1997-01-07,43.6
@@ -14092,8 +14092,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 105,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,1997-01-07,43.2
 105,house,w000391,richard,alan,white,,1953-11-06,wa,r,yes,1997-01-07,43.2
 105,house,b000177,thomas,m.,barrett,,1953-12-08,wi,d,yes,1997-01-07,43.1
-105,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,1997-01-07,43.1
-105,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,1997-01-07,43.0
+105,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,1997-01-07,43.1
+105,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,1997-01-07,43.0
 105,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,1997-01-07,43.0
 105,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,1997-01-07,43.0
 105,house,n000054,mark,w.,neumann,,1954-02-27,wi,r,yes,1997-01-07,42.9
@@ -14295,7 +14295,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 106,house,s000718,floyd,,spence,,1928-04-09,sc,r,yes,1999-01-06,70.7
 106,house,b000229,herbert,h.,bateman,,1928-08-07,va,r,yes,1999-01-06,70.4
 106,house,b000179,bill,,barrett,,1929-02-09,ne,r,yes,1999-01-06,69.9
-106,house,m000206,matthew,g.,martínez,,1929-02-14,ca,d,yes,1999-01-06,69.9
+106,house,m000206,matthew,g.,martnez,,1929-02-14,ca,d,yes,1999-01-06,69.9
 106,house,c000714,john,,conyers,jr.,1929-05-16,mi,d,yes,1999-01-06,69.6
 106,house,s000480,louise,mcintosh,slaughter,,1929-08-14,ny,d,yes,1999-01-06,69.4
 106,house,k000172,dale,e.,kildee,,1929-09-16,mi,d,yes,1999-01-06,69.3
@@ -14392,7 +14392,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 106,house,a000217,richard,k.,armey,,1940-07-07,tx,r,yes,1999-01-06,58.5
 106,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,1999-01-06,58.5
 106,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,1999-01-06,58.4
-106,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,1999-01-06,58.4
+106,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,1999-01-06,58.4
 106,house,v000087,bruce,f.,vento,,1940-10-07,mn,d,yes,1999-01-06,58.2
 106,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,1999-01-06,58.1
 106,house,t000067,charles,h.,taylor,,1941-01-23,nc,r,yes,1999-01-06,58.0
@@ -14445,7 +14445,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 106,house,p000099,ed,,pastor,,1943-06-28,az,d,yes,1999-01-06,55.5
 106,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,1999-01-06,55.3
 106,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,1999-01-06,55.3
-106,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,1999-01-06,55.2
+106,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,1999-01-06,55.2
 106,house,c000286,saxby,,chambliss,,1943-11-10,ga,r,yes,1999-01-06,55.2
 106,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,1999-01-06,55.1
 106,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,1999-01-06,55.0
@@ -14612,7 +14612,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 106,house,f000441,ernest,lee,fletcher,,1952-11-12,ky,r,no,1999-01-06,46.1
 106,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,1999-01-06,46.0
 106,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,1999-01-06,45.8
-106,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,1999-01-06,45.8
+106,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,1999-01-06,45.8
 106,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,1999-01-06,45.7
 106,house,m000477,scott,,mcinnis,,1953-05-09,co,r,yes,1999-01-06,45.7
 106,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,yes,1999-01-06,45.6
@@ -14624,8 +14624,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 106,house,m001137,gregory,w.,meeks,,1953-09-25,ny,d,yes,1999-01-06,45.3
 106,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,1999-01-06,45.2
 106,house,b000177,thomas,m.,barrett,,1953-12-08,wi,d,yes,1999-01-06,45.1
-106,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,1999-01-06,45.1
-106,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,1999-01-06,45.0
+106,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,1999-01-06,45.1
+106,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,1999-01-06,45.0
 106,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,1999-01-06,45.0
 106,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,1999-01-06,45.0
 106,house,m000934,jerry,,moran,,1954-05-29,ks,r,yes,1999-01-06,44.6
@@ -14917,7 +14917,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 107,house,a000217,richard,k.,armey,,1940-07-07,tx,r,yes,2001-01-03,60.5
 107,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2001-01-03,60.5
 107,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2001-01-03,60.4
-107,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2001-01-03,60.4
+107,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2001-01-03,60.4
 107,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2001-01-03,60.0
 107,house,t000067,charles,h.,taylor,,1941-01-23,nc,r,yes,2001-01-03,59.9
 107,house,g000132,richard,andrew,gephardt,,1941-01-31,mo,d,yes,2001-01-03,59.9
@@ -14970,7 +14970,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 107,house,p000099,ed,,pastor,,1943-06-28,az,d,yes,2001-01-03,57.5
 107,house,c000503,robert,,clement,,1943-09-23,tn,d,yes,2001-01-03,57.3
 107,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,2001-01-03,57.2
-107,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2001-01-03,57.2
+107,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2001-01-03,57.2
 107,house,c000286,saxby,,chambliss,,1943-11-10,ga,r,yes,2001-01-03,57.1
 107,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,2001-01-03,57.1
 107,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2001-01-03,57.0
@@ -15131,7 +15131,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 107,house,f000441,ernest,lee,fletcher,,1952-11-12,ky,r,yes,2001-01-03,48.1
 107,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,2001-01-03,47.9
 107,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2001-01-03,47.8
-107,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2001-01-03,47.8
+107,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2001-01-03,47.8
 107,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2001-01-03,47.7
 107,house,m000477,scott,,mcinnis,,1953-05-09,co,r,yes,2001-01-03,47.7
 107,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,yes,2001-01-03,47.6
@@ -15145,8 +15145,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 107,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,no,2001-01-03,47.2
 107,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,no,2001-01-03,47.1
 107,house,b000177,thomas,m.,barrett,,1953-12-08,wi,d,yes,2001-01-03,47.1
-107,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2001-01-03,47.1
-107,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2001-01-03,47.0
+107,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2001-01-03,47.1
+107,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2001-01-03,47.0
 107,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,2001-01-03,47.0
 107,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,2001-01-03,47.0
 107,house,m000934,jerry,,moran,,1954-05-29,ks,r,yes,2001-01-03,46.6
@@ -15443,7 +15443,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,p000265,thomas,e.,petri,,1940-05-28,wi,r,yes,2003-01-07,62.6
 108,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2003-01-07,62.5
 108,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2003-01-07,62.4
-108,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2003-01-07,62.4
+108,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2003-01-07,62.4
 108,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2003-01-07,62.1
 108,house,t000067,charles,h.,taylor,,1941-01-23,nc,r,yes,2003-01-07,62.0
 108,house,g000132,richard,andrew,gephardt,,1941-01-31,mo,d,yes,2003-01-07,61.9
@@ -15495,7 +15495,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,d000599,lincoln,,davis,,1943-09-13,tn,d,no,2003-01-07,59.3
 108,house,b001247,virginia,,brown-waite,,1943-10-05,fl,r,no,2003-01-07,59.3
 108,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,2003-01-07,59.3
-108,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2003-01-07,59.2
+108,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2003-01-07,59.2
 108,house,k000259,gerald,d.,kleczka,,1943-11-26,wi,d,yes,2003-01-07,59.1
 108,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2003-01-07,59.0
 108,house,o000163,michael,g.,oxley,,1944-02-11,oh,r,yes,2003-01-07,58.9
@@ -15579,7 +15579,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2003-01-07,55.0
 108,house,n000143,anne,meagher,northup,,1948-01-22,ky,r,yes,2003-01-07,55.0
 108,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2003-01-07,54.9
-108,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,no,2003-01-07,54.9
+108,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,no,2003-01-07,54.9
 108,house,m001146,james,,marshall,,1948-03-31,ga,d,no,2003-01-07,54.8
 108,house,u000039,tom,s.,udall,,1948-05-18,nm,d,yes,2003-01-07,54.6
 108,house,b000072,richard,hugh,baker,,1948-05-22,la,r,yes,2003-01-07,54.6
@@ -15660,7 +15660,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,f000441,ernest,lee,fletcher,,1952-11-12,ky,r,yes,2003-01-07,50.2
 108,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,2003-01-07,50.0
 108,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2003-01-07,49.8
-108,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2003-01-07,49.8
+108,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2003-01-07,49.8
 108,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2003-01-07,49.7
 108,house,m000477,scott,,mcinnis,,1953-05-09,co,r,yes,2003-01-07,49.7
 108,house,m001154,r.,bradley,miller,,1953-05-19,nc,d,no,2003-01-07,49.6
@@ -15674,8 +15674,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,2003-01-07,49.2
 108,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2003-01-07,49.2
 108,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2003-01-07,49.1
-108,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2003-01-07,49.1
-108,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2003-01-07,49.0
+108,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2003-01-07,49.1
+108,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2003-01-07,49.0
 108,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,2003-01-07,49.0
 108,house,d000424,calvin,m.,dooley,,1954-01-11,ca,d,yes,2003-01-07,49.0
 108,house,m001150,candice,s.,miller,,1954-05-07,mi,r,no,2003-01-07,48.7
@@ -15789,7 +15789,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 108,house,c001044,brad,,carson,,1967-03-11,ok,d,yes,2003-01-07,35.8
 108,house,k000113,patrick,joseph,kennedy,,1967-07-14,ri,d,yes,2003-01-07,35.5
 108,house,d000602,artur,,davis,,1967-10-09,al,d,no,2003-01-07,35.2
-108,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,no,2003-01-07,33.9
+108,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,no,2003-01-07,33.9
 108,house,r000570,paul,d.,ryan,,1970-01-29,wi,r,yes,2003-01-07,32.9
 108,house,f000262,harold,e.,ford,jr.,1970-05-11,tn,d,yes,2003-01-07,32.7
 108,house,f000443,michael,,ferguson,,1970-06-22,nj,r,yes,2003-01-07,32.5
@@ -15973,7 +15973,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,p000265,thomas,e.,petri,,1940-05-28,wi,r,yes,2005-01-04,64.6
 109,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2005-01-04,64.5
 109,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2005-01-04,64.4
-109,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2005-01-04,64.4
+109,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2005-01-04,64.4
 109,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2005-01-04,64.1
 109,house,t000067,charles,h.,taylor,,1941-01-23,nc,r,yes,2005-01-04,63.9
 109,house,h000329,doc,,hastings,,1941-02-07,wa,r,yes,2005-01-04,63.9
@@ -16020,7 +16020,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,d000599,lincoln,,davis,,1943-09-13,tn,d,yes,2005-01-04,61.3
 109,house,b001247,virginia,,brown-waite,,1943-10-05,fl,r,yes,2005-01-04,61.3
 109,house,c000141,benjamin,l.,cardin,,1943-10-05,md,d,yes,2005-01-04,61.3
-109,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2005-01-04,61.2
+109,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2005-01-04,61.2
 109,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2005-01-04,61.0
 109,house,o000163,michael,g.,oxley,,1944-02-11,oh,r,yes,2005-01-04,60.9
 109,house,g000021,elton,w.,gallegly,,1944-03-07,ca,r,yes,2005-01-04,60.8
@@ -16101,7 +16101,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2005-01-04,57.0
 109,house,n000143,anne,meagher,northup,,1948-01-22,ky,r,yes,2005-01-04,57.0
 109,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2005-01-04,56.9
-109,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,yes,2005-01-04,56.9
+109,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,yes,2005-01-04,56.9
 109,house,m001146,james,,marshall,,1948-03-31,ga,d,yes,2005-01-04,56.8
 109,house,u000039,tom,s.,udall,,1948-05-18,nm,d,yes,2005-01-04,56.6
 109,house,b000072,richard,hugh,baker,,1948-05-22,la,r,yes,2005-01-04,56.6
@@ -16187,7 +16187,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,b000944,sherrod,,brown,,1952-11-09,oh,d,yes,2005-01-04,52.2
 109,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,2005-01-04,52.0
 109,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2005-01-04,51.8
-109,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2005-01-04,51.8
+109,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2005-01-04,51.8
 109,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2005-01-04,51.7
 109,house,m001154,r.,bradley,miller,,1953-05-19,nc,d,yes,2005-01-04,51.6
 109,house,c000059,ken,s.,calvert,,1953-06-08,ca,r,yes,2005-01-04,51.6
@@ -16202,8 +16202,8 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,2005-01-04,51.2
 109,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2005-01-04,51.2
 109,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2005-01-04,51.1
-109,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2005-01-04,51.1
-109,house,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2005-01-04,51.0
+109,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2005-01-04,51.1
+109,house,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2005-01-04,51.0
 109,house,b000617,henry,,bonilla,,1954-01-02,tx,r,yes,2005-01-04,51.0
 109,house,m001150,candice,s.,miller,,1954-05-07,mi,r,yes,2005-01-04,50.7
 109,house,m000934,jerry,,moran,,1954-05-29,ks,r,yes,2005-01-04,50.6
@@ -16325,7 +16325,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,house,k000113,patrick,joseph,kennedy,,1967-07-14,ri,d,yes,2005-01-04,37.5
 109,house,m001155,connie,,mack,iv,1967-08-12,fl,r,no,2005-01-04,37.4
 109,house,d000602,artur,,davis,,1967-10-09,al,d,yes,2005-01-04,37.2
-109,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,yes,2005-01-04,35.9
+109,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,yes,2005-01-04,35.9
 109,house,m001159,cathy,,mcmorris rodgers,,1969-05-22,wa,r,no,2005-01-04,35.6
 109,house,r000570,paul,d.,ryan,,1970-01-29,wi,r,yes,2005-01-04,34.9
 109,house,f000262,harold,e.,ford,jr.,1970-05-11,tn,d,yes,2005-01-04,34.7
@@ -16420,7 +16420,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 109,senate,c001035,susan,m.,collins,,1952-12-07,me,r,yes,2005-01-04,52.1
 109,senate,f000061,russell,d.,feingold,,1953-03-02,wi,d,yes,2005-01-04,51.8
 109,senate,c001040,lincoln,d.,chafee,,1953-03-26,ri,r,yes,2005-01-04,51.8
-109,senate,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2005-01-04,51.0
+109,senate,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2005-01-04,51.0
 109,senate,s001163,ken,,salazar,,1955-03-02,co,d,no,2005-01-04,49.8
 109,senate,g000359,lindsey,o.,graham,,1955-07-09,sc,r,yes,2005-01-04,49.5
 109,senate,l000550,mary,l.,landrieu,,1955-11-23,la,d,yes,2005-01-04,49.1
@@ -16503,7 +16503,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,m001167,harry,e.,mitchell,,1940-07-18,az,d,no,2007-01-04,66.5
 110,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2007-01-04,66.5
 110,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2007-01-04,66.4
-110,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2007-01-04,66.4
+110,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2007-01-04,66.4
 110,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2007-01-04,66.1
 110,house,h000329,doc,,hastings,,1941-02-07,wa,r,yes,2007-01-04,65.9
 110,house,b000410,howard,l.,berman,,1941-04-15,ca,d,yes,2007-01-04,65.7
@@ -16540,7 +16540,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,f000450,virginia,,foxx,,1943-06-29,nc,r,yes,2007-01-04,63.5
 110,house,d000599,lincoln,,davis,,1943-09-13,tn,d,yes,2007-01-04,63.3
 110,house,b001247,virginia,,brown-waite,,1943-10-05,fl,r,yes,2007-01-04,63.2
-110,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2007-01-04,63.2
+110,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2007-01-04,63.2
 110,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2007-01-04,63.0
 110,house,g000021,elton,w.,gallegly,,1944-03-07,ca,r,yes,2007-01-04,62.8
 110,house,m001138,donald,a.,manzullo,,1944-03-24,il,r,yes,2007-01-04,62.8
@@ -16621,7 +16621,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,l000397,zoe,,lofgren,,1947-12-21,ca,d,yes,2007-01-04,59.0
 110,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2007-01-04,59.0
 110,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2007-01-04,58.9
-110,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,yes,2007-01-04,58.9
+110,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,yes,2007-01-04,58.9
 110,house,m001146,james,,marshall,,1948-03-31,ga,d,yes,2007-01-04,58.8
 110,house,u000039,tom,s.,udall,,1948-05-18,nm,d,yes,2007-01-04,58.6
 110,house,b000072,richard,hugh,baker,,1948-05-22,la,r,yes,2007-01-04,58.6
@@ -16711,7 +16711,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,l000565,david,,loebsack,,1952-12-23,ia,d,no,2007-01-04,54.0
 110,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,2007-01-04,53.9
 110,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2007-01-04,53.8
-110,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2007-01-04,53.8
+110,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2007-01-04,53.8
 110,house,c001069,joe,,courtney,,1953-04-06,ct,d,no,2007-01-04,53.7
 110,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2007-01-04,53.7
 110,house,p000593,ed,,perlmutter,,1953-05-01,co,d,no,2007-01-04,53.7
@@ -16728,7 +16728,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,2007-01-04,53.2
 110,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2007-01-04,53.2
 110,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2007-01-04,53.1
-110,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2007-01-04,53.1
+110,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2007-01-04,53.1
 110,house,s001167,bill,,sali,,1954-02-17,id,r,no,2007-01-04,52.9
 110,house,m001150,candice,s.,miller,,1954-05-07,mi,r,yes,2007-01-04,52.7
 110,house,l000564,doug,,lamborn,,1954-05-24,co,r,no,2007-01-04,52.6
@@ -16869,7 +16869,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,m001155,connie,,mack,iv,1967-08-12,fl,r,yes,2007-01-04,39.4
 110,house,d000602,artur,,davis,,1967-10-09,al,d,yes,2007-01-04,39.2
 110,house,a000362,jason,,altmire,,1968-03-07,pa,d,no,2007-01-04,38.8
-110,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,yes,2007-01-04,37.9
+110,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,yes,2007-01-04,37.9
 110,house,m001159,cathy,,mcmorris rodgers,,1969-05-22,wa,r,yes,2007-01-04,37.6
 110,house,r000570,paul,d.,ryan,,1970-01-29,wi,r,yes,2007-01-04,36.9
 110,house,g000554,gabrielle,,giffords,,1970-06-08,az,d,no,2007-01-04,36.6
@@ -16884,7 +16884,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,house,n000181,devin,g.,nunes,,1973-10-01,ca,r,yes,2007-01-04,33.3
 110,house,m001168,patrick,j.,murphy,,1973-10-19,pa,d,no,2007-01-04,33.2
 110,house,p000586,adam,h.,putnam,,1974-07-31,fl,r,yes,2007-01-04,32.4
-110,house,c001072,andré,,carson,,1974-10-16,in,d,no,2007-01-04,32.2
+110,house,c001072,andr,,carson,,1974-10-16,in,d,no,2007-01-04,32.2
 110,house,m001156,patrick,t.,mchenry,,1975-10-22,nc,r,yes,2007-01-04,31.2
 110,senate,b001210,robert,c.,byrd,,1917-11-20,wv,d,yes,2007-01-04,89.1
 110,senate,s000888,ted,f.,stevens,,1923-11-18,ak,r,yes,2007-01-04,83.1
@@ -16966,7 +16966,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 110,senate,c001035,susan,m.,collins,,1952-12-07,me,r,yes,2007-01-04,54.1
 110,senate,f000061,russell,d.,feingold,,1953-03-02,wi,d,yes,2007-01-04,53.8
 110,senate,m001170,claire,,mccaskill,,1953-07-24,mo,d,no,2007-01-04,53.4
-110,senate,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2007-01-04,53.0
+110,senate,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2007-01-04,53.0
 110,senate,s001163,ken,,salazar,,1955-03-02,co,d,yes,2007-01-04,51.8
 110,senate,g000359,lindsey,o.,graham,,1955-07-09,sc,r,yes,2007-01-04,51.5
 110,senate,w000802,sheldon,,whitehouse,,1955-10-20,ri,d,no,2007-01-04,51.2
@@ -17043,7 +17043,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,m001167,harry,e.,mitchell,,1940-07-18,az,d,yes,2009-01-06,68.5
 111,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2009-01-06,68.5
 111,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2009-01-06,68.4
-111,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2009-01-06,68.4
+111,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2009-01-06,68.4
 111,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2009-01-06,68.1
 111,house,h000329,doc,,hastings,,1941-02-07,wa,r,yes,2009-01-06,67.9
 111,house,b000410,howard,l.,berman,,1941-04-15,ca,d,yes,2009-01-06,67.7
@@ -17078,7 +17078,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,f000450,virginia,,foxx,,1943-06-29,nc,r,yes,2009-01-06,65.5
 111,house,d000599,lincoln,,davis,,1943-09-13,tn,d,yes,2009-01-06,65.3
 111,house,b001247,virginia,,brown-waite,,1943-10-05,fl,r,yes,2009-01-06,65.3
-111,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2009-01-06,65.2
+111,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2009-01-06,65.2
 111,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2009-01-06,65.0
 111,house,k000370,suzanne,m.,kosmas,,1944-02-25,fl,d,no,2009-01-06,64.9
 111,house,g000021,elton,w.,gallegly,,1944-03-07,ca,r,yes,2009-01-06,64.8
@@ -17147,7 +17147,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,l000397,zoe,,lofgren,,1947-12-21,ca,d,yes,2009-01-06,61.0
 111,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2009-01-06,61.0
 111,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2009-01-06,60.9
-111,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,yes,2009-01-06,60.9
+111,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,yes,2009-01-06,60.9
 111,house,m001146,james,,marshall,,1948-03-31,ga,d,yes,2009-01-06,60.8
 111,house,c001062,k.,michael,conaway,,1948-06-11,tx,r,yes,2009-01-06,60.6
 111,house,l000111,tom,p.,latham,,1948-07-14,ia,r,yes,2009-01-06,60.5
@@ -17232,7 +17232,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,s001170,carol,,shea-porter,,1952-12-02,nh,d,yes,2009-01-06,56.1
 111,house,l000565,david,,loebsack,,1952-12-23,ia,d,yes,2009-01-06,56.0
 111,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2009-01-06,55.8
-111,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2009-01-06,55.8
+111,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2009-01-06,55.8
 111,house,c001069,joe,,courtney,,1953-04-06,ct,d,yes,2009-01-06,55.8
 111,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2009-01-06,55.7
 111,house,p000593,ed,,perlmutter,,1953-05-01,co,d,yes,2009-01-06,55.7
@@ -17249,7 +17249,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,h000676,peter,,hoekstra,,1953-10-30,mi,r,yes,2009-01-06,55.2
 111,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2009-01-06,55.2
 111,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2009-01-06,55.1
-111,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2009-01-06,55.1
+111,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2009-01-06,55.1
 111,house,m001150,candice,s.,miller,,1954-05-07,mi,r,yes,2009-01-06,54.7
 111,house,l000564,doug,,lamborn,,1954-05-24,co,r,yes,2009-01-06,54.6
 111,house,m000934,jerry,,moran,,1954-05-29,ks,r,yes,2009-01-06,54.6
@@ -17404,7 +17404,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,a000362,jason,,altmire,,1968-03-07,pa,d,yes,2009-01-06,40.8
 111,house,k000371,frank,,kratovil,jr.,1968-05-29,md,d,no,2009-01-06,40.6
 111,house,m001171,daniel,b.,maffei,,1968-07-04,ny,d,no,2009-01-06,40.5
-111,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,yes,2009-01-06,39.9
+111,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,yes,2009-01-06,39.9
 111,house,m001159,cathy,,mcmorris rodgers,,1969-05-22,wa,r,yes,2009-01-06,39.6
 111,house,b001263,john,a.,boccieri,,1969-10-05,oh,d,no,2009-01-06,39.3
 111,house,m001178,scott,,murphy,,1970-01-26,ny,d,no,2009-01-06,38.9
@@ -17418,7 +17418,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,h001046,martin,,heinrich,,1971-10-17,nm,d,no,2009-01-06,37.2
 111,house,r000585,tom,w.,reed,ii,1971-11-18,ny,r,no,2009-01-06,37.1
 111,house,s001171,heath,,shuler,,1971-12-31,nc,d,yes,2009-01-06,37.0
-111,house,l000570,ben,ray,luján,,1972-06-07,nm,d,no,2009-01-06,36.6
+111,house,l000570,ben,ray,lujn,,1972-06-07,nm,d,no,2009-01-06,36.6
 111,house,r000577,tim,j.,ryan,,1973-07-16,oh,d,yes,2009-01-06,35.5
 111,house,b001254,dan,,boren,,1973-08-02,ok,d,yes,2009-01-06,35.4
 111,house,m001169,christopher,s.,murphy,,1973-08-03,ct,d,yes,2009-01-06,35.4
@@ -17427,7 +17427,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,house,p000586,adam,h.,putnam,,1974-07-31,fl,r,yes,2009-01-06,34.4
 111,house,n000183,glenn,c.,nye,,1974-09-09,va,d,no,2009-01-06,34.3
 111,house,p000600,thomas,s. p.,perriello,,1974-10-09,va,d,no,2009-01-06,34.2
-111,house,c001072,andré,,carson,,1974-10-16,in,d,yes,2009-01-06,34.2
+111,house,c001072,andr,,carson,,1974-10-16,in,d,yes,2009-01-06,34.2
 111,house,p000598,jared,,polis,,1975-05-12,co,d,no,2009-01-06,33.7
 111,house,m001156,patrick,t.,mchenry,,1975-10-22,nc,r,yes,2009-01-06,33.2
 111,house,s001188,marlin,a.,stutzman,,1976-08-31,in,r,no,2009-01-06,32.4
@@ -17507,7 +17507,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 111,senate,f000061,russell,d.,feingold,,1953-03-02,wi,d,yes,2009-01-06,55.8
 111,senate,h001049,kay,,hagan,,1953-05-26,nc,d,no,2009-01-06,55.6
 111,senate,m001170,claire,,mccaskill,,1953-07-24,mo,d,yes,2009-01-06,55.5
-111,senate,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2009-01-06,55.0
+111,senate,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2009-01-06,55.0
 111,senate,w000805,mark,,warner,,1954-12-15,va,d,no,2009-01-06,54.1
 111,senate,g000359,lindsey,o.,graham,,1955-07-09,sc,r,yes,2009-01-06,53.5
 111,senate,w000802,sheldon,,whitehouse,,1955-10-20,ri,d,yes,2009-01-06,53.2
@@ -17586,7 +17586,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,p000265,thomas,e.,petri,,1940-05-28,wi,r,yes,2011-01-05,70.6
 112,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2011-01-05,70.5
 112,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2011-01-05,70.4
-112,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2011-01-05,70.4
+112,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2011-01-05,70.4
 112,house,d000327,norman,d.,dicks,,1940-12-16,wa,d,yes,2011-01-05,70.1
 112,house,h000329,doc,,hastings,,1941-02-07,wa,r,yes,2011-01-05,69.9
 112,house,b000410,howard,l.,berman,,1941-04-15,ca,d,yes,2011-01-05,69.7
@@ -17611,7 +17611,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,s000244,f.,james,sensenbrenner,jr.,1943-06-14,wi,r,yes,2011-01-05,67.6
 112,house,p000099,ed,,pastor,,1943-06-28,az,d,yes,2011-01-05,67.5
 112,house,f000450,virginia,,foxx,,1943-06-29,nc,r,yes,2011-01-05,67.5
-112,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2011-01-05,67.2
+112,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2011-01-05,67.2
 112,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2011-01-05,67.0
 112,house,g000021,elton,w.,gallegly,,1944-03-07,ca,r,yes,2011-01-05,66.8
 112,house,m001138,donald,a.,manzullo,,1944-03-24,il,r,yes,2011-01-05,66.8
@@ -17674,7 +17674,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,l000397,zoe,,lofgren,,1947-12-21,ca,d,yes,2011-01-05,63.0
 112,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2011-01-05,63.0
 112,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2011-01-05,62.9
-112,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,yes,2011-01-05,62.9
+112,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,yes,2011-01-05,62.9
 112,house,k000376,mike,,kelly,,1948-05-10,pa,r,no,2011-01-05,62.7
 112,house,c001062,k.,michael,conaway,,1948-06-11,tx,r,yes,2011-01-05,62.6
 112,house,l000111,tom,p.,latham,,1948-07-14,ia,r,yes,2011-01-05,62.5
@@ -17752,7 +17752,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,l000565,david,,loebsack,,1952-12-23,ia,d,yes,2011-01-05,58.0
 112,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,no,2011-01-05,58.0
 112,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2011-01-05,57.8
-112,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2011-01-05,57.8
+112,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2011-01-05,57.8
 112,house,c001069,joe,,courtney,,1953-04-06,ct,d,yes,2011-01-05,57.7
 112,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2011-01-05,57.7
 112,house,p000593,ed,,perlmutter,,1953-05-01,co,d,yes,2011-01-05,57.7
@@ -17766,7 +17766,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,b001270,karen,,bass,,1953-10-03,ca,d,no,2011-01-05,57.3
 112,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2011-01-05,57.2
 112,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2011-01-05,57.1
-112,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2011-01-05,57.1
+112,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2011-01-05,57.1
 112,house,f000461,bill,,flores,,1954-02-25,tx,r,no,2011-01-05,56.9
 112,house,b001274,mo,,brooks,,1954-04-29,al,r,no,2011-01-05,56.7
 112,house,m001150,candice,s.,miller,,1954-05-07,mi,r,yes,2011-01-05,56.7
@@ -17938,12 +17938,12 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,m001182,mick,,mulvaney,,1967-07-21,sc,r,no,2011-01-05,43.5
 112,house,d000612,jeff,,denham,,1967-07-29,ca,r,no,2011-01-05,43.4
 112,house,m001155,connie,,mack,iv,1967-08-12,fl,r,yes,2011-01-05,43.4
-112,house,l000573,raúl,r.,labrador,,1967-12-08,id,r,no,2011-01-05,43.1
+112,house,l000573,ral,r.,labrador,,1967-12-08,id,r,no,2011-01-05,43.1
 112,house,l000575,james,,lankford,,1968-03-04,ok,r,no,2011-01-05,42.8
 112,house,a000362,jason,,altmire,,1968-03-07,pa,d,yes,2011-01-05,42.8
 112,house,g000567,tim,,griffin,,1968-08-21,ar,r,no,2011-01-05,42.4
 112,house,h001057,tim,,huelskamp,,1968-11-11,ks,r,no,2011-01-05,42.1
-112,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,yes,2011-01-05,41.9
+112,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,yes,2011-01-05,41.9
 112,house,h001058,bill,,huizenga,,1969-01-31,mi,r,no,2011-01-05,41.9
 112,house,m001159,cathy,,mcmorris rodgers,,1969-05-22,wa,r,yes,2011-01-05,41.6
 112,house,h001060,robert,,hurt,,1969-06-16,va,r,no,2011-01-05,41.6
@@ -17966,7 +17966,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,r000585,tom,w.,reed,ii,1971-11-18,ny,r,yes,2011-01-05,39.1
 112,house,n000184,kristi,l.,noem,,1971-11-30,sd,r,no,2011-01-05,39.1
 112,house,s001171,heath,,shuler,,1971-12-31,nc,d,yes,2011-01-05,39.0
-112,house,l000570,ben,ray,luján,,1972-06-07,nm,d,yes,2011-01-05,38.6
+112,house,l000570,ben,ray,lujn,,1972-06-07,nm,d,yes,2011-01-05,38.6
 112,house,y000064,todd,c.,young,,1972-08-24,in,r,no,2011-01-05,38.4
 112,house,f000458,stephen,lee,fincher,,1973-02-07,tn,r,no,2011-01-05,37.9
 112,house,r000577,tim,j.,ryan,,1973-07-16,oh,d,yes,2011-01-05,37.5
@@ -17976,7 +17976,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,house,n000181,devin,g.,nunes,,1973-10-01,ca,r,yes,2011-01-05,37.3
 112,house,r000594,jon,,runyan,,1973-11-27,nj,r,no,2011-01-05,37.1
 112,house,g000562,cory,,gardner,,1974-08-22,co,r,no,2011-01-05,36.4
-112,house,c001072,andré,,carson,,1974-10-16,in,d,yes,2011-01-05,36.2
+112,house,c001072,andr,,carson,,1974-10-16,in,d,yes,2011-01-05,36.2
 112,house,p000598,jared,,polis,,1975-05-12,co,d,yes,2011-01-05,35.7
 112,house,m001156,patrick,t.,mchenry,,1975-10-22,nc,r,yes,2011-01-05,35.2
 112,house,y000063,kevin,,yoder,,1976-01-08,ks,r,no,2011-01-05,35.0
@@ -18056,7 +18056,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 112,senate,c001035,susan,m.,collins,,1952-12-07,me,r,yes,2011-01-05,58.1
 112,senate,h001049,kay,,hagan,,1953-05-26,nc,d,yes,2011-01-05,57.6
 112,senate,m001170,claire,,mccaskill,,1953-07-24,mo,d,yes,2011-01-05,57.5
-112,senate,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2011-01-05,57.0
+112,senate,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2011-01-05,57.0
 112,senate,m000934,jerry,,moran,,1954-05-29,ks,r,yes,2011-01-05,56.6
 112,senate,w000805,mark,,warner,,1954-12-15,va,d,yes,2011-01-05,56.1
 112,senate,j000293,ron,,johnson,,1955-04-08,wi,r,no,2011-01-05,55.7
@@ -18119,7 +18119,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,p000265,thomas,e.,petri,,1940-05-28,wi,r,yes,2013-01-03,72.6
 113,house,c000537,james,e.,clyburn,,1940-07-21,sc,d,yes,2013-01-03,72.5
 113,house,p000523,david,e.,price,,1940-08-17,nc,d,yes,2013-01-03,72.4
-113,house,h000636,rubén,e.,hinojosa,,1940-08-20,tx,d,yes,2013-01-03,72.4
+113,house,h000636,rubn,e.,hinojosa,,1940-08-20,tx,d,yes,2013-01-03,72.4
 113,house,h000329,doc,,hastings,,1941-02-07,wa,r,yes,2013-01-03,71.9
 113,house,l000579,alan,s.,lowenthal,,1941-03-08,ca,d,no,2013-01-03,71.8
 113,house,r000486,lucille,,roybal-allard,,1941-06-12,ca,d,yes,2013-01-03,71.6
@@ -18140,7 +18140,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,s000244,f.,james,sensenbrenner,jr.,1943-06-14,wi,r,yes,2013-01-03,69.6
 113,house,p000099,ed,,pastor,,1943-06-28,az,d,yes,2013-01-03,69.5
 113,house,f000450,virginia,,foxx,,1943-06-29,nc,r,yes,2013-01-03,69.5
-113,house,s000248,josé,e.,serrano,,1943-10-24,ny,d,yes,2013-01-03,69.2
+113,house,s000248,jos,e.,serrano,,1943-10-24,ny,d,yes,2013-01-03,69.2
 113,house,n000127,richard,m.,nolan,,1943-12-17,mn,d,no,2013-01-03,69.0
 113,house,m000309,carolyn,,mccarthy,,1944-01-05,ny,d,yes,2013-01-03,69.0
 113,house,k000210,peter,t.,king,,1944-04-05,ny,r,yes,2013-01-03,68.7
@@ -18192,7 +18192,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,l000397,zoe,,lofgren,,1947-12-21,ca,d,yes,2013-01-03,65.0
 113,house,b000013,spencer,thomas,bachus,iii,1947-12-28,al,r,yes,2013-01-03,65.0
 113,house,t000193,bennie,g.,thompson,,1948-01-28,ms,d,yes,2013-01-03,64.9
-113,house,g000551,raúl,m.,grijalva,,1948-02-19,az,d,yes,2013-01-03,64.9
+113,house,g000551,ral,m.,grijalva,,1948-02-19,az,d,yes,2013-01-03,64.9
 113,house,k000376,mike,,kelly,,1948-05-10,pa,r,yes,2013-01-03,64.7
 113,house,f000462,lois,,frankel,,1948-05-16,fl,d,no,2013-01-03,64.6
 113,house,c001062,k.,michael,conaway,,1948-06-11,tx,r,yes,2013-01-03,64.6
@@ -18270,7 +18270,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,l000565,david,,loebsack,,1952-12-23,ia,d,yes,2013-01-03,60.0
 113,house,c000266,steve,j.,chabot,,1953-01-22,oh,r,yes,2013-01-03,59.9
 113,house,s000522,christopher,h.,smith,,1953-03-04,nj,r,yes,2013-01-03,59.8
-113,house,v000081,nydia,m.,velázquez,,1953-03-28,ny,d,yes,2013-01-03,59.8
+113,house,v000081,nydia,m.,velzquez,,1953-03-28,ny,d,yes,2013-01-03,59.8
 113,house,c001069,joe,,courtney,,1953-04-06,ct,d,yes,2013-01-03,59.7
 113,house,u000031,fred,stephen,upton,,1953-04-23,mi,r,yes,2013-01-03,59.7
 113,house,p000593,ed,,perlmutter,,1953-05-01,co,d,yes,2013-01-03,59.7
@@ -18284,7 +18284,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,b001270,karen,,bass,,1953-10-03,ca,d,yes,2013-01-03,59.3
 113,house,i000056,darrell,e.,issa,,1953-11-01,ca,r,yes,2013-01-03,59.2
 113,house,c001047,shelley,moore,capito,,1953-11-26,wv,r,yes,2013-01-03,59.1
-113,house,g000535,luis,v.,gutiérrez,,1953-12-10,il,d,yes,2013-01-03,59.1
+113,house,g000535,luis,v.,gutirrez,,1953-12-10,il,d,yes,2013-01-03,59.1
 113,house,f000461,bill,,flores,,1954-02-25,tx,r,yes,2013-01-03,58.9
 113,house,b001274,mo,,brooks,,1954-04-29,al,r,yes,2013-01-03,58.7
 113,house,m001150,candice,s.,miller,,1954-05-07,mi,r,yes,2013-01-03,58.7
@@ -18415,7 +18415,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,b001257,gus,m.,bilirakis,,1963-02-08,fl,r,yes,2013-01-03,49.9
 113,house,v000132,filemon,,vela,,1963-02-13,tx,d,no,2013-01-03,49.9
 113,house,k000188,ron,james,kind,,1963-03-16,wi,d,yes,2013-01-03,49.8
-113,house,c001097,tony,,cárdenas,,1963-03-31,ca,d,no,2013-01-03,49.8
+113,house,c001097,tony,,crdenas,,1963-03-31,ca,d,no,2013-01-03,49.8
 113,house,d000620,john,k.,delaney,,1963-04-16,md,d,no,2013-01-03,49.7
 113,house,r000572,mike,,rogers,,1963-06-02,mi,r,yes,2013-01-03,49.6
 113,house,c001046,eric,i.,cantor,,1963-06-06,va,r,yes,2013-01-03,49.6
@@ -18461,14 +18461,14 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,c001076,jason,,chaffetz,,1967-03-26,ut,r,yes,2013-01-03,45.8
 113,house,m001182,mick,,mulvaney,,1967-07-21,sc,r,yes,2013-01-03,45.5
 113,house,d000612,jeff,,denham,,1967-07-29,ca,r,yes,2013-01-03,45.4
-113,house,l000573,raúl,r.,labrador,,1967-12-08,id,r,yes,2013-01-03,45.1
+113,house,l000573,ral,r.,labrador,,1967-12-08,id,r,yes,2013-01-03,45.1
 113,house,l000575,james,,lankford,,1968-03-04,ok,r,yes,2013-01-03,44.8
 113,house,d000622,tammy,,duckworth,,1968-03-12,il,d,no,2013-01-03,44.8
 113,house,h001065,george,,holding,,1968-04-17,nc,r,no,2013-01-03,44.7
 113,house,m001171,daniel,b.,maffei,,1968-07-04,ny,d,no,2013-01-03,44.5
 113,house,g000567,tim,,griffin,,1968-08-21,ar,r,yes,2013-01-03,44.4
 113,house,h001057,tim,,huelskamp,,1968-11-11,ks,r,yes,2013-01-03,44.1
-113,house,s001156,linda,t.,sánchez,,1969-01-28,ca,d,yes,2013-01-03,43.9
+113,house,s001156,linda,t.,snchez,,1969-01-28,ca,d,yes,2013-01-03,43.9
 113,house,h001058,bill,,huizenga,,1969-01-31,mi,r,yes,2013-01-03,43.9
 113,house,m001189,luke,,messer,,1969-02-27,in,r,no,2013-01-03,43.8
 113,house,m001159,cathy,,mcmorris rodgers,,1969-05-22,wa,r,yes,2013-01-03,43.6
@@ -18490,7 +18490,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,h001067,richard,,hudson,,1971-11-04,nc,r,no,2013-01-03,41.2
 113,house,r000585,tom,w.,reed,ii,1971-11-18,ny,r,yes,2013-01-03,41.1
 113,house,n000184,kristi,l.,noem,,1971-11-30,sd,r,yes,2013-01-03,41.1
-113,house,l000570,ben,ray,luján,,1972-06-07,nm,d,yes,2013-01-03,40.6
+113,house,l000570,ben,ray,lujn,,1972-06-07,nm,d,yes,2013-01-03,40.6
 113,house,y000064,todd,c.,young,,1972-08-24,in,r,yes,2013-01-03,40.4
 113,house,r000599,raul,,ruiz,,1972-08-25,ca,d,no,2013-01-03,40.4
 113,house,o000170,beto,,o'rourke,,1972-09-26,tx,d,no,2013-01-03,40.3
@@ -18505,7 +18505,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,house,m001192,vance,,mcallister,,1974-01-07,la,r,no,2013-01-03,39.0
 113,house,g000562,cory,,gardner,,1974-08-22,co,r,yes,2013-01-03,38.4
 113,house,c001091,joaquin,,castro,,1974-09-16,tx,d,no,2013-01-03,38.3
-113,house,c001072,andré,,carson,,1974-10-16,in,d,yes,2013-01-03,38.2
+113,house,c001072,andr,,carson,,1974-10-16,in,d,yes,2013-01-03,38.2
 113,house,p000598,jared,,polis,,1975-05-12,co,d,yes,2013-01-03,37.6
 113,house,b001283,jim,,bridenstine,,1975-06-15,ok,r,no,2013-01-03,37.6
 113,house,m001188,grace,,meng,,1975-10-01,ny,d,no,2013-01-03,37.3
@@ -18587,7 +18587,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 113,senate,c001035,susan,m.,collins,,1952-12-07,me,r,yes,2013-01-03,60.1
 113,senate,h001049,kay,,hagan,,1953-05-26,nc,d,yes,2013-01-03,59.6
 113,senate,m001170,claire,,mccaskill,,1953-07-24,mo,d,yes,2013-01-03,59.4
-113,senate,m000639,robert,,menéndez,,1954-01-01,nj,d,yes,2013-01-03,59.0
+113,senate,m000639,robert,,menndez,,1954-01-01,nj,d,yes,2013-01-03,59.0
 113,senate,m000934,jerry,,moran,,1954-05-29,ks,r,yes,2013-01-03,58.6
 113,senate,w000805,mark,,warner,,1954-12-15,va,d,yes,2013-01-03,58.1
 113,senate,j000293,ron,,johnson,,1955-04-08,wi,r,yes,2013-01-03,57.7

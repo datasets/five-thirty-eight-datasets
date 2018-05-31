@@ -106,7 +106,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-ticket-prices",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/nfl-ticket-prices",
             "title": "FiveThirtyEight - Nfl Ticket Prices"
         }
     ],

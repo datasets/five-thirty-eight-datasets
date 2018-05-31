@@ -10,4 +10,4 @@ There are three data files:
 
 Source: StubHub.com
 
-This dataset was scraped from [FiveThirtyEight - nfl-ticket-prices](https://github.com//fivethirtyeight/data/tree/master/nfl-ticket-prices)
+This dataset was scraped from [FiveThirtyEight - nfl-ticket-prices](https://github.com/fivethirtyeight/data/tree/master/nfl-ticket-prices)

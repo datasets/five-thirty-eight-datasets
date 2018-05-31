@@ -38,4 +38,4 @@ For the Women's World Cup predictions interactive, [click here](http://projects.
 
 For an explanation of WSPI, [click here](http://fivethirtyeight.com/features/how-our-womens-world-cup-model-works/).
 
-This dataset was scraped from [FiveThirtyEight - womens-world-cup-predictions](https://github.com//fivethirtyeight/data/tree/master/womens-world-cup-predictions)
+This dataset was scraped from [FiveThirtyEight - womens-world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions)

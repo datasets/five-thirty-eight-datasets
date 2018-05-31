@@ -226,7 +226,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/star-wars-survey",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/star-wars-survey",
             "title": "FiveThirtyEight - Star Wars Survey"
         }
     ],

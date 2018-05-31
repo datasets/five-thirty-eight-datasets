@@ -8,4 +8,4 @@ This folder contains data behind the stories:
 
 `SOUTH.csv` and `MIDWEST.csv` contain individual responses from surveys about regional identification conducted for FiveThirtyEight by SurveyMonkey.
 
-This dataset was scraped from [FiveThirtyEight - region-survey](https://github.com//fivethirtyeight/data/tree/master/region-survey)
+This dataset was scraped from [FiveThirtyEight - region-survey](https://github.com/fivethirtyeight/data/tree/master/region-survey)

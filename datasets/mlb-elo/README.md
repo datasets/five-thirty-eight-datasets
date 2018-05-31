@@ -8,4 +8,4 @@ This file contains links to the data behind [The Complete History Of MLB](https:
 
 `mlb_elo.csv` contains game-by-game Elo ratings and forecasts back to 1871.
 
-This dataset was scraped from [FiveThirtyEight - mlb-elo](https://github.com//fivethirtyeight/data/tree/master/mlb-elo)
+This dataset was scraped from [FiveThirtyEight - mlb-elo](https://github.com/fivethirtyeight/data/tree/master/mlb-elo)

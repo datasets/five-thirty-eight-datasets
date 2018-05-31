@@ -6,4 +6,4 @@ File | Description
 ---|---------
 `trump_news_data.csv` | Records the lead story of [Memeorandum](http://www.memeorandum.com/) each day at noon, since June 16, 2015. If the story is about Donald Trump, the story is classified as either polls, vs. GOP, comments or other.
 
-This dataset was scraped from [FiveThirtyEight - trump-news](https://github.com//fivethirtyeight/data/tree/master/trump-news)
+This dataset was scraped from [FiveThirtyEight - trump-news](https://github.com/fivethirtyeight/data/tree/master/trump-news)

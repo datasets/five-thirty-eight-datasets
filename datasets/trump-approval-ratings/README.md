@@ -11,4 +11,4 @@ This file contains links to the data behind [How Popular is Donald Trump?](https
 
 `approval_topline.csv` contains a trendline for the approval ratings.
 
-This dataset was scraped from [FiveThirtyEight - trump-approval-ratings](https://github.com//fivethirtyeight/data/tree/master/trump-approval-ratings)
+This dataset was scraped from [FiveThirtyEight - trump-approval-ratings](https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings)

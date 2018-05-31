@@ -166,7 +166,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/drug-use-by-age",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age",
             "title": "FiveThirtyEight - Drug Use By Age"
         }
     ],

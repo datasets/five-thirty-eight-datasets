@@ -4,4 +4,4 @@ This folder contains data behind the story [Al Gore’s New Movie Exposes The Bi
 
 `ratings.csv` contains [IMDb ratings](http://www.imdb.com/title/tt6322922/ratings) for the film An Inconvenient Sequel: Truth to Power collected daily from July 17 to August 29, 2017.
 
-This dataset was scraped from [FiveThirtyEight - inconvenient-sequel](https://github.com//fivethirtyeight/data/tree/master/inconvenient-sequel)
+This dataset was scraped from [FiveThirtyEight - inconvenient-sequel](https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel)

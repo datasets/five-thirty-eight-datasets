@@ -16,4 +16,4 @@ justSandy$date <- mdy(justSandy$DATE)
 bydate <- dcast(justSandy, date ~ AGENCY)
 ```
 
-This dataset was scraped from [FiveThirtyEight - sandy-311-calls](https://github.com//fivethirtyeight/data/tree/master/sandy-311-calls)
+This dataset was scraped from [FiveThirtyEight - sandy-311-calls](https://github.com/fivethirtyeight/data/tree/master/sandy-311-calls)

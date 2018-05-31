@@ -141,7 +141,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/nba-elo",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/nba-elo",
             "title": "FiveThirtyEight - Nba Elo"
         }
     ],

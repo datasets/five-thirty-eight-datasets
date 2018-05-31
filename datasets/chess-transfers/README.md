@@ -12,4 +12,4 @@ Transfer Date | Date of transfer
 
 Data was collected from [FIDE](https://ratings.fide.com/fedchange.phtml).
 
-This dataset was scraped from [FiveThirtyEight - chess-transfers](https://github.com//fivethirtyeight/data/tree/master/chess-transfers)
+This dataset was scraped from [FiveThirtyEight - chess-transfers](https://github.com/fivethirtyeight/data/tree/master/chess-transfers)

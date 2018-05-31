@@ -16,4 +16,4 @@ Header | Definition
 `Role Player` | Probability of becoming a role player (25 per draft, SPM >= -1.4)
 `Bust` | Probability of becoming a bust (everyone else, SPM < -1.4)
 
-This dataset was scraped from [FiveThirtyEight - nba-draft-2015](https://github.com//fivethirtyeight/data/tree/master/nba-draft-2015)
+This dataset was scraped from [FiveThirtyEight - nba-draft-2015](https://github.com/fivethirtyeight/data/tree/master/nba-draft-2015)

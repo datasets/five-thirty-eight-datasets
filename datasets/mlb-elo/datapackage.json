@@ -156,7 +156,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/mlb-elo",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/mlb-elo",
             "title": "FiveThirtyEight - Mlb Elo"
         }
     ],

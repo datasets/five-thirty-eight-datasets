@@ -20,4 +20,4 @@ For the World Cup predictions interactive, [click here](http://fivethirtyeight.c
 
 For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
 
-This dataset was scraped from [FiveThirtyEight - world-cup-predictions](https://github.com//fivethirtyeight/data/tree/master/world-cup-predictions)
+This dataset was scraped from [FiveThirtyEight - world-cup-predictions](https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions)

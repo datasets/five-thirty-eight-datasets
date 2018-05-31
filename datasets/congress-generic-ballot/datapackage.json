@@ -191,7 +191,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-generic-ballot",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot",
             "title": "FiveThirtyEight - Congress Generic Ballot"
         }
     ],

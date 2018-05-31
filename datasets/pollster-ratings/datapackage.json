@@ -19,62 +19,27 @@
                 "fields": [
                     {
                         "format": "default",
-                        "name": "id",
-                        "type": "integer"
-                    },
-                    {
-                        "format": "default",
                         "name": "pollster",
                         "type": "string"
                     },
                     {
                         "format": "default",
-                        "name": "polls",
+                        "name": "# of polls",
                         "type": "integer"
                     },
                     {
                         "format": "default",
-                        "name": "live caller with cellphones",
+                        "name": "ncpp / aapor / roper",
                         "type": "string"
                     },
                     {
                         "format": "default",
-                        "name": "internet",
+                        "name": "exclusively live caller with cellphones",
                         "type": "string"
                     },
                     {
                         "format": "default",
-                        "name": "ncpp/aapor/roper",
-                        "type": "string"
-                    },
-                    {
-                        "format": "default",
-                        "name": "polls",
-                        "type": "integer"
-                    },
-                    {
-                        "format": "default",
-                        "name": "simple average error",
-                        "type": "number"
-                    },
-                    {
-                        "format": "default",
-                        "name": "races called correctly",
-                        "type": "number"
-                    },
-                    {
-                        "format": "default",
-                        "name": "advanced plus-minus",
-                        "type": "number"
-                    },
-                    {
-                        "format": "default",
-                        "name": "predictive plus-minus",
-                        "type": "number"
-                    },
-                    {
-                        "format": "default",
-                        "name": "538 grade",
+                        "name": "methodology",
                         "type": "string"
                     },
                     {
@@ -84,8 +49,83 @@
                     },
                     {
                         "format": "default",
-                        "name": "mean-reverted bias",
+                        "name": "historical advanced plus-minus",
                         "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "predictive    plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "538 grade",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mean-reverted bias",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "races called correctly",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "misses outside moe",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "simple average error",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "simple expected error",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "simple plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "advanced plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mean-reverted advanced plus minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "predictive plus-minus",
+                        "type": "number"
+                    },
+                    {
+                        "format": "default",
+                        "name": "# of polls for bias analysis",
+                        "type": "integer"
+                    },
+                    {
+                        "format": "default",
+                        "name": "bias",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "mean-reverted bias",
+                        "type": "string"
+                    },
+                    {
+                        "format": "default",
+                        "name": "house effect",
+                        "type": "string"
                     }
                 ],
                 "missingValues": [
@@ -94,7 +134,7 @@
             }
         },
         {
-            "encoding": "windows-1252",
+            "encoding": "utf-8",
             "format": "csv",
             "mediatype": "text/csv",
             "name": "raw-polls",
@@ -231,7 +271,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/pollster-ratings",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/pollster-ratings",
             "title": "FiveThirtyEight - Pollster Ratings"
         }
     ],

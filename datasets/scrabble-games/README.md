@@ -25,4 +25,4 @@ Header | Definition
 
 Source: [cross-tables.com](http://cross-tables.com)
 
-This dataset was scraped from [FiveThirtyEight - scrabble-games](https://github.com//fivethirtyeight/data/tree/master/scrabble-games)
+This dataset was scraped from [FiveThirtyEight - scrabble-games](https://github.com/fivethirtyeight/data/tree/master/scrabble-games)

@@ -22,4 +22,4 @@ Header | Definition
 
 Source: [Retrosheet](http://www.retrosheet.org/)
 
-This dataset was scraped from [FiveThirtyEight - goose](https://github.com//fivethirtyeight/data/tree/master/goose)
+This dataset was scraped from [FiveThirtyEight - goose](https://github.com/fivethirtyeight/data/tree/master/goose)

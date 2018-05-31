@@ -51,7 +51,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/alcohol-consumption",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption",
             "title": "FiveThirtyEight - Alcohol Consumption"
         }
     ],

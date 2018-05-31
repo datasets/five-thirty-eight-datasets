@@ -18,4 +18,4 @@ Header | Definition
 `How much total combined money did all members of your HOUSEHOLD earn last year?` | 1$0 to $9,999; $10,000 to $24,999; $25,000 to $49,999; $50,000 to $74,999; $75,000 to $99,999; $100,000 to $124,999; $125,000 to $149,999; $150,000 to $174,999; $175,000 to $199,999; $200,000 and up; Prefer not to answer
 `US Region` | East North Central, East South Central, Middle Atlantic, Mountain, New England, Pacific, South Atlantic, West North Central, West South Central
 
-This dataset was scraped from [FiveThirtyEight - san-andreas](https://github.com//fivethirtyeight/data/tree/master/san-andreas)
+This dataset was scraped from [FiveThirtyEight - san-andreas](https://github.com/fivethirtyeight/data/tree/master/san-andreas)

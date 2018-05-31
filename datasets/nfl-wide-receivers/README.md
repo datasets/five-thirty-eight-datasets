@@ -21,4 +21,4 @@ Header | Definition
 `age_to` | The age (as of December 31st) the player is moving to
 `trypg_change` | Expected change in TRY/game from one age-season to the next
 
-This dataset was scraped from [FiveThirtyEight - nfl-wide-receivers](https://github.com//fivethirtyeight/data/tree/master/nfl-wide-receivers)
+This dataset was scraped from [FiveThirtyEight - nfl-wide-receivers](https://github.com/fivethirtyeight/data/tree/master/nfl-wide-receivers)

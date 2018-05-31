@@ -61,7 +61,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/nfl-suspensions",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/nfl-suspensions",
             "title": "FiveThirtyEight - Nfl Suspensions"
         }
     ],

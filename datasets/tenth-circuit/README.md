@@ -22,4 +22,4 @@ Category | Category of case, immigration or discrimination
 
 **Note:** In immigration cases, partial relief to immigration petitioner is coded as liberal because the petitioner typically seeks just one core remedy (e.g., withholding of removal, adjustment of status, or asylum); in discrimination cases, partial relief is coded as multiple issues because the plaintiff often seeks separate remedies under multiple claims (e.g., disparate treatment, retaliation, etc.) and different sources of law.
 
-This dataset was scraped from [FiveThirtyEight - tenth-circuit](https://github.com//fivethirtyeight/data/tree/master/tenth-circuit)
+This dataset was scraped from [FiveThirtyEight - tenth-circuit](https://github.com/fivethirtyeight/data/tree/master/tenth-circuit)

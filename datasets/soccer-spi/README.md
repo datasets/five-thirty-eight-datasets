@@ -11,4 +11,4 @@ This file contains links to the data behind our [Club Soccer Predictions](https:
 
 `spi_global_rankings.csv` contains current SPI ratings and rankings for men's club teams.
 
-This dataset was scraped from [FiveThirtyEight - soccer-spi](https://github.com//fivethirtyeight/data/tree/master/soccer-spi)
+This dataset was scraped from [FiveThirtyEight - soccer-spi](https://github.com/fivethirtyeight/data/tree/master/soccer-spi)

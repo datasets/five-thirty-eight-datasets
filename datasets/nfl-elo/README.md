@@ -8,4 +8,4 @@ This file contains links to the data behind [The Complete History Of The NFL](ht
 
 `nfl_elo.csv` contains game-by-game Elo ratings and forecasts back to 1920.
 
-This dataset was scraped from [FiveThirtyEight - nfl-elo](https://github.com//fivethirtyeight/data/tree/master/nfl-elo)
+This dataset was scraped from [FiveThirtyEight - nfl-elo](https://github.com/fivethirtyeight/data/tree/master/nfl-elo)

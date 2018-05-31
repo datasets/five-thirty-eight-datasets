@@ -36,7 +36,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/infrastructure-jobs",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/infrastructure-jobs",
             "title": "FiveThirtyEight - Infrastructure Jobs"
         }
     ],

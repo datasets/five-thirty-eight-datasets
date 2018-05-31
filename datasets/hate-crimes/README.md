@@ -36,4 +36,4 @@ Sources:
 Please see the following commit:
 https://github.com/fivethirtyeight/data/commit/fbc884a5c8d45a0636e1d6b000021632a0861986
 
-This dataset was scraped from [FiveThirtyEight - hate-crimes](https://github.com//fivethirtyeight/data/tree/master/hate-crimes)
+This dataset was scraped from [FiveThirtyEight - hate-crimes](https://github.com/fivethirtyeight/data/tree/master/hate-crimes)

@@ -51,7 +51,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/chess-transfers",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/chess-transfers",
             "title": "FiveThirtyEight - Chess Transfers"
         }
     ],

@@ -18,4 +18,4 @@ Header | Definition
 
 Sources: [National Parks Conservation Association](https://www.npca.org/) and [National Parks Service Archeology Program](https://www.nps.gov/history/archeology/sites/antiquities/MonumentsList.htm)
 
-This dataset was scraped from [FiveThirtyEight - antiquities-act](https://github.com//fivethirtyeight/data/tree/master/antiquities-act)
+This dataset was scraped from [FiveThirtyEight - antiquities-act](https://github.com/fivethirtyeight/data/tree/master/antiquities-act)

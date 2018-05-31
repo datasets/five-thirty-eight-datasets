@@ -8,4 +8,4 @@ This file contains links to the data behind [The Complete History Of The NBA](ht
 
 `nba_elo.csv` contains game-by-game Elo ratings and forecasts back to 1946.
 
-This dataset was scraped from [FiveThirtyEight - nba-carmelo](https://github.com//fivethirtyeight/data/tree/master/nba-carmelo)
+This dataset was scraped from [FiveThirtyEight - nba-carmelo](https://github.com/fivethirtyeight/data/tree/master/nba-carmelo)

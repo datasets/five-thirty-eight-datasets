@@ -196,7 +196,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/police-killings",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/police-killings",
             "title": "FiveThirtyEight - Police Killings"
         }
     ],

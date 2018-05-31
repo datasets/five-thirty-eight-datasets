@@ -86,7 +86,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/hate-crimes",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/hate-crimes",
             "title": "FiveThirtyEight - Hate Crimes"
         }
     ],

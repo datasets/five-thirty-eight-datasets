@@ -21,4 +21,4 @@ file | survey dates
 `march_2017_responses.xlsx` | March 31 - April 7, 2017
 
 
-This dataset was scraped from [FiveThirtyEight - reluctant-trump](https://github.com//fivethirtyeight/data/tree/master/reluctant-trump)
+This dataset was scraped from [FiveThirtyEight - reluctant-trump](https://github.com/fivethirtyeight/data/tree/master/reluctant-trump)

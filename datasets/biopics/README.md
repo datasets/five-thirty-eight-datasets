@@ -25,4 +25,4 @@ Variable | Definition
 Source: [IMDb](http://www.imdb.com/).
 
 
-This dataset was scraped from [FiveThirtyEight - biopics](https://github.com//fivethirtyeight/data/tree/master/biopics)
+This dataset was scraped from [FiveThirtyEight - biopics](https://github.com/fivethirtyeight/data/tree/master/biopics)

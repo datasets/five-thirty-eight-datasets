@@ -4,4 +4,4 @@ This folder contains data behind the story [41 Percent of Fliers Say It’s Rude
 
 `flying-etiquette.csv` contains the results of a SurveyMonkey survey commissioned by FiveThirtyEight for the story.
 
-This dataset was scraped from [FiveThirtyEight - flying-etiquette-survey](https://github.com//fivethirtyeight/data/tree/master/flying-etiquette-survey)
+This dataset was scraped from [FiveThirtyEight - flying-etiquette-survey](https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey)

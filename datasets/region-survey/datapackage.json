@@ -636,7 +636,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/region-survey",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/region-survey",
             "title": "FiveThirtyEight - Region Survey"
         }
     ],

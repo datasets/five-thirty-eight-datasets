@@ -76,7 +76,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/weather-check",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/weather-check",
             "title": "FiveThirtyEight - Weather Check"
         }
     ],

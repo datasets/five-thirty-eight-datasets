@@ -25,4 +25,4 @@ Header | Definition
 
 __Note:__ When a cell contains `**` it means that there are fewer than 100 police officers of that race serving that city.
 
-This dataset was scraped from [FiveThirtyEight - police-locals](https://github.com//fivethirtyeight/data/tree/master/police-locals)
+This dataset was scraped from [FiveThirtyEight - police-locals](https://github.com/fivethirtyeight/data/tree/master/police-locals)

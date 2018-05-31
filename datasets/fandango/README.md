@@ -39,4 +39,4 @@ STARS | Number of stars presented on Fandango.com
 RATING |  The Fandango ratingValue for the film, as pulled from the HTML of each page. This is the actual average score the movie obtained.
 VOTES | number of people who had reviewed the film at the time we pulled it.
 
-This dataset was scraped from [FiveThirtyEight - fandango](https://github.com//fivethirtyeight/data/tree/master/fandango)
+This dataset was scraped from [FiveThirtyEight - fandango](https://github.com/fivethirtyeight/data/tree/master/fandango)

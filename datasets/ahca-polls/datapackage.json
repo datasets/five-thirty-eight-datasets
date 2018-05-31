@@ -61,7 +61,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/ahca-polls",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/ahca-polls",
             "title": "FiveThirtyEight - Ahca Polls"
         }
     ],

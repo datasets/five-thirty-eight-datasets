@@ -6,4 +6,4 @@ The data in `obama_commutations.csv` is copied from the Justice Department websi
 
 Source: [Department of Justice](https://www.justice.gov/pardon/obama-commutations)
 
-This dataset was scraped from [FiveThirtyEight - obama-commutations](https://github.com//fivethirtyeight/data/tree/master/obama-commutations)
+This dataset was scraped from [FiveThirtyEight - obama-commutations](https://github.com/fivethirtyeight/data/tree/master/obama-commutations)

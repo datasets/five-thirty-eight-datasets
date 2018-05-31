@@ -111,7 +111,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/police-deaths",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/police-deaths",
             "title": "FiveThirtyEight - Police Deaths"
         }
     ],

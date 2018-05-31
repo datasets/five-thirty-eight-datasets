@@ -8,4 +8,4 @@ This file contains links to the data behind our [2018 March Madness Predictions]
 
 `fivethirtyeight_ncaa_forecasts.csv` contains power ratings for each team and the chance of each team reaching every round of the tournament. It includes men's and women's forecasts, with one forecast for each day of the tournament.
 
-This dataset was scraped from [FiveThirtyEight - march-madness-predictions-2018](https://github.com//fivethirtyeight/data/tree/master/march-madness-predictions-2018)
+This dataset was scraped from [FiveThirtyEight - march-madness-predictions-2018](https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2018)

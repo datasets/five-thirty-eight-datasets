@@ -33,4 +33,4 @@ Header | Definition
 `sedative-use` | Percentage of those in an age group who used sedatives in the past 12 months
 `sedative-frequency` | Median number of times a user in an age group used sedatives in the past 12 months
 
-This dataset was scraped from [FiveThirtyEight - drug-use-by-age](https://github.com//fivethirtyeight/data/tree/master/drug-use-by-age)
+This dataset was scraped from [FiveThirtyEight - drug-use-by-age](https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age)

@@ -17,4 +17,4 @@ Header | Definition
 
 Source: [Genius](http://genius.com/)
 
-This dataset was scraped from [FiveThirtyEight - hip-hop-candidate-lyrics](https://github.com//fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics)
+This dataset was scraped from [FiveThirtyEight - hip-hop-candidate-lyrics](https://github.com/fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics)

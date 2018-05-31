@@ -5,4 +5,4 @@ This folder contains data behind the stories:
 * [How Americans Order Their Steak](https://fivethirtyeight.com/features/how-americans-order-their-steak/)
 
 
-This dataset was scraped from [FiveThirtyEight - steak-survey](https://github.com//fivethirtyeight/data/tree/master/steak-survey)
+This dataset was scraped from [FiveThirtyEight - steak-survey](https://github.com/fivethirtyeight/data/tree/master/steak-survey)

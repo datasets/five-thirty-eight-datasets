@@ -19,4 +19,4 @@ SurveyMonkey data was derived from a poll of American adults ages 18 and older, 
 
 Listed numbers are the raw totals for respondents who ranked a given NFL team among their three favorites, and how many identified with a given party (further broken down by race). We also list the percentages of the entire sample that identified with each party, and were of each race.
 
-This dataset was scraped from [FiveThirtyEight - nfl-fandom](https://github.com//fivethirtyeight/data/tree/master/nfl-fandom)
+This dataset was scraped from [FiveThirtyEight - nfl-fandom](https://github.com/fivethirtyeight/data/tree/master/nfl-fandom)

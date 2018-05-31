@@ -56,7 +56,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/historical-ncaa-forecasts",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts",
             "title": "FiveThirtyEight - Historical Ncaa Forecasts"
         }
     ],

@@ -16,4 +16,4 @@ For archived results, see:
 * **2010** http://elections.nytimes.com/2010/forecasts/senate
 * **2012** http://fivethirtyeight.blogs.nytimes.com/fivethirtyeights-2012-forecast/
 
-This dataset was scraped from [FiveThirtyEight - forecast-methodology](https://github.com//fivethirtyeight/data/tree/master/forecast-methodology)
+This dataset was scraped from [FiveThirtyEight - forecast-methodology](https://github.com/fivethirtyeight/data/tree/master/forecast-methodology)

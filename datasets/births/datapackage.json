@@ -91,7 +91,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/births",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/births",
             "title": "FiveThirtyEight - Births"
         }
     ],

@@ -51,7 +51,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/daily-show-guests",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/daily-show-guests",
             "title": "FiveThirtyEight - Daily Show Guests"
         }
     ],

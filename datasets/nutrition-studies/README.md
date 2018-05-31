@@ -18,4 +18,4 @@ File | Description
 
 **IN OTHER WORDS: THIS IS NOT AN EXAMPLE OF SOUND DATA ANALYSIS.**
 
-This dataset was scraped from [FiveThirtyEight - nutrition-studies](https://github.com//fivethirtyeight/data/tree/master/nutrition-studies)
+This dataset was scraped from [FiveThirtyEight - nutrition-studies](https://github.com/fivethirtyeight/data/tree/master/nutrition-studies)

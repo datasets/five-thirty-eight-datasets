@@ -12,4 +12,4 @@ Header | Definition
 `tv_audience_share` | Country's share of global world cup TV Audience (percentage)
 `gdp_weighted_share` | Country's GDP-weighted audience share (percentage)
 
-This dataset was scraped from [FiveThirtyEight - fifa](https://github.com//fivethirtyeight/data/tree/master/fifa)
+This dataset was scraped from [FiveThirtyEight - fifa](https://github.com/fivethirtyeight/data/tree/master/fifa)

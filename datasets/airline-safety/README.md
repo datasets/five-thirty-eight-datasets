@@ -15,4 +15,4 @@ Header | Definition
 
 Source: [Aviation Safety Network](http://aviation-safety.net)
 
-This dataset was scraped from [FiveThirtyEight - airline-safety](https://github.com//fivethirtyeight/data/tree/master/airline-safety)
+This dataset was scraped from [FiveThirtyEight - airline-safety](https://github.com/fivethirtyeight/data/tree/master/airline-safety)

@@ -30,4 +30,4 @@ Variable | Definition
 `GENDER_PROB` | Percent chance that a given name is male
 `GENDER_GUESS` | Based on the probablity, guess if the name is male or female
 
-This dataset was scraped from [FiveThirtyEight - next-bechdel](https://github.com//fivethirtyeight/data/tree/master/next-bechdel)
+This dataset was scraped from [FiveThirtyEight - next-bechdel](https://github.com/fivethirtyeight/data/tree/master/next-bechdel)

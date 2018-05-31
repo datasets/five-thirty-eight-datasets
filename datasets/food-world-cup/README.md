@@ -15,4 +15,4 @@ Value | Description
 1 | I hate this country's traditional cuisine. I think it's one of the worst in the world.
 N/A | I'm unfamiliar with this country's traditional cuisine.
 
-This dataset was scraped from [FiveThirtyEight - food-world-cup](https://github.com//fivethirtyeight/data/tree/master/food-world-cup)
+This dataset was scraped from [FiveThirtyEight - food-world-cup](https://github.com/fivethirtyeight/data/tree/master/food-world-cup)

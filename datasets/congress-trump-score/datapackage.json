@@ -74,7 +74,7 @@
             }
         },
         {
-            "encoding": "windows-1252",
+            "encoding": "utf-8",
             "format": "csv",
             "mediatype": "text/csv",
             "name": "vote_predictions",
@@ -161,7 +161,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/congress-trump-score",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/congress-trump-score",
             "title": "FiveThirtyEight - Congress Trump Score"
         }
     ],

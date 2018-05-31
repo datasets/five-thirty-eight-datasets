@@ -41,7 +41,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/trump-news",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/trump-news",
             "title": "FiveThirtyEight - Trump News"
         }
     ],

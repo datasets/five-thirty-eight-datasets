@@ -25,4 +25,4 @@ This folder contains data behind the story [The Rams Are Dead To Me, So I Answer
 
 Should be used in conjunction with weights derived from a survey structured like this: http://www.allourideas.org/nflteampickingsample.
 
-This dataset was scraped from [FiveThirtyEight - nfl-favorite-team](https://github.com//fivethirtyeight/data/tree/master/nfl-favorite-team)
+This dataset was scraped from [FiveThirtyEight - nfl-favorite-team](https://github.com/fivethirtyeight/data/tree/master/nfl-favorite-team)

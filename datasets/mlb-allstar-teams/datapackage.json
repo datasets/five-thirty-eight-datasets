@@ -196,7 +196,7 @@
     ],
     "sources": [
         {
-            "path": "https://github.com//fivethirtyeight/data/tree/master/mlb-allstar-teams",
+            "path": "https://github.com/fivethirtyeight/data/tree/master/mlb-allstar-teams",
             "title": "FiveThirtyEight - Mlb Allstar Teams"
         }
     ],

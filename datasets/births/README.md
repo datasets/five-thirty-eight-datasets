@@ -18,4 +18,4 @@ Header | Definition
 `day_of_week` | Day of week, where 1 is Monday and 7 is Sunday
 `births` | Number of births
 
-This dataset was scraped from [FiveThirtyEight - births](https://github.com//fivethirtyeight/data/tree/master/births)
+This dataset was scraped from [FiveThirtyEight - births](https://github.com/fivethirtyeight/data/tree/master/births)

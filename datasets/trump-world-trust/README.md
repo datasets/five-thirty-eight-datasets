@@ -17,4 +17,4 @@ The other five are approval ratings across countries for five of President Trump
 
 Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
 
-This dataset was scraped from [FiveThirtyEight - trump-world-trust](https://github.com//fivethirtyeight/data/tree/master/trump-world-trust)
+This dataset was scraped from [FiveThirtyEight - trump-world-trust](https://github.com/fivethirtyeight/data/tree/master/trump-world-trust)

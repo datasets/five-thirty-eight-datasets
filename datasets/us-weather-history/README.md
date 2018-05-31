@@ -30,4 +30,4 @@ Column | Description
 
 Source: [Weather Underground](http://wunderground.com)
 
-This dataset was scraped from [FiveThirtyEight - us-weather-history](https://github.com//fivethirtyeight/data/tree/master/us-weather-history)
+This dataset was scraped from [FiveThirtyEight - us-weather-history](https://github.com/fivethirtyeight/data/tree/master/us-weather-history)
