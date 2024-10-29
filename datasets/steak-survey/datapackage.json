@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "steak-risk-survey",
-            "path": "datasets\\steak-survey\\data\\steak-risk-survey.csv",
+            "path": "/datasets/steak-survey/data/steak-risk-survey.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

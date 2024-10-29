@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "tarantino",
-            "path": "datasets\\tarantino\\data\\tarantino.csv",
+            "path": "/datasets/tarantino/data/tarantino.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

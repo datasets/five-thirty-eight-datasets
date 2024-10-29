@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "google_trends",
-            "path": "datasets\\puerto-rico-media\\data\\google_trends.csv",
+            "path": "/datasets/puerto-rico-media/data/google_trends.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -53,7 +53,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "mediacloud_hurricanes",
-            "path": "datasets\\puerto-rico-media\\data\\mediacloud_hurricanes.csv",
+            "path": "/datasets/puerto-rico-media/data/mediacloud_hurricanes.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -93,7 +93,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "mediacloud_states",
-            "path": "datasets\\puerto-rico-media\\data\\mediacloud_states.csv",
+            "path": "/datasets/puerto-rico-media/data/mediacloud_states.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -128,7 +128,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "mediacloud_top_online_news",
-            "path": "datasets\\puerto-rico-media\\data\\mediacloud_top_online_news.csv",
+            "path": "/datasets/puerto-rico-media/data/mediacloud_top_online_news.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -153,7 +153,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "mediacloud_trump",
-            "path": "datasets\\puerto-rico-media\\data\\mediacloud_trump.csv",
+            "path": "/datasets/puerto-rico-media/data/mediacloud_trump.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -203,7 +203,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "tv_hurricanes",
-            "path": "datasets\\puerto-rico-media\\data\\tv_hurricanes.csv",
+            "path": "/datasets/puerto-rico-media/data/tv_hurricanes.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -243,7 +243,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "tv_hurricanes_by_network",
-            "path": "datasets\\puerto-rico-media\\data\\tv_hurricanes_by_network.csv",
+            "path": "/datasets/puerto-rico-media/data/tv_hurricanes_by_network.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -288,7 +288,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "tv_states",
-            "path": "datasets\\puerto-rico-media\\data\\tv_states.csv",
+            "path": "/datasets/puerto-rico-media/data/tv_states.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

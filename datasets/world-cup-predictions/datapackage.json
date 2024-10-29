@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140609-140000",
-            "path": "/datasets/world-cup-predictions/data/wc-20140609-140000.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140609-140000.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -88,7 +88,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140611-132709",
-            "path": "/datasets/world-cup-predictions/data/wc-20140611-132709.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140611-132709.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -163,7 +163,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140612-094254",
-            "path": "/datasets/world-cup-predictions/data/wc-20140612-094254.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140612-094254.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -238,7 +238,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140612-220228",
-            "path": "/datasets/world-cup-predictions/data/wc-20140612-220228.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140612-220228.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -313,7 +313,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140613-091928",
-            "path": "/datasets/world-cup-predictions/data/wc-20140613-091928.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140613-091928.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -388,7 +388,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140613-180212",
-            "path": "/datasets/world-cup-predictions/data/wc-20140613-180212.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140613-180212.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -463,7 +463,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140613-205820",
-            "path": "/datasets/world-cup-predictions/data/wc-20140613-205820.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140613-205820.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -538,7 +538,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140614-000045",
-            "path": "/datasets/world-cup-predictions/data/wc-20140614-000045.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140614-000045.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -613,7 +613,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140614-091756",
-            "path": "/datasets/world-cup-predictions/data/wc-20140614-091756.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140614-091756.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -688,7 +688,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140614-180027",
-            "path": "/datasets/world-cup-predictions/data/wc-20140614-180027.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140614-180027.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -763,7 +763,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140614-210740",
-            "path": "/datasets/world-cup-predictions/data/wc-20140614-210740.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140614-210740.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -838,7 +838,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140615-001554",
-            "path": "/datasets/world-cup-predictions/data/wc-20140615-001554.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140615-001554.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -913,7 +913,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140615-030217",
-            "path": "/datasets/world-cup-predictions/data/wc-20140615-030217.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140615-030217.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -988,7 +988,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140615-092237",
-            "path": "/datasets/world-cup-predictions/data/wc-20140615-092237.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140615-092237.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1063,7 +1063,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140615-180820",
-            "path": "/datasets/world-cup-predictions/data/wc-20140615-180820.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140615-180820.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1138,7 +1138,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140615-210736",
-            "path": "/datasets/world-cup-predictions/data/wc-20140615-210736.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140615-210736.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1213,7 +1213,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140616-100604",
-            "path": "/datasets/world-cup-predictions/data/wc-20140616-100604.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140616-100604.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1288,7 +1288,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140616-182949",
-            "path": "/datasets/world-cup-predictions/data/wc-20140616-182949.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140616-182949.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1363,7 +1363,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140616-185551",
-            "path": "/datasets/world-cup-predictions/data/wc-20140616-185551.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140616-185551.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1438,7 +1438,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140616-205307",
-            "path": "/datasets/world-cup-predictions/data/wc-20140616-205307.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140616-205307.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1513,7 +1513,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140617-000315",
-            "path": "/datasets/world-cup-predictions/data/wc-20140617-000315.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140617-000315.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1588,7 +1588,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140617-091836",
-            "path": "/datasets/world-cup-predictions/data/wc-20140617-091836.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140617-091836.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1663,7 +1663,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140617-175702",
-            "path": "/datasets/world-cup-predictions/data/wc-20140617-175702.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140617-175702.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1738,7 +1738,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140617-205249",
-            "path": "/datasets/world-cup-predictions/data/wc-20140617-205249.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140617-205249.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1813,7 +1813,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140617-235154",
-            "path": "/datasets/world-cup-predictions/data/wc-20140617-235154.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140617-235154.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1888,7 +1888,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140618-100110",
-            "path": "/datasets/world-cup-predictions/data/wc-20140618-100110.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140618-100110.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1963,7 +1963,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140618-175722",
-            "path": "/datasets/world-cup-predictions/data/wc-20140618-175722.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140618-175722.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2038,7 +2038,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140618-210231",
-            "path": "/datasets/world-cup-predictions/data/wc-20140618-210231.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140618-210231.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2113,7 +2113,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140618-235413",
-            "path": "/datasets/world-cup-predictions/data/wc-20140618-235413.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140618-235413.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2188,7 +2188,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140619-091907",
-            "path": "/datasets/world-cup-predictions/data/wc-20140619-091907.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140619-091907.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2263,7 +2263,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140619-180248",
-            "path": "/datasets/world-cup-predictions/data/wc-20140619-180248.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140619-180248.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2338,7 +2338,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140619-205931",
-            "path": "/datasets/world-cup-predictions/data/wc-20140619-205931.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140619-205931.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2413,7 +2413,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140619-235903",
-            "path": "/datasets/world-cup-predictions/data/wc-20140619-235903.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140619-235903.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2488,7 +2488,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140620-094015",
-            "path": "/datasets/world-cup-predictions/data/wc-20140620-094015.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140620-094015.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2563,7 +2563,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140620-175706",
-            "path": "/datasets/world-cup-predictions/data/wc-20140620-175706.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140620-175706.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2638,7 +2638,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140620-205534",
-            "path": "/datasets/world-cup-predictions/data/wc-20140620-205534.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140620-205534.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2713,7 +2713,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140620-235753",
-            "path": "/datasets/world-cup-predictions/data/wc-20140620-235753.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140620-235753.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2788,7 +2788,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140621-092639",
-            "path": "/datasets/world-cup-predictions/data/wc-20140621-092639.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140621-092639.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2863,7 +2863,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140621-175630",
-            "path": "/datasets/world-cup-predictions/data/wc-20140621-175630.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140621-175630.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2938,7 +2938,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140621-205738",
-            "path": "/datasets/world-cup-predictions/data/wc-20140621-205738.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140621-205738.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3013,7 +3013,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140621-235521",
-            "path": "/datasets/world-cup-predictions/data/wc-20140621-235521.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140621-235521.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3088,7 +3088,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140622-091255",
-            "path": "/datasets/world-cup-predictions/data/wc-20140622-091255.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140622-091255.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3163,7 +3163,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140622-175429",
-            "path": "/datasets/world-cup-predictions/data/wc-20140622-175429.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140622-175429.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3238,7 +3238,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140622-205351",
-            "path": "/datasets/world-cup-predictions/data/wc-20140622-205351.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140622-205351.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3313,7 +3313,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140622-235721",
-            "path": "/datasets/world-cup-predictions/data/wc-20140622-235721.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140622-235721.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3388,7 +3388,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140623-095120",
-            "path": "/datasets/world-cup-predictions/data/wc-20140623-095120.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140623-095120.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3463,7 +3463,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140623-175427",
-            "path": "/datasets/world-cup-predictions/data/wc-20140623-175427.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140623-175427.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3538,7 +3538,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140623-220333",
-            "path": "/datasets/world-cup-predictions/data/wc-20140623-220333.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140623-220333.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3613,7 +3613,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140624-100611",
-            "path": "/datasets/world-cup-predictions/data/wc-20140624-100611.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140624-100611.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3688,7 +3688,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140624-181518",
-            "path": "/datasets/world-cup-predictions/data/wc-20140624-181518.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140624-181518.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3763,7 +3763,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140625-091929",
-            "path": "/datasets/world-cup-predictions/data/wc-20140625-091929.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140625-091929.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3838,7 +3838,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140625-180355",
-            "path": "/datasets/world-cup-predictions/data/wc-20140625-180355.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140625-180355.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3913,7 +3913,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140625-220012",
-            "path": "/datasets/world-cup-predictions/data/wc-20140625-220012.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140625-220012.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3988,7 +3988,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140626-095930",
-            "path": "/datasets/world-cup-predictions/data/wc-20140626-095930.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140626-095930.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4063,7 +4063,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140626-180150",
-            "path": "/datasets/world-cup-predictions/data/wc-20140626-180150.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140626-180150.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4138,7 +4138,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140626-221022",
-            "path": "/datasets/world-cup-predictions/data/wc-20140626-221022.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140626-221022.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4213,7 +4213,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140627-100126",
-            "path": "/datasets/world-cup-predictions/data/wc-20140627-100126.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140627-100126.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4288,7 +4288,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140628-094211",
-            "path": "/datasets/world-cup-predictions/data/wc-20140628-094211.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140628-094211.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4363,7 +4363,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140628-185951",
-            "path": "/datasets/world-cup-predictions/data/wc-20140628-185951.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140628-185951.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4438,7 +4438,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140628-215357",
-            "path": "/datasets/world-cup-predictions/data/wc-20140628-215357.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140628-215357.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4513,7 +4513,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140629-091813",
-            "path": "/datasets/world-cup-predictions/data/wc-20140629-091813.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140629-091813.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4588,7 +4588,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140629-180901",
-            "path": "/datasets/world-cup-predictions/data/wc-20140629-180901.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140629-180901.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4663,7 +4663,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140629-225940",
-            "path": "/datasets/world-cup-predictions/data/wc-20140629-225940.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140629-225940.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4738,7 +4738,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140630-095330",
-            "path": "/datasets/world-cup-predictions/data/wc-20140630-095330.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140630-095330.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4813,7 +4813,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140630-175910",
-            "path": "/datasets/world-cup-predictions/data/wc-20140630-175910.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140630-175910.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4888,7 +4888,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140630-223910",
-            "path": "/datasets/world-cup-predictions/data/wc-20140630-223910.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140630-223910.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4963,7 +4963,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140701-092605",
-            "path": "/datasets/world-cup-predictions/data/wc-20140701-092605.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140701-092605.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5038,7 +5038,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140701-184332",
-            "path": "/datasets/world-cup-predictions/data/wc-20140701-184332.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140701-184332.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5113,7 +5113,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140701-224103",
-            "path": "/datasets/world-cup-predictions/data/wc-20140701-224103.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140701-224103.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5188,7 +5188,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140702-094046",
-            "path": "/datasets/world-cup-predictions/data/wc-20140702-094046.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140702-094046.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5263,7 +5263,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140703-094053",
-            "path": "/datasets/world-cup-predictions/data/wc-20140703-094053.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140703-094053.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5338,7 +5338,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140704-180211",
-            "path": "/datasets/world-cup-predictions/data/wc-20140704-180211.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140704-180211.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5413,7 +5413,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140704-220110",
-            "path": "/datasets/world-cup-predictions/data/wc-20140704-220110.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140704-220110.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5488,7 +5488,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140705-093245",
-            "path": "/datasets/world-cup-predictions/data/wc-20140705-093245.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140705-093245.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5563,7 +5563,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140705-225331",
-            "path": "/datasets/world-cup-predictions/data/wc-20140705-225331.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140705-225331.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5638,7 +5638,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140706-091537",
-            "path": "/datasets/world-cup-predictions/data/wc-20140706-091537.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140706-091537.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5713,7 +5713,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140707-100337",
-            "path": "/datasets/world-cup-predictions/data/wc-20140707-100337.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140707-100337.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5788,7 +5788,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140708-092538",
-            "path": "/datasets/world-cup-predictions/data/wc-20140708-092538.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140708-092538.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5863,7 +5863,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140708-215459",
-            "path": "/datasets/world-cup-predictions/data/wc-20140708-215459.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140708-215459.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5938,7 +5938,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140709-095047",
-            "path": "/datasets/world-cup-predictions/data/wc-20140709-095047.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140709-095047.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6013,7 +6013,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140709-231617",
-            "path": "/datasets/world-cup-predictions/data/wc-20140709-231617.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140709-231617.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6088,7 +6088,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140710-164509",
-            "path": "/datasets/world-cup-predictions/data/wc-20140710-164509.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140710-164509.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6163,7 +6163,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140711-102258",
-            "path": "/datasets/world-cup-predictions/data/wc-20140711-102258.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140711-102258.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6238,7 +6238,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wc-20140713-113900",
-            "path": "/datasets/world-cup-predictions/data/wc-20140713-113900.csv",
+            "path": "//datasets/world-cup-predictions/data/wc-20140713-113900.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

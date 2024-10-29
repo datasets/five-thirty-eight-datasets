@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "castle-solutions-2",
-            "path": "datasets\\riddler-castles\\data\\castle-solutions-2.csv",
+            "path": "/datasets/riddler-castles/data/castle-solutions-2.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -83,7 +83,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "castle-solutions",
-            "path": "datasets\\riddler-castles\\data\\castle-solutions.csv",
+            "path": "/datasets/riddler-castles/data/castle-solutions.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

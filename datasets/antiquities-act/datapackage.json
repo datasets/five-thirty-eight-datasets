@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "actions_under_antiquities_act",
-            "path": "datasets\\antiquities-act\\data\\actions_under_antiquities_act.csv",
+            "path": "/datasets/antiquities-act/data/actions_under_antiquities_act.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

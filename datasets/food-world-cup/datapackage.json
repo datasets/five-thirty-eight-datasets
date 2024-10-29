@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "food-world-cup-data",
-            "path": "datasets\\food-world-cup\\data\\food-world-cup-data.csv",
+            "path": "/datasets/food-world-cup/data/food-world-cup-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

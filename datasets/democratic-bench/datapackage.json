@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "democratic-bench",
-            "path": "datasets\\democratic-bench\\data\\democratic-bench.csv",
+            "path": "/datasets/democratic-bench/data/democratic-bench.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

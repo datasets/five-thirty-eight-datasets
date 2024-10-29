@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "drinks",
-            "path": "datasets\\alcohol-consumption\\data\\drinks.csv",
+            "path": "/datasets/alcohol-consumption/data/drinks.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

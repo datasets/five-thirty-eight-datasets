@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "congressional_resignations",
-            "path": "datasets\\congress-resignations\\data\\congressional_resignations.csv",
+            "path": "/datasets/congress-resignations/data/congressional_resignations.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

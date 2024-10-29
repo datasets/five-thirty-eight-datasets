@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "pollster-ratings",
-            "path": "/datasets/pollster-ratings/data/pollster-ratings.csv",
+            "path": "//datasets/pollster-ratings/data/pollster-ratings.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -138,7 +138,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "raw-polls",
-            "path": "/datasets/pollster-ratings/data/raw-polls.csv",
+            "path": "//datasets/pollster-ratings/data/raw-polls.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

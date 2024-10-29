@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KCLT",
-            "path": "datasets\\us-weather-history\\data\\KCLT.csv",
+            "path": "/datasets/us-weather-history/data/KCLT.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -93,7 +93,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KCQT",
-            "path": "datasets\\us-weather-history\\data\\KCQT.csv",
+            "path": "/datasets/us-weather-history/data/KCQT.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -173,7 +173,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KHOU",
-            "path": "datasets\\us-weather-history\\data\\KHOU.csv",
+            "path": "/datasets/us-weather-history/data/KHOU.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -253,7 +253,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KIND",
-            "path": "datasets\\us-weather-history\\data\\KIND.csv",
+            "path": "/datasets/us-weather-history/data/KIND.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -333,7 +333,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KJAX",
-            "path": "datasets\\us-weather-history\\data\\KJAX.csv",
+            "path": "/datasets/us-weather-history/data/KJAX.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -413,7 +413,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KMDW",
-            "path": "datasets\\us-weather-history\\data\\KMDW.csv",
+            "path": "/datasets/us-weather-history/data/KMDW.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -493,7 +493,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KNYC",
-            "path": "datasets\\us-weather-history\\data\\KNYC.csv",
+            "path": "/datasets/us-weather-history/data/KNYC.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -573,7 +573,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KPHL",
-            "path": "datasets\\us-weather-history\\data\\KPHL.csv",
+            "path": "/datasets/us-weather-history/data/KPHL.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -653,7 +653,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KPHX",
-            "path": "datasets\\us-weather-history\\data\\KPHX.csv",
+            "path": "/datasets/us-weather-history/data/KPHX.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -733,7 +733,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "KSEA",
-            "path": "datasets\\us-weather-history\\data\\KSEA.csv",
+            "path": "/datasets/us-weather-history/data/KSEA.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

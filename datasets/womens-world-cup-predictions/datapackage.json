@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150602-093000",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150602-093000.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150602-093000.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -103,7 +103,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150606-200029",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150606-200029.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150606-200029.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -193,7 +193,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150606-230045",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150606-230045.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150606-230045.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -283,7 +283,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150607-150137",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150607-150137.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150607-150137.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -373,7 +373,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150607-180420",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150607-180420.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150607-180420.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -463,7 +463,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150608-175420",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150608-175420.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-175420.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -553,7 +553,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150608-210138",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150608-210138.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-210138.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -643,7 +643,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150608-212619",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150608-212619.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-212619.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -733,7 +733,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150608-235509",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150608-235509.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-235509.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -823,7 +823,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150609-145605",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150609-145605.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-145605.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -913,7 +913,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150609-175933",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150609-175933.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-175933.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1003,7 +1003,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150609-205725",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150609-205725.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-205725.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1093,7 +1093,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150611-182114",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150611-182114.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-182114.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1183,7 +1183,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150611-200059",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150611-200059.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-200059.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1273,7 +1273,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150611-210229",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150611-210229.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-210229.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1363,7 +1363,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150611-232844",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150611-232844.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-232844.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1453,7 +1453,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150612-185329",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150612-185329.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-185329.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1543,7 +1543,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150612-205525",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150612-205525.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-205525.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1633,7 +1633,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150612-215533",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150612-215533.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-215533.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1723,7 +1723,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150612-235650",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150612-235650.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-235650.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1813,7 +1813,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150613-145639",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150613-145639.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-145639.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1903,7 +1903,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150613-175552",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150613-175552.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-175552.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1993,7 +1993,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150613-205441",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150613-205441.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-205441.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2083,7 +2083,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150615-175745",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150615-175745.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150615-175745.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2173,7 +2173,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150615-213540",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150615-213540.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150615-213540.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2263,7 +2263,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150616-190139",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150616-190139.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150616-190139.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2353,7 +2353,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150616-220036",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150616-220036.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150616-220036.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2443,7 +2443,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150617-175941",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150617-175941.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150617-175941.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2533,7 +2533,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150617-210614",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150617-210614.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150617-210614.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2623,7 +2623,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150620-180614",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150620-180614.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150620-180614.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2713,7 +2713,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150620-213513",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150620-213513.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150620-213513.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2803,7 +2803,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150621-145724",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150621-145724.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-145724.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2893,7 +2893,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150621-175918",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150621-175918.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-175918.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -2983,7 +2983,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150621-213134",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150621-213134.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-213134.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3073,7 +3073,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150622-185345",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150622-185345.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150622-185345.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3163,7 +3163,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150622-215702",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150622-215702.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150622-215702.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3253,7 +3253,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150623-235546",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150623-235546.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150623-235546.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3343,7 +3343,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150626-184421",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150626-184421.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150626-184421.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3433,7 +3433,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150626-212544",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150626-212544.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150626-212544.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3523,7 +3523,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150627-180119",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150627-180119.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150627-180119.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3613,7 +3613,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150627-213532",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150627-213532.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150627-213532.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3703,7 +3703,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150630-210243",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150630-210243.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150630-210243.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3793,7 +3793,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150701-205548",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150701-205548.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150701-205548.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3883,7 +3883,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-forecast-20150705-205539",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-forecast-20150705-205539.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-forecast-20150705-205539.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -3973,7 +3973,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150602-093000",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150602-093000.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150602-093000.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4023,7 +4023,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150606-200029",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150606-200029.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150606-200029.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4073,7 +4073,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150606-230045",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150606-230045.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150606-230045.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4123,7 +4123,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150607-150137",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150607-150137.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150607-150137.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4173,7 +4173,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150607-180420",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150607-180420.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150607-180420.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4223,7 +4223,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150608-175420",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150608-175420.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150608-175420.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4273,7 +4273,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150608-210138",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150608-210138.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150608-210138.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4323,7 +4323,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150608-212619",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150608-212619.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150608-212619.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4373,7 +4373,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150608-235509",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150608-235509.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150608-235509.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4423,7 +4423,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150609-145605",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150609-145605.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150609-145605.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4473,7 +4473,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150609-175933",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150609-175933.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150609-175933.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4523,7 +4523,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150609-205725",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150609-205725.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150609-205725.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4573,7 +4573,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150611-182114",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150611-182114.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150611-182114.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4623,7 +4623,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150611-200059",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150611-200059.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150611-200059.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4673,7 +4673,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150611-210229",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150611-210229.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150611-210229.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4723,7 +4723,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150611-232844",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150611-232844.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150611-232844.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4773,7 +4773,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150612-185329",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150612-185329.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150612-185329.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4823,7 +4823,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150612-205525",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150612-205525.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150612-205525.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4873,7 +4873,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150612-215533",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150612-215533.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150612-215533.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4923,7 +4923,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150612-235650",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150612-235650.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150612-235650.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -4973,7 +4973,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150613-145639",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150613-145639.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150613-145639.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5023,7 +5023,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150613-175552",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150613-175552.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150613-175552.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5073,7 +5073,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150613-205441",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150613-205441.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150613-205441.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5123,7 +5123,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150615-175745",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150615-175745.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150615-175745.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5173,7 +5173,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150615-213540",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150615-213540.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150615-213540.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5223,7 +5223,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150616-190139",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150616-190139.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150616-190139.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5273,7 +5273,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150616-220036",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150616-220036.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150616-220036.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5323,7 +5323,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150617-175941",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150617-175941.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150617-175941.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5373,7 +5373,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150617-210614",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150617-210614.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150617-210614.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5423,7 +5423,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150620-180614",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150620-180614.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150620-180614.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5473,7 +5473,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150620-213513",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150620-213513.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150620-213513.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5523,7 +5523,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150621-145724",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150621-145724.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150621-145724.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5573,7 +5573,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150621-175918",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150621-175918.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150621-175918.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5623,7 +5623,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150621-213134",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150621-213134.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150621-213134.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5673,7 +5673,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150622-185345",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150622-185345.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150622-185345.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5723,7 +5723,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150622-215702",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150622-215702.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150622-215702.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5773,7 +5773,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150623-235546",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150623-235546.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150623-235546.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5823,7 +5823,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150626-184421",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150626-184421.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150626-184421.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5873,7 +5873,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150626-212544",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150626-212544.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150626-212544.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5923,7 +5923,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150627-180119",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150627-180119.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150627-180119.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -5973,7 +5973,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150627-213532",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150627-213532.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150627-213532.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6023,7 +6023,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150630-210243",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150630-210243.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150630-210243.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6073,7 +6073,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150701-205548",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150701-205548.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150701-205548.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -6123,7 +6123,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "wwc-matches-20150705-205539",
-            "path": "datasets\\womens-world-cup-predictions\\data\\wwc-matches-20150705-205539.csv",
+            "path": "/datasets/womens-world-cup-predictions/data/wwc-matches-20150705-205539.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

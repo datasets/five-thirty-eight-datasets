@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "murder_2015_final",
-            "path": "datasets\\murder_2016\\data\\murder_2015_final.csv",
+            "path": "/datasets/murder_2016/data/murder_2015_final.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -53,7 +53,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "murder_2016_prelim",
-            "path": "datasets\\murder_2016\\data\\murder_2016_prelim.csv",
+            "path": "/datasets/murder_2016/data/murder_2016_prelim.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

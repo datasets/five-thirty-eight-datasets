@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "p_values_analysis",
-            "path": "datasets\\nutrition-studies\\data\\p_values_analysis.csv",
+            "path": "/datasets/nutrition-studies/data/p_values_analysis.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -43,7 +43,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "raw_anonymized_data",
-            "path": "datasets\\nutrition-studies\\data\\raw_anonymized_data.csv",
+            "path": "/datasets/nutrition-studies/data/raw_anonymized_data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nfl_elo",
-            "path": "datasets\\nfl-elo\\data\\nfl_elo.csv",
+            "path": "/datasets/nfl-elo/data/nfl_elo.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

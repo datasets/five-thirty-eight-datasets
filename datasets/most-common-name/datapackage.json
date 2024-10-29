@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "adjusted-name-combinations-list",
-            "path": "datasets\\most-common-name\\data\\adjusted-name-combinations-list.csv",
+            "path": "/datasets/most-common-name/data/adjusted-name-combinations-list.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -63,7 +63,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "adjusted-name-combinations-matrix",
-            "path": "datasets\\most-common-name\\data\\adjusted-name-combinations-matrix.csv",
+            "path": "/datasets/most-common-name/data/adjusted-name-combinations-matrix.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -188,7 +188,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "adjustments",
-            "path": "datasets\\most-common-name\\data\\adjustments.csv",
+            "path": "/datasets/most-common-name/data/adjustments.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -308,7 +308,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "aging-curve",
-            "path": "datasets\\most-common-name\\data\\aging-curve.csv",
+            "path": "/datasets/most-common-name/data/aging-curve.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -353,7 +353,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "independent-name-combinations-by-pop",
-            "path": "datasets\\most-common-name\\data\\independent-name-combinations-by-pop.csv",
+            "path": "/datasets/most-common-name/data/independent-name-combinations-by-pop.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -873,7 +873,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "new-top-firstNames",
-            "path": "datasets\\most-common-name\\data\\new-top-firstNames.csv",
+            "path": "/datasets/most-common-name/data/new-top-firstNames.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -903,7 +903,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "new-top-surnames",
-            "path": "datasets\\most-common-name\\data\\new-top-surnames.csv",
+            "path": "/datasets/most-common-name/data/new-top-surnames.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -933,7 +933,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "state-pop",
-            "path": "datasets\\most-common-name\\data\\state-pop.csv",
+            "path": "/datasets/most-common-name/data/state-pop.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -963,7 +963,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "surnames",
-            "path": "datasets\\most-common-name\\data\\surnames.csv",
+            "path": "/datasets/most-common-name/data/surnames.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "MIDWEST",
-            "path": "datasets\\region-survey\\data\\MIDWEST.csv",
+            "path": "/datasets/region-survey/data/MIDWEST.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -313,7 +313,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "SOUTH",
-            "path": "datasets\\region-survey\\data\\SOUTH.csv",
+            "path": "/datasets/region-survey/data/SOUTH.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "weather-check",
-            "path": "datasets\\weather-check\\data\\weather-check.csv",
+            "path": "/datasets/weather-check/data/weather-check.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "daily_show_guests",
-            "path": "datasets\\daily-show-guests\\data\\daily_show_guests.csv",
+            "path": "/datasets/daily-show-guests/data/daily_show_guests.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

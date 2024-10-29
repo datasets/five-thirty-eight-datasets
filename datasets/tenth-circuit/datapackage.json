@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "tenth-circuit",
-            "path": "datasets\\tenth-circuit\\data\\tenth-circuit.csv",
+            "path": "/datasets/tenth-circuit/data/tenth-circuit.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

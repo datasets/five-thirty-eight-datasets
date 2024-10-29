@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "2014-average-ticket-price",
-            "path": "datasets\\nfl-ticket-prices\\data\\2014-average-ticket-price.csv",
+            "path": "/datasets/nfl-ticket-prices/data/2014-average-ticket-price.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -48,7 +48,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "jets-buyer",
-            "path": "datasets\\nfl-ticket-prices\\data\\jets-buyer.csv",
+            "path": "/datasets/nfl-ticket-prices/data/jets-buyer.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -78,7 +78,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "national-average",
-            "path": "datasets\\nfl-ticket-prices\\data\\national-average.csv",
+            "path": "/datasets/nfl-ticket-prices/data/national-average.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "obama_commutations",
-            "path": "datasets\\obama-commutations\\data\\obama_commutations.csv",
+            "path": "/datasets/obama-commutations/data/obama_commutations.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

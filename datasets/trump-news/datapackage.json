@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "trump_news_data",
-            "path": "datasets\\trump-news\\data\\trump_news_data.csv",
+            "path": "/datasets/trump-news/data/trump_news_data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

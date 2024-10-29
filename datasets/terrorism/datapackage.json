@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "country_stats_1993_appendix2",
-            "path": "datasets\\terrorism\\data\\country_stats_1993_appendix2.csv",
+            "path": "/datasets/terrorism/data/country_stats_1993_appendix2.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -63,7 +63,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "eu_terrorism_fatalities_by_country",
-            "path": "datasets\\terrorism\\data\\eu_terrorism_fatalities_by_country.csv",
+            "path": "/datasets/terrorism/data/eu_terrorism_fatalities_by_country.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -143,7 +143,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "eu_terrorism_fatalities_by_year",
-            "path": "datasets\\terrorism\\data\\eu_terrorism_fatalities_by_year.csv",
+            "path": "/datasets/terrorism/data/eu_terrorism_fatalities_by_year.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -168,7 +168,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "france_terrorism_fatalities_by_year",
-            "path": "datasets\\terrorism\\data\\france_terrorism_fatalities_by_year.csv",
+            "path": "/datasets/terrorism/data/france_terrorism_fatalities_by_year.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

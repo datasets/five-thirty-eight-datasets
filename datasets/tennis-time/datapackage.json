@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "events_time",
-            "path": "datasets\\tennis-time\\data\\events_time.csv",
+            "path": "/datasets/tennis-time/data/events_time.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -48,7 +48,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "players_time",
-            "path": "datasets\\tennis-time\\data\\players_time.csv",
+            "path": "/datasets/tennis-time/data/players_time.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -73,7 +73,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "serve_times",
-            "path": "datasets\\tennis-time\\data\\serve_times.csv",
+            "path": "/datasets/tennis-time/data/serve_times.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

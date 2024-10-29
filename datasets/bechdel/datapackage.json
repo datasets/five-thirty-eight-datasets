@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "movies",
-            "path": "datasets\\bechdel\\data\\movies.csv",
+            "path": "/datasets/bechdel/data/movies.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

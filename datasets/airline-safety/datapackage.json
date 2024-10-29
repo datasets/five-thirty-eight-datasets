@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "airline-safety",
-            "path": "datasets\\airline-safety\\data\\airline-safety.csv",
+            "path": "/datasets/airline-safety/data/airline-safety.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

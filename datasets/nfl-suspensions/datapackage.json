@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nfl-suspensions-data",
-            "path": "datasets\\nfl-suspensions\\data\\nfl-suspensions-data.csv",
+            "path": "/datasets/nfl-suspensions/data/nfl-suspensions-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

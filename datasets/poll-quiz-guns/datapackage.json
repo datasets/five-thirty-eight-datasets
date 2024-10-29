@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "guns-polls",
-            "path": "datasets\\poll-quiz-guns\\data\\guns-polls.csv",
+            "path": "/datasets/poll-quiz-guns/data/guns-polls.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

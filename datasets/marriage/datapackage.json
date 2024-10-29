@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "both_sexes",
-            "path": "datasets\\marriage\\data\\both_sexes.csv",
+            "path": "/datasets/marriage/data/both_sexes.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -403,7 +403,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "divorce",
-            "path": "datasets\\marriage\\data\\divorce.csv",
+            "path": "/datasets/marriage/data/divorce.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -523,7 +523,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "men",
-            "path": "datasets\\marriage\\data\\men.csv",
+            "path": "/datasets/marriage/data/men.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -1033,7 +1033,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "women",
-            "path": "datasets\\marriage\\data\\women.csv",
+            "path": "/datasets/marriage/data/women.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

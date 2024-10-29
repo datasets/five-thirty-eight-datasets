@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "all-ages",
-            "path": "datasets\\college-majors\\data\\all-ages.csv",
+            "path": "/datasets/college-majors/data/all-ages.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -83,7 +83,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "grad-students",
-            "path": "datasets\\college-majors\\data\\grad-students.csv",
+            "path": "/datasets/college-majors/data/grad-students.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -208,7 +208,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "majors-list",
-            "path": "datasets\\college-majors\\data\\majors-list.csv",
+            "path": "/datasets/college-majors/data/majors-list.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -238,7 +238,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "recent-grads",
-            "path": "datasets\\college-majors\\data\\recent-grads.csv",
+            "path": "/datasets/college-majors/data/recent-grads.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -358,7 +358,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "women-stem",
-            "path": "datasets\\college-majors\\data\\women-stem.csv",
+            "path": "/datasets/college-majors/data/women-stem.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

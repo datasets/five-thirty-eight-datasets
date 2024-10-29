@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "cousin-marriage-data",
-            "path": "datasets\\cousin-marriage\\data\\cousin-marriage-data.csv",
+            "path": "/datasets/cousin-marriage/data/cousin-marriage-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

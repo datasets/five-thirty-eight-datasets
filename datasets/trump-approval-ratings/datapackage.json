@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "approval_polllist",
-            "path": "datasets\\trump-approval-ratings\\data\\approval_polllist.csv",
+            "path": "/datasets/trump-approval-ratings/data/approval_polllist.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -138,7 +138,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "approval_topline",
-            "path": "datasets\\trump-approval-ratings\\data\\approval_topline.csv",
+            "path": "/datasets/trump-approval-ratings/data/approval_topline.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

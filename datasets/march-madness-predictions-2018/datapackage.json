@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "fivethirtyeight_ncaa_forecasts",
-            "path": "datasets\\march-madness-predictions-2018\\data\\fivethirtyeight_ncaa_forecasts.csv",
+            "path": "/datasets/march-madness-predictions-2018/data/fivethirtyeight_ncaa_forecasts.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

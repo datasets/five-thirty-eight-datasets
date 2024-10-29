@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "scrabble_games",
-            "path": "datasets\\scrabble-games\\data\\scrabble_games.csv",
+            "path": "/datasets/scrabble-games/data/scrabble_games.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

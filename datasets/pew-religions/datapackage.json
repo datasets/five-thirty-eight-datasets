@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "current",
-            "path": "datasets\\pew-religions\\data\\current.csv",
+            "path": "/datasets/pew-religions/data/current.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

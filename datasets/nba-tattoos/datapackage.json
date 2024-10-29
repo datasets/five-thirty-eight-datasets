@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nba-tattoos-data",
-            "path": "datasets\\nba-tattoos\\data\\nba-tattoos-data.csv",
+            "path": "/datasets/nba-tattoos/data/nba-tattoos-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

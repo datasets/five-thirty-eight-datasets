@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "february_2018_rawdata",
-            "path": "datasets\\reluctant-trump\\data\\february_2018_rawdata.csv",
+            "path": "/datasets/reluctant-trump/data/february_2018_rawdata.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

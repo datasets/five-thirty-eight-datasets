@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "special-elections",
-            "path": "datasets\\special-elections\\data\\special-elections.csv",
+            "path": "/datasets/special-elections/data/special-elections.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

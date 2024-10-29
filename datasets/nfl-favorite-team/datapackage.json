@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "team-picking-categories",
-            "path": "datasets\\nfl-favorite-team\\data\\team-picking-categories.csv",
+            "path": "/datasets/nfl-favorite-team/data/team-picking-categories.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

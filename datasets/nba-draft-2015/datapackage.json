@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "historical_projections",
-            "path": "datasets\\nba-draft-2015\\data\\historical_projections.csv",
+            "path": "/datasets/nba-draft-2015/data/historical_projections.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

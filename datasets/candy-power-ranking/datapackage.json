@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "candy-data",
-            "path": "datasets\\candy-power-ranking\\data\\candy-data.csv",
+            "path": "/datasets/candy-power-ranking/data/candy-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

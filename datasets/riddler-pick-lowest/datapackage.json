@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "low_numbers",
-            "path": "datasets\\riddler-pick-lowest\\data\\low_numbers.csv",
+            "path": "/datasets/riddler-pick-lowest/data/low_numbers.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

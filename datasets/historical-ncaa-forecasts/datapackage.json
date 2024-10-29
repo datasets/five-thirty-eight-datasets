@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "historical-538-ncaa-tournament-model-results",
-            "path": "datasets\\historical-ncaa-forecasts\\data\\historical-538-ncaa-tournament-model-results.csv",
+            "path": "/datasets/historical-ncaa-forecasts/data/historical-538-ncaa-tournament-model-results.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

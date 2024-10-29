@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "avengers",
-            "path": "datasets\\avengers\\data\\avengers.csv",
+            "path": "/datasets/avengers/data/avengers.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "ratings",
-            "path": "datasets\\inconvenient-sequel\\data\\ratings.csv",
+            "path": "/datasets/inconvenient-sequel/data/ratings.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

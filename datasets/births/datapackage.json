@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "US_births_1994-2003_CDC_NCHS",
-            "path": "datasets\\births\\data\\US_births_1994-2003_CDC_NCHS.csv",
+            "path": "/datasets/births/data/US_births_1994-2003_CDC_NCHS.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -53,7 +53,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "US_births_2000-2014_SSA",
-            "path": "datasets\\births\\data\\US_births_2000-2014_SSA.csv",
+            "path": "/datasets/births/data/US_births_2000-2014_SSA.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

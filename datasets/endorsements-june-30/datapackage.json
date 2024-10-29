@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "endorsements-june-30",
-            "path": "datasets\\endorsements-june-30\\data\\endorsements-june-30.csv",
+            "path": "/datasets/endorsements-june-30/data/endorsements-june-30.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "fifa_countries_audience",
-            "path": "datasets\\fifa\\data\\fifa_countries_audience.csv",
+            "path": "/datasets/fifa/data/fifa_countries_audience.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

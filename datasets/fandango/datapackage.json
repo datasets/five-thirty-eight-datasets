@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "fandango_score_comparison",
-            "path": "datasets\\fandango\\data\\fandango_score_comparison.csv",
+            "path": "/datasets/fandango/data/fandango_score_comparison.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -138,7 +138,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "fandango_scrape",
-            "path": "datasets\\fandango\\data\\fandango_scrape.csv",
+            "path": "/datasets/fandango/data/fandango_scrape.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

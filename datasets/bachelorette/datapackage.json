@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "bachelorette",
-            "path": "datasets\\bachelorette\\data\\bachelorette.csv",
+            "path": "/datasets/bachelorette/data/bachelorette.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

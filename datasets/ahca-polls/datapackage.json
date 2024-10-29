@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "ahca_polls",
-            "path": "datasets\\ahca-polls\\data\\ahca_polls.csv",
+            "path": "/datasets/ahca-polls/data/ahca_polls.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

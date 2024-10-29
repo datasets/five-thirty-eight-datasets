@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "aging_curve",
-            "path": "datasets\\unisex-names\\data\\aging_curve.csv",
+            "path": "/datasets/unisex-names/data/aging_curve.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -58,7 +58,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "unisex_names_table",
-            "path": "datasets\\unisex-names\\data\\unisex_names_table.csv",
+            "path": "/datasets/unisex-names/data/unisex_names_table.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "allstar_player_talent",
-            "path": "datasets\\mlb-allstar-teams\\data\\allstar_player_talent.csv",
+            "path": "/datasets/mlb-allstar-teams/data/allstar_player_talent.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -103,7 +103,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "allstar_team_talent",
-            "path": "datasets\\mlb-allstar-teams\\data\\allstar_team_talent.csv",
+            "path": "/datasets/mlb-allstar-teams/data/allstar_team_talent.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

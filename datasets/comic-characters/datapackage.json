@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "dc-wikia-data",
-            "path": "datasets\\comic-characters\\data\\dc-wikia-data.csv",
+            "path": "/datasets/comic-characters/data/dc-wikia-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -93,7 +93,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "marvel-wikia-data",
-            "path": "datasets\\comic-characters\\data\\marvel-wikia-data.csv",
+            "path": "/datasets/comic-characters/data/marvel-wikia-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

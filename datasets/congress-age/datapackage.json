@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "congress-terms",
-            "path": "datasets\\congress-age\\data\\congress-terms.csv",
+            "path": "/datasets/congress-age/data/congress-terms.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

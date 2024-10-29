@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "hate_crimes",
-            "path": "datasets\\hate-crimes\\data\\hate_crimes.csv",
+            "path": "/datasets/hate-crimes/data/hate_crimes.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

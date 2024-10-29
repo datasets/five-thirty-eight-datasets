@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-issue-1",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-1.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-issue-1.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -53,7 +53,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-issue-2",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-2.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-issue-2.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -93,7 +93,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-issue-3",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-3.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-issue-3.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -133,7 +133,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-issue-4",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-4.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-issue-4.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -173,7 +173,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-issue-5",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-issue-5.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-issue-5.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -213,7 +213,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-pres",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-pres.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-pres.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -423,7 +423,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "TRUMPWORLD-us",
-            "path": "datasets\\trump-world-trust\\data\\TRUMPWORLD-us.csv",
+            "path": "/datasets/trump-world-trust/data/TRUMPWORLD-us.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

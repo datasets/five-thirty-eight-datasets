@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "sleeping-alone-data",
-            "path": "datasets\\sleeping-alone-data\\data\\sleeping-alone-data.csv",
+            "path": "/datasets/sleeping-alone-data/data/sleeping-alone-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "averages",
-            "path": "datasets\\congress-trump-score\\data\\averages.csv",
+            "path": "/datasets/congress-trump-score/data/averages.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -78,7 +78,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "vote_predictions",
-            "path": "datasets\\congress-trump-score\\data\\vote_predictions.csv",
+            "path": "/datasets/congress-trump-score/data/vote_predictions.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

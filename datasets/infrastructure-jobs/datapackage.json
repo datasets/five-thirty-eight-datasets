@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "payroll-states",
-            "path": "datasets\\infrastructure-jobs\\data\\payroll-states.csv",
+            "path": "/datasets/infrastructure-jobs/data/payroll-states.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "transfers",
-            "path": "datasets\\chess-transfers\\data\\transfers.csv",
+            "path": "/datasets/chess-transfers/data/transfers.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

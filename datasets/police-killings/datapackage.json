@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "police_killings",
-            "path": "datasets\\police-killings\\data\\police_killings.csv",
+            "path": "/datasets/police-killings/data/police_killings.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

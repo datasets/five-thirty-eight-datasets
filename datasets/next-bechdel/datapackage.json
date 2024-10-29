@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nextBechdel_allTests",
-            "path": "datasets\\next-bechdel\\data\\nextBechdel_allTests.csv",
+            "path": "/datasets/next-bechdel/data/nextBechdel_allTests.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -98,7 +98,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nextBechdel_castGender",
-            "path": "datasets\\next-bechdel\\data\\nextBechdel_castGender.csv",
+            "path": "/datasets/next-bechdel/data/nextBechdel_castGender.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -143,7 +143,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nextBechdel_crewGender",
-            "path": "datasets\\next-bechdel\\data\\nextBechdel_crewGender.csv",
+            "path": "/datasets/next-bechdel/data/nextBechdel_crewGender.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

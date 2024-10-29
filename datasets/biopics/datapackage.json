@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "biopics",
-            "path": "datasets\\biopics\\data\\biopics.csv",
+            "path": "/datasets/biopics/data/biopics.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

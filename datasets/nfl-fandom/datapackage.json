@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "NFL_fandom_data-google_trends",
-            "path": "datasets\\nfl-fandom\\data\\NFL_fandom_data-google_trends.csv",
+            "path": "/datasets/nfl-fandom/data/NFL_fandom_data-google_trends.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -73,7 +73,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "NFL_fandom_data-surveymonkey",
-            "path": "datasets\\nfl-fandom\\data\\NFL_fandom_data-surveymonkey.csv",
+            "path": "/datasets/nfl-fandom/data/NFL_fandom_data-surveymonkey.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "comma-survey",
-            "path": "datasets\\comma-survey\\data\\comma-survey.csv",
+            "path": "/datasets/comma-survey/data/comma-survey.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

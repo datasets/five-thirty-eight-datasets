@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "earthquake_data",
-            "path": "datasets\\san-andreas\\data\\earthquake_data.csv",
+            "path": "/datasets/san-andreas/data/earthquake_data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

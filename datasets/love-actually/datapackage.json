@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "love_actually_adjacencies",
-            "path": "datasets\\love-actually\\data\\love_actually_adjacencies.csv",
+            "path": "/datasets/love-actually/data/love_actually_adjacencies.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -103,7 +103,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "love_actually_appearances",
-            "path": "datasets\\love-actually\\data\\love_actually_appearances.csv",
+            "path": "/datasets/love-actually/data/love_actually_appearances.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

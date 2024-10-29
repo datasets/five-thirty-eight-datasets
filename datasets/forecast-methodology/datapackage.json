@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "historical-senate-predictions",
-            "path": "datasets\\forecast-methodology\\data\\historical-senate-predictions.csv",
+            "path": "/datasets/forecast-methodology/data/historical-senate-predictions.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

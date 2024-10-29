@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "mlb_elo",
-            "path": "datasets\\mlb-elo\\data\\mlb_elo.csv",
+            "path": "/datasets/mlb-elo/data/mlb_elo.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

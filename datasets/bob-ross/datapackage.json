@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "elements-by-episode",
-            "path": "datasets\\bob-ross\\data\\elements-by-episode.csv",
+            "path": "/datasets/bob-ross/data/elements-by-episode.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

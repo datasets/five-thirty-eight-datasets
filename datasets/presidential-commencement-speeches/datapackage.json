@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "commencement_speeches",
-            "path": "datasets\\presidential-commencement-speeches\\data\\commencement_speeches.csv",
+            "path": "/datasets/presidential-commencement-speeches/data/commencement_speeches.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

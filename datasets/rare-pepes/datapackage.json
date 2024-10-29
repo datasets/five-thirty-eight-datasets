@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "blocks_timestamps",
-            "path": "datasets\\rare-pepes\\data\\blocks_timestamps.csv",
+            "path": "/datasets/rare-pepes/data/blocks_timestamps.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -38,7 +38,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "ordermatches_all",
-            "path": "datasets\\rare-pepes\\data\\ordermatches_all.csv",
+            "path": "/datasets/rare-pepes/data/ordermatches_all.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -78,7 +78,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "pepecash_prices",
-            "path": "datasets\\rare-pepes\\data\\pepecash_prices.csv",
+            "path": "/datasets/rare-pepes/data/pepecash_prices.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -103,7 +103,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "xcp_prices",
-            "path": "datasets\\rare-pepes\\data\\xcp_prices.csv",
+            "path": "/datasets/rare-pepes/data/xcp_prices.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

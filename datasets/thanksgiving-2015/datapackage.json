@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "thanksgiving-2015-poll-data",
-            "path": "datasets\\thanksgiving-2015\\data\\thanksgiving-2015-poll-data.csv",
+            "path": "/datasets/thanksgiving-2015/data/thanksgiving-2015-poll-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

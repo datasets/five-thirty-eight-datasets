@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "all_data",
-            "path": "datasets\\police-deaths\\data\\all_data.csv",
+            "path": "/datasets/police-deaths/data/all_data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -48,7 +48,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "clean_data",
-            "path": "datasets\\police-deaths\\data\\clean_data.csv",
+            "path": "/datasets/police-deaths/data/clean_data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

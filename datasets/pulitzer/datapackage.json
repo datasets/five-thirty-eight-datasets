@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "pulitzer-circulation-data",
-            "path": "datasets\\pulitzer\\data\\pulitzer-circulation-data.csv",
+            "path": "/datasets/pulitzer/data/pulitzer-circulation-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

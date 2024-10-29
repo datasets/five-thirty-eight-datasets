@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "librarians-by-msa",
-            "path": "datasets\\librarians\\data\\librarians-by-msa.csv",
+            "path": "/datasets/librarians/data/librarians-by-msa.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "elo_blatter",
-            "path": "datasets\\elo-blatter\\data\\elo_blatter.csv",
+            "path": "/datasets/elo-blatter/data/elo_blatter.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

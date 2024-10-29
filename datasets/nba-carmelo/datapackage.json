@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nba_elo",
-            "path": "datasets\\nba-carmelo\\data\\nba_elo.csv",
+            "path": "/datasets/nba-carmelo/data/nba_elo.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

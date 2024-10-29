@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "science_federal_giving",
-            "path": "datasets\\science-giving\\data\\science_federal_giving.csv",
+            "path": "/datasets/science-giving/data/science_federal_giving.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

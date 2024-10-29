@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "performer-scores",
-            "path": "datasets\\mad-men\\data\\performer-scores.csv",
+            "path": "/datasets/mad-men/data/performer-scores.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -48,7 +48,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "show-data",
-            "path": "datasets\\mad-men\\data\\show-data.csv",
+            "path": "/datasets/mad-men/data/show-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

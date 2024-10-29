@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "flying-etiquette",
-            "path": "datasets\\flying-etiquette-survey\\data\\flying-etiquette.csv",
+            "path": "/datasets/flying-etiquette-survey/data/flying-etiquette.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

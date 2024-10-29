@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "drug-use-by-age",
-            "path": "datasets\\drug-use-by-age\\data\\drug-use-by-age.csv",
+            "path": "/datasets/drug-use-by-age/data/drug-use-by-age.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

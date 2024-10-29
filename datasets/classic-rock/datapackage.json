@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "classic-rock-raw-data",
-            "path": "datasets\\classic-rock\\data\\classic-rock-raw-data.csv",
+            "path": "/datasets/classic-rock/data/classic-rock-raw-data.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -73,7 +73,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "classic-rock-song-list",
-            "path": "datasets\\classic-rock\\data\\classic-rock-song-list.csv",
+            "path": "/datasets/classic-rock/data/classic-rock-song-list.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "early-senate-polls",
-            "path": "datasets\\early-senate-polls\\data\\early-senate-polls.csv",
+            "path": "/datasets/early-senate-polls/data/early-senate-polls.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

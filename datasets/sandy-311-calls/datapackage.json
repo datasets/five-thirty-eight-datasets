@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "sandy-311-calls-by-day",
-            "path": "datasets\\sandy-311-calls\\data\\sandy-311-calls-by-day.csv",
+            "path": "/datasets/sandy-311-calls/data/sandy-311-calls-by-day.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

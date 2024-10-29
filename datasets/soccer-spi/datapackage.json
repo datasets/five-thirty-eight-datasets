@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "spi_global_rankings",
-            "path": "datasets\\soccer-spi\\data\\spi_global_rankings.csv",
+            "path": "/datasets/soccer-spi/data/spi_global_rankings.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -63,7 +63,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "spi_matches",
-            "path": "datasets\\soccer-spi\\data\\spi_matches.csv",
+            "path": "/datasets/soccer-spi/data/spi_matches.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

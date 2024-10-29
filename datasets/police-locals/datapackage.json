@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "police-locals",
-            "path": "datasets\\police-locals\\data\\police-locals.csv",
+            "path": "/datasets/police-locals/data/police-locals.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

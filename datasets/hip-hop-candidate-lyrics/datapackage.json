@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "genius_hip_hop_lyrics",
-            "path": "datasets\\hip-hop-candidate-lyrics\\data\\genius_hip_hop_lyrics.csv",
+            "path": "/datasets/hip-hop-candidate-lyrics/data/genius_hip_hop_lyrics.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

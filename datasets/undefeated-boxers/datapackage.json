@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "undefeated",
-            "path": "datasets\\undefeated-boxers\\data\\undefeated.csv",
+            "path": "/datasets/undefeated-boxers/data/undefeated.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

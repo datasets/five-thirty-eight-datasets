@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "clinton",
-            "path": "datasets\\presidential-campaign-trail\\data\\clinton.csv",
+            "path": "/datasets/presidential-campaign-trail/data/clinton.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -48,7 +48,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "trump",
-            "path": "datasets\\presidential-campaign-trail\\data\\trump.csv",
+            "path": "/datasets/presidential-campaign-trail/data/trump.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

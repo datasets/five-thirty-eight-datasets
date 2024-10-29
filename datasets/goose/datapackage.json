@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "goose_rawdata",
-            "path": "datasets\\goose\\data\\goose_rawdata.csv",
+            "path": "/datasets/goose/data/goose_rawdata.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

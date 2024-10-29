@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "advanced-historical",
-            "path": "datasets\\nfl-wide-receivers\\data\\advanced-historical.csv",
+            "path": "/datasets/nfl-wide-receivers/data/advanced-historical.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -58,7 +58,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "try-per-game-aging-curve",
-            "path": "datasets\\nfl-wide-receivers\\data\\try-per-game-aging-curve.csv",
+            "path": "/datasets/nfl-wide-receivers/data/try-per-game-aging-curve.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

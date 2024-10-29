@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "bad-drivers",
-            "path": "datasets\\bad-drivers\\data\\bad-drivers.csv",
+            "path": "/datasets/bad-drivers/data/bad-drivers.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

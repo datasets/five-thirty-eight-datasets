@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "StarWars",
-            "path": "datasets\\star-wars-survey\\data\\StarWars.csv",
+            "path": "/datasets/star-wars-survey/data/StarWars.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [

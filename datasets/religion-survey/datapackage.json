@@ -13,7 +13,7 @@
             "format": "csv",
             "mediatype": "text/csv",
             "name": "religion-survey-results",
-            "path": "datasets\\religion-survey\\data\\religion-survey-results.csv",
+            "path": "/datasets/religion-survey/data/religion-survey-results.csv",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
