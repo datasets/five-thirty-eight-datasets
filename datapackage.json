@@ -1,7 +1,7 @@
 {
   "name": "five-thirty-eight-datasets",
   "title": "FiveThirtyEight Datasets Collection",
-  "description": "Collection dataset containing sub-dataset descriptors under the datasets/ directory for FiveThirtyEight topic datasets.",
+  "description": "Collection dataset containing CSV resources from FiveThirtyEight topic datasets under datasets/*/data/.",
   "profile": "data-package",
   "licenses": [
     {
@@ -19,610 +19,2818 @@
   ],
   "resources": [
     {
-      "name": "ahca-polls",
-      "path": "datasets/ahca-polls/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-ahca-polls-data-ahca_polls",
+      "path": "datasets/ahca-polls/data/ahca_polls.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "airline-safety",
-      "path": "datasets/airline-safety/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-airline-safety-data-airline-safety",
+      "path": "datasets/airline-safety/data/airline-safety.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "alcohol-consumption",
-      "path": "datasets/alcohol-consumption/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-alcohol-consumption-data-drinks",
+      "path": "datasets/alcohol-consumption/data/drinks.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "antiquities-act",
-      "path": "datasets/antiquities-act/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-antiquities-act-data-actions_under_antiquities_act",
+      "path": "datasets/antiquities-act/data/actions_under_antiquities_act.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "avengers",
-      "path": "datasets/avengers/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-avengers-data-avengers",
+      "path": "datasets/avengers/data/avengers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "bachelorette",
-      "path": "datasets/bachelorette/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-bachelorette-data-bachelorette",
+      "path": "datasets/bachelorette/data/bachelorette.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "bad-drivers",
-      "path": "datasets/bad-drivers/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-bad-drivers-data-bad-drivers",
+      "path": "datasets/bad-drivers/data/bad-drivers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "bechdel",
-      "path": "datasets/bechdel/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-bechdel-data-movies",
+      "path": "datasets/bechdel/data/movies.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "biopics",
-      "path": "datasets/biopics/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-biopics-data-biopics",
+      "path": "datasets/biopics/data/biopics.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "births",
-      "path": "datasets/births/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-births-data-us_births_1994-2003_cdc_nchs",
+      "path": "datasets/births/data/US_births_1994-2003_CDC_NCHS.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "bob-ross",
-      "path": "datasets/bob-ross/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-births-data-us_births_2000-2014_ssa",
+      "path": "datasets/births/data/US_births_2000-2014_SSA.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "candy-power-ranking",
-      "path": "datasets/candy-power-ranking/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-bob-ross-data-elements-by-episode",
+      "path": "datasets/bob-ross/data/elements-by-episode.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "chess-transfers",
-      "path": "datasets/chess-transfers/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-candy-power-ranking-data-candy-data",
+      "path": "datasets/candy-power-ranking/data/candy-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "classic-rock",
-      "path": "datasets/classic-rock/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-chess-transfers-data-transfers",
+      "path": "datasets/chess-transfers/data/transfers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "college-majors",
-      "path": "datasets/college-majors/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-classic-rock-data-classic-rock-raw-data",
+      "path": "datasets/classic-rock/data/classic-rock-raw-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "comic-characters",
-      "path": "datasets/comic-characters/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-classic-rock-data-classic-rock-song-list",
+      "path": "datasets/classic-rock/data/classic-rock-song-list.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "comma-survey",
-      "path": "datasets/comma-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-college-majors-data-all-ages",
+      "path": "datasets/college-majors/data/all-ages.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "congress-age",
-      "path": "datasets/congress-age/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-college-majors-data-grad-students",
+      "path": "datasets/college-majors/data/grad-students.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "congress-generic-ballot",
-      "path": "datasets/congress-generic-ballot/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-college-majors-data-majors-list",
+      "path": "datasets/college-majors/data/majors-list.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "congress-resignations",
-      "path": "datasets/congress-resignations/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-college-majors-data-recent-grads",
+      "path": "datasets/college-majors/data/recent-grads.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "congress-trump-score",
-      "path": "datasets/congress-trump-score/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-college-majors-data-women-stem",
+      "path": "datasets/college-majors/data/women-stem.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "cousin-marriage",
-      "path": "datasets/cousin-marriage/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-comic-characters-data-dc-wikia-data",
+      "path": "datasets/comic-characters/data/dc-wikia-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "daily-show-guests",
-      "path": "datasets/daily-show-guests/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-comic-characters-data-marvel-wikia-data",
+      "path": "datasets/comic-characters/data/marvel-wikia-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "democratic-bench",
-      "path": "datasets/democratic-bench/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-comma-survey-data-comma-survey",
+      "path": "datasets/comma-survey/data/comma-survey.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "drug-use-by-age",
-      "path": "datasets/drug-use-by-age/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-age-data-congress-terms",
+      "path": "datasets/congress-age/data/congress-terms.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "early-senate-polls",
-      "path": "datasets/early-senate-polls/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-generic-ballot-data-generic_polllist",
+      "path": "datasets/congress-generic-ballot/data/generic_polllist.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "elo-blatter",
-      "path": "datasets/elo-blatter/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-generic-ballot-data-generic_topline",
+      "path": "datasets/congress-generic-ballot/data/generic_topline.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "endorsements-june-30",
-      "path": "datasets/endorsements-june-30/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-resignations-data-congressional_resignations",
+      "path": "datasets/congress-resignations/data/congressional_resignations.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "fandango",
-      "path": "datasets/fandango/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-trump-score-data-averages",
+      "path": "datasets/congress-trump-score/data/averages.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "fifa",
-      "path": "datasets/fifa/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-congress-trump-score-data-vote_predictions",
+      "path": "datasets/congress-trump-score/data/vote_predictions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "flying-etiquette-survey",
-      "path": "datasets/flying-etiquette-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-cousin-marriage-data-cousin-marriage-data",
+      "path": "datasets/cousin-marriage/data/cousin-marriage-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "food-world-cup",
-      "path": "datasets/food-world-cup/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-daily-show-guests-data-daily_show_guests",
+      "path": "datasets/daily-show-guests/data/daily_show_guests.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "forecast-methodology",
-      "path": "datasets/forecast-methodology/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-democratic-bench-data-democratic-bench",
+      "path": "datasets/democratic-bench/data/democratic-bench.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "goose",
-      "path": "datasets/goose/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-drug-use-by-age-data-drug-use-by-age",
+      "path": "datasets/drug-use-by-age/data/drug-use-by-age.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "hate-crimes",
-      "path": "datasets/hate-crimes/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-early-senate-polls-data-early-senate-polls",
+      "path": "datasets/early-senate-polls/data/early-senate-polls.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "hip-hop-candidate-lyrics",
-      "path": "datasets/hip-hop-candidate-lyrics/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-elo-blatter-data-elo_blatter",
+      "path": "datasets/elo-blatter/data/elo_blatter.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "historical-ncaa-forecasts",
-      "path": "datasets/historical-ncaa-forecasts/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-endorsements-june-30-data-endorsements-june-30",
+      "path": "datasets/endorsements-june-30/data/endorsements-june-30.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "inconvenient-sequel",
-      "path": "datasets/inconvenient-sequel/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-fandango-data-fandango_score_comparison",
+      "path": "datasets/fandango/data/fandango_score_comparison.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "infrastructure-jobs",
-      "path": "datasets/infrastructure-jobs/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-fandango-data-fandango_scrape",
+      "path": "datasets/fandango/data/fandango_scrape.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "librarians",
-      "path": "datasets/librarians/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-fifa-data-fifa_countries_audience",
+      "path": "datasets/fifa/data/fifa_countries_audience.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "love-actually",
-      "path": "datasets/love-actually/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-flying-etiquette-survey-data-flying-etiquette",
+      "path": "datasets/flying-etiquette-survey/data/flying-etiquette.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "mad-men",
-      "path": "datasets/mad-men/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-food-world-cup-data-food-world-cup-data",
+      "path": "datasets/food-world-cup/data/food-world-cup-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "march-madness-predictions",
-      "path": "datasets/march-madness-predictions/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-forecast-methodology-data-historical-senate-predictions",
+      "path": "datasets/forecast-methodology/data/historical-senate-predictions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "march-madness-predictions-2018",
-      "path": "datasets/march-madness-predictions-2018/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-goose-data-goose_rawdata",
+      "path": "datasets/goose/data/goose_rawdata.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "marriage",
-      "path": "datasets/marriage/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-hate-crimes-data-hate_crimes",
+      "path": "datasets/hate-crimes/data/hate_crimes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "mlb-allstar-teams",
-      "path": "datasets/mlb-allstar-teams/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-hip-hop-candidate-lyrics-data-genius_hip_hop_lyrics",
+      "path": "datasets/hip-hop-candidate-lyrics/data/genius_hip_hop_lyrics.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "mlb-elo",
-      "path": "datasets/mlb-elo/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-historical-ncaa-forecasts-data-historical-538-ncaa-tournament-model-results",
+      "path": "datasets/historical-ncaa-forecasts/data/historical-538-ncaa-tournament-model-results.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "most-common-name",
-      "path": "datasets/most-common-name/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-inconvenient-sequel-data-ratings",
+      "path": "datasets/inconvenient-sequel/data/ratings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "murder_2016",
-      "path": "datasets/murder_2016/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-infrastructure-jobs-data-payroll-states",
+      "path": "datasets/infrastructure-jobs/data/payroll-states.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nba-carmelo",
-      "path": "datasets/nba-carmelo/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-librarians-data-librarians-by-msa",
+      "path": "datasets/librarians/data/librarians-by-msa.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nba-draft-2015",
-      "path": "datasets/nba-draft-2015/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-love-actually-data-love_actually_adjacencies",
+      "path": "datasets/love-actually/data/love_actually_adjacencies.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nba-elo",
-      "path": "datasets/nba-elo/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-love-actually-data-love_actually_appearances",
+      "path": "datasets/love-actually/data/love_actually_appearances.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nba-tattoos",
-      "path": "datasets/nba-tattoos/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-mad-men-data-performer-scores",
+      "path": "datasets/mad-men/data/performer-scores.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "next-bechdel",
-      "path": "datasets/next-bechdel/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-mad-men-data-show-data",
+      "path": "datasets/mad-men/data/show-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-elo",
-      "path": "datasets/nfl-elo/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-2018-data-fivethirtyeight_ncaa_forecasts",
+      "path": "datasets/march-madness-predictions-2018/data/fivethirtyeight_ncaa_forecasts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-fandom",
-      "path": "datasets/nfl-fandom/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-00",
+      "path": "datasets/march-madness-predictions/data/bracket-00.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-favorite-team",
-      "path": "datasets/nfl-favorite-team/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-01",
+      "path": "datasets/march-madness-predictions/data/bracket-01.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-suspensions",
-      "path": "datasets/nfl-suspensions/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-02",
+      "path": "datasets/march-madness-predictions/data/bracket-02.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-ticket-prices",
-      "path": "datasets/nfl-ticket-prices/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-03",
+      "path": "datasets/march-madness-predictions/data/bracket-03.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nfl-wide-receivers",
-      "path": "datasets/nfl-wide-receivers/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-04",
+      "path": "datasets/march-madness-predictions/data/bracket-04.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "nutrition-studies",
-      "path": "datasets/nutrition-studies/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-05",
+      "path": "datasets/march-madness-predictions/data/bracket-05.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "obama-commutations",
-      "path": "datasets/obama-commutations/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-06",
+      "path": "datasets/march-madness-predictions/data/bracket-06.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "pew-religions",
-      "path": "datasets/pew-religions/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-07",
+      "path": "datasets/march-madness-predictions/data/bracket-07.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "police-deaths",
-      "path": "datasets/police-deaths/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-08",
+      "path": "datasets/march-madness-predictions/data/bracket-08.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "police-killings",
-      "path": "datasets/police-killings/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-09",
+      "path": "datasets/march-madness-predictions/data/bracket-09.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "police-locals",
-      "path": "datasets/police-locals/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-10",
+      "path": "datasets/march-madness-predictions/data/bracket-10.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "poll-quiz-guns",
-      "path": "datasets/poll-quiz-guns/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-11",
+      "path": "datasets/march-madness-predictions/data/bracket-11.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "pollster-ratings",
-      "path": "datasets/pollster-ratings/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-12",
+      "path": "datasets/march-madness-predictions/data/bracket-12.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "presidential-campaign-trail",
-      "path": "datasets/presidential-campaign-trail/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-13",
+      "path": "datasets/march-madness-predictions/data/bracket-13.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "presidential-commencement-speeches",
-      "path": "datasets/presidential-commencement-speeches/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-14",
+      "path": "datasets/march-madness-predictions/data/bracket-14.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "puerto-rico-media",
-      "path": "datasets/puerto-rico-media/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-15",
+      "path": "datasets/march-madness-predictions/data/bracket-15.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "pulitzer",
-      "path": "datasets/pulitzer/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-16",
+      "path": "datasets/march-madness-predictions/data/bracket-16.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "rare-pepes",
-      "path": "datasets/rare-pepes/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-17",
+      "path": "datasets/march-madness-predictions/data/bracket-17.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "region-survey",
-      "path": "datasets/region-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-18",
+      "path": "datasets/march-madness-predictions/data/bracket-18.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "religion-survey",
-      "path": "datasets/religion-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-19",
+      "path": "datasets/march-madness-predictions/data/bracket-19.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "reluctant-trump",
-      "path": "datasets/reluctant-trump/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-20",
+      "path": "datasets/march-madness-predictions/data/bracket-20.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "riddler-castles",
-      "path": "datasets/riddler-castles/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-21",
+      "path": "datasets/march-madness-predictions/data/bracket-21.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "riddler-pick-lowest",
-      "path": "datasets/riddler-pick-lowest/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-22",
+      "path": "datasets/march-madness-predictions/data/bracket-22.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "san-andreas",
-      "path": "datasets/san-andreas/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-23",
+      "path": "datasets/march-madness-predictions/data/bracket-23.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "sandy-311-calls",
-      "path": "datasets/sandy-311-calls/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-24",
+      "path": "datasets/march-madness-predictions/data/bracket-24.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "science-giving",
-      "path": "datasets/science-giving/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-25",
+      "path": "datasets/march-madness-predictions/data/bracket-25.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "scrabble-games",
-      "path": "datasets/scrabble-games/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-26",
+      "path": "datasets/march-madness-predictions/data/bracket-26.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "sleeping-alone-data",
-      "path": "datasets/sleeping-alone-data/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-27",
+      "path": "datasets/march-madness-predictions/data/bracket-27.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "soccer-spi",
-      "path": "datasets/soccer-spi/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-28",
+      "path": "datasets/march-madness-predictions/data/bracket-28.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "special-elections",
-      "path": "datasets/special-elections/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-29",
+      "path": "datasets/march-madness-predictions/data/bracket-29.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "star-wars-survey",
-      "path": "datasets/star-wars-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-30",
+      "path": "datasets/march-madness-predictions/data/bracket-30.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "steak-survey",
-      "path": "datasets/steak-survey/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-31",
+      "path": "datasets/march-madness-predictions/data/bracket-31.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "tarantino",
-      "path": "datasets/tarantino/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-32",
+      "path": "datasets/march-madness-predictions/data/bracket-32.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "tennis-time",
-      "path": "datasets/tennis-time/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-33",
+      "path": "datasets/march-madness-predictions/data/bracket-33.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "tenth-circuit",
-      "path": "datasets/tenth-circuit/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-34",
+      "path": "datasets/march-madness-predictions/data/bracket-34.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "terrorism",
-      "path": "datasets/terrorism/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-35",
+      "path": "datasets/march-madness-predictions/data/bracket-35.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "thanksgiving-2015",
-      "path": "datasets/thanksgiving-2015/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-36",
+      "path": "datasets/march-madness-predictions/data/bracket-36.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "trump-approval-ratings",
-      "path": "datasets/trump-approval-ratings/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-37",
+      "path": "datasets/march-madness-predictions/data/bracket-37.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "trump-news",
-      "path": "datasets/trump-news/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-38",
+      "path": "datasets/march-madness-predictions/data/bracket-38.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "trump-world-trust",
-      "path": "datasets/trump-world-trust/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-39",
+      "path": "datasets/march-madness-predictions/data/bracket-39.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "undefeated-boxers",
-      "path": "datasets/undefeated-boxers/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-40",
+      "path": "datasets/march-madness-predictions/data/bracket-40.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "unisex-names",
-      "path": "datasets/unisex-names/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-41",
+      "path": "datasets/march-madness-predictions/data/bracket-41.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "us-weather-history",
-      "path": "datasets/us-weather-history/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-42",
+      "path": "datasets/march-madness-predictions/data/bracket-42.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "weather-check",
-      "path": "datasets/weather-check/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-43",
+      "path": "datasets/march-madness-predictions/data/bracket-43.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "womens-world-cup-predictions",
-      "path": "datasets/womens-world-cup-predictions/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-44",
+      "path": "datasets/march-madness-predictions/data/bracket-44.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     },
     {
-      "name": "world-cup-predictions",
-      "path": "datasets/world-cup-predictions/datapackage.json",
-      "format": "json",
-      "mediatype": "application/json"
+      "name": "datasets-march-madness-predictions-data-bracket-45",
+      "path": "datasets/march-madness-predictions/data/bracket-45.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-46",
+      "path": "datasets/march-madness-predictions/data/bracket-46.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-47",
+      "path": "datasets/march-madness-predictions/data/bracket-47.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-48",
+      "path": "datasets/march-madness-predictions/data/bracket-48.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-49",
+      "path": "datasets/march-madness-predictions/data/bracket-49.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-50",
+      "path": "datasets/march-madness-predictions/data/bracket-50.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-51",
+      "path": "datasets/march-madness-predictions/data/bracket-51.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-52",
+      "path": "datasets/march-madness-predictions/data/bracket-52.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-53",
+      "path": "datasets/march-madness-predictions/data/bracket-53.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-54",
+      "path": "datasets/march-madness-predictions/data/bracket-54.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-55",
+      "path": "datasets/march-madness-predictions/data/bracket-55.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-56",
+      "path": "datasets/march-madness-predictions/data/bracket-56.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-57",
+      "path": "datasets/march-madness-predictions/data/bracket-57.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-58",
+      "path": "datasets/march-madness-predictions/data/bracket-58.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-59",
+      "path": "datasets/march-madness-predictions/data/bracket-59.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-60",
+      "path": "datasets/march-madness-predictions/data/bracket-60.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-march-madness-predictions-data-bracket-61",
+      "path": "datasets/march-madness-predictions/data/bracket-61.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-marriage-data-both_sexes",
+      "path": "datasets/marriage/data/both_sexes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-marriage-data-divorce",
+      "path": "datasets/marriage/data/divorce.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-marriage-data-men",
+      "path": "datasets/marriage/data/men.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-marriage-data-women",
+      "path": "datasets/marriage/data/women.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-mlb-allstar-teams-data-allstar_player_talent",
+      "path": "datasets/mlb-allstar-teams/data/allstar_player_talent.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-mlb-allstar-teams-data-allstar_team_talent",
+      "path": "datasets/mlb-allstar-teams/data/allstar_team_talent.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-mlb-elo-data-mlb_elo",
+      "path": "datasets/mlb-elo/data/mlb_elo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-adjusted-name-combinations-list",
+      "path": "datasets/most-common-name/data/adjusted-name-combinations-list.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-adjusted-name-combinations-matrix",
+      "path": "datasets/most-common-name/data/adjusted-name-combinations-matrix.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-adjustments",
+      "path": "datasets/most-common-name/data/adjustments.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-aging-curve",
+      "path": "datasets/most-common-name/data/aging-curve.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-independent-name-combinations-by-pop",
+      "path": "datasets/most-common-name/data/independent-name-combinations-by-pop.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-new-top-firstnames",
+      "path": "datasets/most-common-name/data/new-top-firstNames.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-new-top-surnames",
+      "path": "datasets/most-common-name/data/new-top-surnames.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-state-pop",
+      "path": "datasets/most-common-name/data/state-pop.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-most-common-name-data-surnames",
+      "path": "datasets/most-common-name/data/surnames.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-murder_2016-data-murder_2015_final",
+      "path": "datasets/murder_2016/data/murder_2015_final.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-murder_2016-data-murder_2016_prelim",
+      "path": "datasets/murder_2016/data/murder_2016_prelim.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nba-carmelo-data-nba_elo",
+      "path": "datasets/nba-carmelo/data/nba_elo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nba-draft-2015-data-historical_projections",
+      "path": "datasets/nba-draft-2015/data/historical_projections.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nba-elo-data-nbaallelo",
+      "path": "datasets/nba-elo/data/nbaallelo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nba-tattoos-data-nba-tattoos-data",
+      "path": "datasets/nba-tattoos/data/nba-tattoos-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-next-bechdel-data-nextbechdel_alltests",
+      "path": "datasets/next-bechdel/data/nextBechdel_allTests.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-next-bechdel-data-nextbechdel_castgender",
+      "path": "datasets/next-bechdel/data/nextBechdel_castGender.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-next-bechdel-data-nextbechdel_crewgender",
+      "path": "datasets/next-bechdel/data/nextBechdel_crewGender.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-elo-data-nfl_elo",
+      "path": "datasets/nfl-elo/data/nfl_elo.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-fandom-data-nfl_fandom_data-google_trends",
+      "path": "datasets/nfl-fandom/data/NFL_fandom_data-google_trends.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-fandom-data-nfl_fandom_data-surveymonkey",
+      "path": "datasets/nfl-fandom/data/NFL_fandom_data-surveymonkey.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-favorite-team-data-team-picking-categories",
+      "path": "datasets/nfl-favorite-team/data/team-picking-categories.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-suspensions-data-nfl-suspensions-data",
+      "path": "datasets/nfl-suspensions/data/nfl-suspensions-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-ticket-prices-data-2014-average-ticket-price",
+      "path": "datasets/nfl-ticket-prices/data/2014-average-ticket-price.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-ticket-prices-data-jets-buyer",
+      "path": "datasets/nfl-ticket-prices/data/jets-buyer.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-ticket-prices-data-national-average",
+      "path": "datasets/nfl-ticket-prices/data/national-average.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-wide-receivers-data-advanced-historical",
+      "path": "datasets/nfl-wide-receivers/data/advanced-historical.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nfl-wide-receivers-data-try-per-game-aging-curve",
+      "path": "datasets/nfl-wide-receivers/data/try-per-game-aging-curve.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nutrition-studies-data-p_values_analysis",
+      "path": "datasets/nutrition-studies/data/p_values_analysis.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-nutrition-studies-data-raw_anonymized_data",
+      "path": "datasets/nutrition-studies/data/raw_anonymized_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-obama-commutations-data-obama_commutations",
+      "path": "datasets/obama-commutations/data/obama_commutations.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-pew-religions-data-current",
+      "path": "datasets/pew-religions/data/current.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-police-deaths-data-all_data",
+      "path": "datasets/police-deaths/data/all_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-police-deaths-data-clean_data",
+      "path": "datasets/police-deaths/data/clean_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-police-killings-data-police_killings",
+      "path": "datasets/police-killings/data/police_killings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-police-locals-data-police-locals",
+      "path": "datasets/police-locals/data/police-locals.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-poll-quiz-guns-data-guns-polls",
+      "path": "datasets/poll-quiz-guns/data/guns-polls.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-pollster-ratings-data-pollster-ratings",
+      "path": "datasets/pollster-ratings/data/pollster-ratings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-pollster-ratings-data-raw-polls",
+      "path": "datasets/pollster-ratings/data/raw-polls.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-presidential-campaign-trail-data-clinton",
+      "path": "datasets/presidential-campaign-trail/data/clinton.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-presidential-campaign-trail-data-trump",
+      "path": "datasets/presidential-campaign-trail/data/trump.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-presidential-commencement-speeches-data-commencement_speeches",
+      "path": "datasets/presidential-commencement-speeches/data/commencement_speeches.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-google_trends",
+      "path": "datasets/puerto-rico-media/data/google_trends.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-mediacloud_hurricanes",
+      "path": "datasets/puerto-rico-media/data/mediacloud_hurricanes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-mediacloud_states",
+      "path": "datasets/puerto-rico-media/data/mediacloud_states.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-mediacloud_top_online_news",
+      "path": "datasets/puerto-rico-media/data/mediacloud_top_online_news.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-mediacloud_trump",
+      "path": "datasets/puerto-rico-media/data/mediacloud_trump.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-tv_hurricanes",
+      "path": "datasets/puerto-rico-media/data/tv_hurricanes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-tv_hurricanes_by_network",
+      "path": "datasets/puerto-rico-media/data/tv_hurricanes_by_network.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-puerto-rico-media-data-tv_states",
+      "path": "datasets/puerto-rico-media/data/tv_states.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-pulitzer-data-pulitzer-circulation-data",
+      "path": "datasets/pulitzer/data/pulitzer-circulation-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-rare-pepes-data-blocks_timestamps",
+      "path": "datasets/rare-pepes/data/blocks_timestamps.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-rare-pepes-data-ordermatches_all",
+      "path": "datasets/rare-pepes/data/ordermatches_all.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-rare-pepes-data-pepecash_prices",
+      "path": "datasets/rare-pepes/data/pepecash_prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-rare-pepes-data-xcp_prices",
+      "path": "datasets/rare-pepes/data/xcp_prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-region-survey-data-midwest",
+      "path": "datasets/region-survey/data/MIDWEST.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-region-survey-data-south",
+      "path": "datasets/region-survey/data/SOUTH.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-religion-survey-data-religion-survey-results",
+      "path": "datasets/religion-survey/data/religion-survey-results.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-reluctant-trump-data-february_2018_rawdata",
+      "path": "datasets/reluctant-trump/data/february_2018_rawdata.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-riddler-castles-data-castle-solutions-2",
+      "path": "datasets/riddler-castles/data/castle-solutions-2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-riddler-castles-data-castle-solutions",
+      "path": "datasets/riddler-castles/data/castle-solutions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-riddler-pick-lowest-data-low_numbers",
+      "path": "datasets/riddler-pick-lowest/data/low_numbers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-san-andreas-data-earthquake_data",
+      "path": "datasets/san-andreas/data/earthquake_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-sandy-311-calls-data-sandy-311-calls-by-day",
+      "path": "datasets/sandy-311-calls/data/sandy-311-calls-by-day.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-science-giving-data-science_federal_giving",
+      "path": "datasets/science-giving/data/science_federal_giving.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-scrabble-games-data-scrabble_games",
+      "path": "datasets/scrabble-games/data/scrabble_games.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-sleeping-alone-data-data-sleeping-alone-data",
+      "path": "datasets/sleeping-alone-data/data/sleeping-alone-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-soccer-spi-data-spi_global_rankings",
+      "path": "datasets/soccer-spi/data/spi_global_rankings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-soccer-spi-data-spi_matches",
+      "path": "datasets/soccer-spi/data/spi_matches.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-special-elections-data-special-elections",
+      "path": "datasets/special-elections/data/special-elections.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-star-wars-survey-data-starwars",
+      "path": "datasets/star-wars-survey/data/StarWars.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-steak-survey-data-steak-risk-survey",
+      "path": "datasets/steak-survey/data/steak-risk-survey.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-tarantino-data-tarantino",
+      "path": "datasets/tarantino/data/tarantino.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-tennis-time-data-events_time",
+      "path": "datasets/tennis-time/data/events_time.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-tennis-time-data-players_time",
+      "path": "datasets/tennis-time/data/players_time.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-tennis-time-data-serve_times",
+      "path": "datasets/tennis-time/data/serve_times.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-tenth-circuit-data-tenth-circuit",
+      "path": "datasets/tenth-circuit/data/tenth-circuit.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-terrorism-data-country_stats_1993_appendix2",
+      "path": "datasets/terrorism/data/country_stats_1993_appendix2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-terrorism-data-eu_terrorism_fatalities_by_country",
+      "path": "datasets/terrorism/data/eu_terrorism_fatalities_by_country.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-terrorism-data-eu_terrorism_fatalities_by_year",
+      "path": "datasets/terrorism/data/eu_terrorism_fatalities_by_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-terrorism-data-france_terrorism_fatalities_by_year",
+      "path": "datasets/terrorism/data/france_terrorism_fatalities_by_year.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-thanksgiving-2015-data-thanksgiving-2015-poll-data",
+      "path": "datasets/thanksgiving-2015/data/thanksgiving-2015-poll-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-approval-ratings-data-approval_polllist",
+      "path": "datasets/trump-approval-ratings/data/approval_polllist.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-approval-ratings-data-approval_topline",
+      "path": "datasets/trump-approval-ratings/data/approval_topline.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-news-data-trump_news_data",
+      "path": "datasets/trump-news/data/trump_news_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-issue-1",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-issue-1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-issue-2",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-issue-2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-issue-3",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-issue-3.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-issue-4",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-issue-4.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-issue-5",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-issue-5.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-pres",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-pres.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-trump-world-trust-data-trumpworld-us",
+      "path": "datasets/trump-world-trust/data/TRUMPWORLD-us.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-undefeated-boxers-data-undefeated",
+      "path": "datasets/undefeated-boxers/data/undefeated.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-unisex-names-data-aging_curve",
+      "path": "datasets/unisex-names/data/aging_curve.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-unisex-names-data-unisex_names_table",
+      "path": "datasets/unisex-names/data/unisex_names_table.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kclt",
+      "path": "datasets/us-weather-history/data/KCLT.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kcqt",
+      "path": "datasets/us-weather-history/data/KCQT.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-khou",
+      "path": "datasets/us-weather-history/data/KHOU.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kind",
+      "path": "datasets/us-weather-history/data/KIND.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kjax",
+      "path": "datasets/us-weather-history/data/KJAX.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kmdw",
+      "path": "datasets/us-weather-history/data/KMDW.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-knyc",
+      "path": "datasets/us-weather-history/data/KNYC.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kphl",
+      "path": "datasets/us-weather-history/data/KPHL.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-kphx",
+      "path": "datasets/us-weather-history/data/KPHX.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-us-weather-history-data-ksea",
+      "path": "datasets/us-weather-history/data/KSEA.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-weather-check-data-weather-check",
+      "path": "datasets/weather-check/data/weather-check.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150602-093000",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150602-093000.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150606-200029",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150606-200029.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150606-230045",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150606-230045.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150607-150137",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150607-150137.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150607-180420",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150607-180420.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150608-175420",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-175420.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150608-210138",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-210138.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150608-212619",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-212619.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150608-235509",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150608-235509.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150609-145605",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-145605.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150609-175933",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-175933.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150609-205725",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150609-205725.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150611-182114",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-182114.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150611-200059",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-200059.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150611-210229",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-210229.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150611-232844",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150611-232844.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150612-185329",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-185329.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150612-205525",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-205525.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150612-215533",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-215533.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150612-235650",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150612-235650.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150613-145639",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-145639.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150613-175552",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-175552.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150613-205441",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150613-205441.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150615-175745",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150615-175745.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150615-213540",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150615-213540.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150616-190139",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150616-190139.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150616-220036",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150616-220036.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150617-175941",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150617-175941.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150617-210614",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150617-210614.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150620-180614",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150620-180614.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150620-213513",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150620-213513.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150621-145724",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-145724.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150621-175918",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-175918.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150621-213134",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150621-213134.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150622-185345",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150622-185345.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150622-215702",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150622-215702.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150623-235546",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150623-235546.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150626-184421",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150626-184421.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150626-212544",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150626-212544.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150627-180119",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150627-180119.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150627-213532",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150627-213532.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150630-210243",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150630-210243.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150701-205548",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150701-205548.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-forecast-20150705-205539",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-forecast-20150705-205539.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150602-093000",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150602-093000.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150606-200029",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150606-200029.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150606-230045",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150606-230045.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150607-150137",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150607-150137.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150607-180420",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150607-180420.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150608-175420",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150608-175420.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150608-210138",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150608-210138.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150608-212619",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150608-212619.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150608-235509",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150608-235509.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150609-145605",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150609-145605.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150609-175933",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150609-175933.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150609-205725",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150609-205725.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150611-182114",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150611-182114.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150611-200059",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150611-200059.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150611-210229",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150611-210229.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150611-232844",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150611-232844.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150612-185329",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150612-185329.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150612-205525",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150612-205525.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150612-215533",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150612-215533.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150612-235650",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150612-235650.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150613-145639",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150613-145639.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150613-175552",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150613-175552.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150613-205441",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150613-205441.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150615-175745",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150615-175745.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150615-213540",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150615-213540.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150616-190139",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150616-190139.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150616-220036",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150616-220036.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150617-175941",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150617-175941.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150617-210614",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150617-210614.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150620-180614",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150620-180614.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150620-213513",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150620-213513.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150621-145724",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150621-145724.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150621-175918",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150621-175918.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150621-213134",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150621-213134.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150622-185345",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150622-185345.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150622-215702",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150622-215702.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150623-235546",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150623-235546.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150626-184421",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150626-184421.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150626-212544",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150626-212544.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150627-180119",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150627-180119.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150627-213532",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150627-213532.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150630-210243",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150630-210243.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150701-205548",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150701-205548.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-womens-world-cup-predictions-data-wwc-matches-20150705-205539",
+      "path": "datasets/womens-world-cup-predictions/data/wwc-matches-20150705-205539.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140609-140000",
+      "path": "datasets/world-cup-predictions/data/wc-20140609-140000.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140611-132709",
+      "path": "datasets/world-cup-predictions/data/wc-20140611-132709.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140612-094254",
+      "path": "datasets/world-cup-predictions/data/wc-20140612-094254.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140612-220228",
+      "path": "datasets/world-cup-predictions/data/wc-20140612-220228.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140613-091928",
+      "path": "datasets/world-cup-predictions/data/wc-20140613-091928.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140613-180212",
+      "path": "datasets/world-cup-predictions/data/wc-20140613-180212.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140613-205820",
+      "path": "datasets/world-cup-predictions/data/wc-20140613-205820.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140614-000045",
+      "path": "datasets/world-cup-predictions/data/wc-20140614-000045.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140614-091756",
+      "path": "datasets/world-cup-predictions/data/wc-20140614-091756.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140614-180027",
+      "path": "datasets/world-cup-predictions/data/wc-20140614-180027.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140614-210740",
+      "path": "datasets/world-cup-predictions/data/wc-20140614-210740.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140615-001554",
+      "path": "datasets/world-cup-predictions/data/wc-20140615-001554.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140615-030217",
+      "path": "datasets/world-cup-predictions/data/wc-20140615-030217.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140615-092237",
+      "path": "datasets/world-cup-predictions/data/wc-20140615-092237.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140615-180820",
+      "path": "datasets/world-cup-predictions/data/wc-20140615-180820.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140615-210736",
+      "path": "datasets/world-cup-predictions/data/wc-20140615-210736.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140616-100604",
+      "path": "datasets/world-cup-predictions/data/wc-20140616-100604.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140616-182949",
+      "path": "datasets/world-cup-predictions/data/wc-20140616-182949.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140616-185551",
+      "path": "datasets/world-cup-predictions/data/wc-20140616-185551.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140616-205307",
+      "path": "datasets/world-cup-predictions/data/wc-20140616-205307.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140617-000315",
+      "path": "datasets/world-cup-predictions/data/wc-20140617-000315.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140617-091836",
+      "path": "datasets/world-cup-predictions/data/wc-20140617-091836.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140617-175702",
+      "path": "datasets/world-cup-predictions/data/wc-20140617-175702.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140617-205249",
+      "path": "datasets/world-cup-predictions/data/wc-20140617-205249.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140617-235154",
+      "path": "datasets/world-cup-predictions/data/wc-20140617-235154.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140618-100110",
+      "path": "datasets/world-cup-predictions/data/wc-20140618-100110.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140618-175722",
+      "path": "datasets/world-cup-predictions/data/wc-20140618-175722.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140618-210231",
+      "path": "datasets/world-cup-predictions/data/wc-20140618-210231.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140618-235413",
+      "path": "datasets/world-cup-predictions/data/wc-20140618-235413.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140619-091907",
+      "path": "datasets/world-cup-predictions/data/wc-20140619-091907.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140619-180248",
+      "path": "datasets/world-cup-predictions/data/wc-20140619-180248.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140619-205931",
+      "path": "datasets/world-cup-predictions/data/wc-20140619-205931.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140619-235903",
+      "path": "datasets/world-cup-predictions/data/wc-20140619-235903.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140620-094015",
+      "path": "datasets/world-cup-predictions/data/wc-20140620-094015.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140620-175706",
+      "path": "datasets/world-cup-predictions/data/wc-20140620-175706.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140620-205534",
+      "path": "datasets/world-cup-predictions/data/wc-20140620-205534.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140620-235753",
+      "path": "datasets/world-cup-predictions/data/wc-20140620-235753.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140621-092639",
+      "path": "datasets/world-cup-predictions/data/wc-20140621-092639.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140621-175630",
+      "path": "datasets/world-cup-predictions/data/wc-20140621-175630.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140621-205738",
+      "path": "datasets/world-cup-predictions/data/wc-20140621-205738.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140621-235521",
+      "path": "datasets/world-cup-predictions/data/wc-20140621-235521.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140622-091255",
+      "path": "datasets/world-cup-predictions/data/wc-20140622-091255.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140622-175429",
+      "path": "datasets/world-cup-predictions/data/wc-20140622-175429.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140622-205351",
+      "path": "datasets/world-cup-predictions/data/wc-20140622-205351.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140622-235721",
+      "path": "datasets/world-cup-predictions/data/wc-20140622-235721.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140623-095120",
+      "path": "datasets/world-cup-predictions/data/wc-20140623-095120.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140623-175427",
+      "path": "datasets/world-cup-predictions/data/wc-20140623-175427.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140623-220333",
+      "path": "datasets/world-cup-predictions/data/wc-20140623-220333.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140624-100611",
+      "path": "datasets/world-cup-predictions/data/wc-20140624-100611.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140624-181518",
+      "path": "datasets/world-cup-predictions/data/wc-20140624-181518.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140625-091929",
+      "path": "datasets/world-cup-predictions/data/wc-20140625-091929.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140625-180355",
+      "path": "datasets/world-cup-predictions/data/wc-20140625-180355.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140625-220012",
+      "path": "datasets/world-cup-predictions/data/wc-20140625-220012.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140626-095930",
+      "path": "datasets/world-cup-predictions/data/wc-20140626-095930.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140626-180150",
+      "path": "datasets/world-cup-predictions/data/wc-20140626-180150.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140626-221022",
+      "path": "datasets/world-cup-predictions/data/wc-20140626-221022.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140627-100126",
+      "path": "datasets/world-cup-predictions/data/wc-20140627-100126.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140628-094211",
+      "path": "datasets/world-cup-predictions/data/wc-20140628-094211.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140628-185951",
+      "path": "datasets/world-cup-predictions/data/wc-20140628-185951.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140628-215357",
+      "path": "datasets/world-cup-predictions/data/wc-20140628-215357.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140629-091813",
+      "path": "datasets/world-cup-predictions/data/wc-20140629-091813.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140629-180901",
+      "path": "datasets/world-cup-predictions/data/wc-20140629-180901.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140629-225940",
+      "path": "datasets/world-cup-predictions/data/wc-20140629-225940.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140630-095330",
+      "path": "datasets/world-cup-predictions/data/wc-20140630-095330.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140630-175910",
+      "path": "datasets/world-cup-predictions/data/wc-20140630-175910.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140630-223910",
+      "path": "datasets/world-cup-predictions/data/wc-20140630-223910.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140701-092605",
+      "path": "datasets/world-cup-predictions/data/wc-20140701-092605.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140701-184332",
+      "path": "datasets/world-cup-predictions/data/wc-20140701-184332.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140701-224103",
+      "path": "datasets/world-cup-predictions/data/wc-20140701-224103.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140702-094046",
+      "path": "datasets/world-cup-predictions/data/wc-20140702-094046.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140703-094053",
+      "path": "datasets/world-cup-predictions/data/wc-20140703-094053.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140704-180211",
+      "path": "datasets/world-cup-predictions/data/wc-20140704-180211.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140704-220110",
+      "path": "datasets/world-cup-predictions/data/wc-20140704-220110.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140705-093245",
+      "path": "datasets/world-cup-predictions/data/wc-20140705-093245.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140705-225331",
+      "path": "datasets/world-cup-predictions/data/wc-20140705-225331.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140706-091537",
+      "path": "datasets/world-cup-predictions/data/wc-20140706-091537.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140707-100337",
+      "path": "datasets/world-cup-predictions/data/wc-20140707-100337.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140708-092538",
+      "path": "datasets/world-cup-predictions/data/wc-20140708-092538.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140708-215459",
+      "path": "datasets/world-cup-predictions/data/wc-20140708-215459.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140709-095047",
+      "path": "datasets/world-cup-predictions/data/wc-20140709-095047.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140709-231617",
+      "path": "datasets/world-cup-predictions/data/wc-20140709-231617.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140710-164509",
+      "path": "datasets/world-cup-predictions/data/wc-20140710-164509.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140711-102258",
+      "path": "datasets/world-cup-predictions/data/wc-20140711-102258.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "datasets-world-cup-predictions-data-wc-20140713-113900",
+      "path": "datasets/world-cup-predictions/data/wc-20140713-113900.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource"
     }
   ],
   "version": "0.1.0"
