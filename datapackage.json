@@ -1,0 +1,29 @@
+{
+  "name": "five-thirty-eight-datasets",
+  "title": "FiveThirtyEight Datasets Collection",
+  "description": "Collection dataset containing over 100 FiveThirtyEight topic datasets mirrored from the official repository.",
+  "profile": "data-package",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FiveThirtyEight Data Repository",
+      "path": "https://github.com/fivethirtyeight/data",
+      "title": "fivethirtyeight/data"
+    }
+  ],
+  "resources": [
+    {
+      "name": "source-dataset-links",
+      "path": "generated_links.txt",
+      "format": "txt",
+      "mediatype": "text/plain"
+    }
+  ],
+  "version": "0.1.0"
+}
