@@ -1,7 +1,7 @@
 {
   "name": "five-thirty-eight-datasets",
   "title": "FiveThirtyEight Datasets Collection",
-  "description": "Collection dataset containing over 100 FiveThirtyEight topic datasets mirrored from the official repository.",
+  "description": "Collection dataset containing sub-dataset descriptors under the datasets/ directory for FiveThirtyEight topic datasets.",
   "profile": "data-package",
   "licenses": [
     {
@@ -19,10 +19,610 @@
   ],
   "resources": [
     {
-      "name": "source-dataset-links",
-      "path": "generated_links.txt",
-      "format": "txt",
-      "mediatype": "text/plain"
+      "name": "ahca-polls",
+      "path": "datasets/ahca-polls/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "airline-safety",
+      "path": "datasets/airline-safety/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "alcohol-consumption",
+      "path": "datasets/alcohol-consumption/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "antiquities-act",
+      "path": "datasets/antiquities-act/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "avengers",
+      "path": "datasets/avengers/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "bachelorette",
+      "path": "datasets/bachelorette/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "bad-drivers",
+      "path": "datasets/bad-drivers/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "bechdel",
+      "path": "datasets/bechdel/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "biopics",
+      "path": "datasets/biopics/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "births",
+      "path": "datasets/births/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "bob-ross",
+      "path": "datasets/bob-ross/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "candy-power-ranking",
+      "path": "datasets/candy-power-ranking/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "chess-transfers",
+      "path": "datasets/chess-transfers/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "classic-rock",
+      "path": "datasets/classic-rock/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "college-majors",
+      "path": "datasets/college-majors/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "comic-characters",
+      "path": "datasets/comic-characters/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "comma-survey",
+      "path": "datasets/comma-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "congress-age",
+      "path": "datasets/congress-age/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "congress-generic-ballot",
+      "path": "datasets/congress-generic-ballot/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "congress-resignations",
+      "path": "datasets/congress-resignations/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "congress-trump-score",
+      "path": "datasets/congress-trump-score/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "cousin-marriage",
+      "path": "datasets/cousin-marriage/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "daily-show-guests",
+      "path": "datasets/daily-show-guests/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "democratic-bench",
+      "path": "datasets/democratic-bench/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "drug-use-by-age",
+      "path": "datasets/drug-use-by-age/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "early-senate-polls",
+      "path": "datasets/early-senate-polls/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "elo-blatter",
+      "path": "datasets/elo-blatter/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "endorsements-june-30",
+      "path": "datasets/endorsements-june-30/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "fandango",
+      "path": "datasets/fandango/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "fifa",
+      "path": "datasets/fifa/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "flying-etiquette-survey",
+      "path": "datasets/flying-etiquette-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "food-world-cup",
+      "path": "datasets/food-world-cup/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "forecast-methodology",
+      "path": "datasets/forecast-methodology/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "goose",
+      "path": "datasets/goose/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "hate-crimes",
+      "path": "datasets/hate-crimes/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "hip-hop-candidate-lyrics",
+      "path": "datasets/hip-hop-candidate-lyrics/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "historical-ncaa-forecasts",
+      "path": "datasets/historical-ncaa-forecasts/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "inconvenient-sequel",
+      "path": "datasets/inconvenient-sequel/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "infrastructure-jobs",
+      "path": "datasets/infrastructure-jobs/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "librarians",
+      "path": "datasets/librarians/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "love-actually",
+      "path": "datasets/love-actually/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "mad-men",
+      "path": "datasets/mad-men/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "march-madness-predictions",
+      "path": "datasets/march-madness-predictions/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "march-madness-predictions-2018",
+      "path": "datasets/march-madness-predictions-2018/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "marriage",
+      "path": "datasets/marriage/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "mlb-allstar-teams",
+      "path": "datasets/mlb-allstar-teams/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "mlb-elo",
+      "path": "datasets/mlb-elo/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "most-common-name",
+      "path": "datasets/most-common-name/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "murder_2016",
+      "path": "datasets/murder_2016/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nba-carmelo",
+      "path": "datasets/nba-carmelo/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nba-draft-2015",
+      "path": "datasets/nba-draft-2015/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nba-elo",
+      "path": "datasets/nba-elo/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nba-tattoos",
+      "path": "datasets/nba-tattoos/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "next-bechdel",
+      "path": "datasets/next-bechdel/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-elo",
+      "path": "datasets/nfl-elo/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-fandom",
+      "path": "datasets/nfl-fandom/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-favorite-team",
+      "path": "datasets/nfl-favorite-team/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-suspensions",
+      "path": "datasets/nfl-suspensions/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-ticket-prices",
+      "path": "datasets/nfl-ticket-prices/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nfl-wide-receivers",
+      "path": "datasets/nfl-wide-receivers/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "nutrition-studies",
+      "path": "datasets/nutrition-studies/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "obama-commutations",
+      "path": "datasets/obama-commutations/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "pew-religions",
+      "path": "datasets/pew-religions/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "police-deaths",
+      "path": "datasets/police-deaths/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "police-killings",
+      "path": "datasets/police-killings/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "police-locals",
+      "path": "datasets/police-locals/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "poll-quiz-guns",
+      "path": "datasets/poll-quiz-guns/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "pollster-ratings",
+      "path": "datasets/pollster-ratings/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "presidential-campaign-trail",
+      "path": "datasets/presidential-campaign-trail/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "presidential-commencement-speeches",
+      "path": "datasets/presidential-commencement-speeches/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "puerto-rico-media",
+      "path": "datasets/puerto-rico-media/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "pulitzer",
+      "path": "datasets/pulitzer/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "rare-pepes",
+      "path": "datasets/rare-pepes/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "region-survey",
+      "path": "datasets/region-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "religion-survey",
+      "path": "datasets/religion-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "reluctant-trump",
+      "path": "datasets/reluctant-trump/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "riddler-castles",
+      "path": "datasets/riddler-castles/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "riddler-pick-lowest",
+      "path": "datasets/riddler-pick-lowest/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "san-andreas",
+      "path": "datasets/san-andreas/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "sandy-311-calls",
+      "path": "datasets/sandy-311-calls/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "science-giving",
+      "path": "datasets/science-giving/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "scrabble-games",
+      "path": "datasets/scrabble-games/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "sleeping-alone-data",
+      "path": "datasets/sleeping-alone-data/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "soccer-spi",
+      "path": "datasets/soccer-spi/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "special-elections",
+      "path": "datasets/special-elections/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "star-wars-survey",
+      "path": "datasets/star-wars-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "steak-survey",
+      "path": "datasets/steak-survey/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "tarantino",
+      "path": "datasets/tarantino/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "tennis-time",
+      "path": "datasets/tennis-time/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "tenth-circuit",
+      "path": "datasets/tenth-circuit/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "terrorism",
+      "path": "datasets/terrorism/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "thanksgiving-2015",
+      "path": "datasets/thanksgiving-2015/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "trump-approval-ratings",
+      "path": "datasets/trump-approval-ratings/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "trump-news",
+      "path": "datasets/trump-news/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "trump-world-trust",
+      "path": "datasets/trump-world-trust/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "undefeated-boxers",
+      "path": "datasets/undefeated-boxers/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "unisex-names",
+      "path": "datasets/unisex-names/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "us-weather-history",
+      "path": "datasets/us-weather-history/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "weather-check",
+      "path": "datasets/weather-check/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "womens-world-cup-predictions",
+      "path": "datasets/womens-world-cup-predictions/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "world-cup-predictions",
+      "path": "datasets/world-cup-predictions/datapackage.json",
+      "format": "json",
+      "mediatype": "application/json"
     }
   ],
   "version": "0.1.0"
